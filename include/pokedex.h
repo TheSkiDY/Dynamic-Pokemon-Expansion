@@ -1007,7 +1007,29 @@ enum
 #define NATIONAL_DEX_GLASTRIER 896
 #define NATIONAL_DEX_SPECTRIER 897
 #define NATIONAL_DEX_CALYREX 898
-#define NATIONAL_DEX_UNKNOWN 899
+
+#define NATIONAL_DEX_EPEP 899
+#define NATIONAL_DEX_CLOCKOG 900
+#define NATIONAL_DEX_CEBULACK 901
+#define NATIONAL_DEX_CEBULBA 902
+#define NATIONAL_DEX_CEBOGRE 903
+#define NATIONAL_DEX_TUCAM 904
+#define NATIONAL_DEX_BUDOC 905
+#define NATIONAL_DEX_DEMOLETT 906
+#define NATIONAL_DEX_SHARIK 907
+#define NATIONAL_DEX_SHARKADE 908
+#define NATIONAL_DEX_SHARKANO 909
+#define NATIONAL_DEX_FARPUSSD 910
+#define NATIONAL_DEX_FARAWAYD 911
+#define NATIONAL_DEX_FARQUAAD 912
+#define NATIONAL_DEX_MOLEKID 913
+#define NATIONAL_DEX_MOLEBULK 914
+#define NATIONAL_DEX_NAH 915
+#define NATIONAL_DEX_RABBLIT 916
+#define NATIONAL_DEX_PYROSE 917
+#define NATIONAL_DEX_DOYEBUNNY 918
+
+#define NATIONAL_DEX_UNKNOWN 919
 
 #define FINAL_DEX_ENTRY NATIONAL_DEX_UNKNOWN //Not +1 b/c used like this for some asm
 #define NATIONAL_DEX_COUNT FINAL_DEX_ENTRY + 1
@@ -1596,3 +1618,58 @@ extern const u8 DEX_ENTRY_GLASTRIER[];
 extern const u8 DEX_ENTRY_SPECTRIER[];
 extern const u8 DEX_ENTRY_CALYREX_ICE[];
 extern const u8 DEX_ENTRY_CALYREX_GHOST[];
+
+extern const u8 DEX_ENTRY_BEEDRILL_S[];
+extern const u8 DEX_ENTRY_EPEP[];
+extern const u8 DEX_ENTRY_SANDSHREW_S[];
+extern const u8 DEX_ENTRY_SANDSLASH_S[];
+extern const u8 DEX_ENTRY_CLOCKOG[];
+extern const u8 DEX_ENTRY_ZUBAT_S[];
+extern const u8 DEX_ENTRY_GOLBAT_S[];
+extern const u8 DEX_ENTRY_CROBAT_S[];
+extern const u8 DEX_ENTRY_CEBULACK[];
+extern const u8 DEX_ENTRY_CEBULBA[];
+extern const u8 DEX_ENTRY_CEBOGRE[];
+extern const u8 DEX_ENTRY_TUCAM[];
+extern const u8 DEX_ENTRY_PARASECT_S[];
+extern const u8 DEX_ENTRY_BUDOC[];
+extern const u8 DEX_ENTRY_DEMOLETT[];
+extern const u8 DEX_ENTRY_SHARIK[];
+extern const u8 DEX_ENTRY_SHARKADE[];
+extern const u8 DEX_ENTRY_SHARKANO[];
+extern const u8 DEX_ENTRY_AXEW_S[];
+extern const u8 DEX_ENTRY_FRAXURE_S[];
+extern const u8 DEX_ENTRY_HAXORUS_S[];
+extern const u8 DEX_ENTRY_GEODUDE_S[];
+extern const u8 DEX_ENTRY_GRAVELER_S[];
+extern const u8 DEX_ENTRY_GOLEM_S[];
+extern const u8 DEX_ENTRY_DODUO_S[];
+extern const u8 DEX_ENTRY_DODRIO_S[];
+extern const u8 DEX_ENTRY_FARPUSSD[];
+extern const u8 DEX_ENTRY_FARAWAYD[];
+extern const u8 DEX_ENTRY_FARQUAAD[];
+extern const u8 DEX_ENTRY_GRIMER_S[];
+extern const u8 DEX_ENTRY_MUK_S[];
+extern const u8 DEX_ENTRY_GASTLY_S[];
+extern const u8 DEX_ENTRY_HAUNTER_S[];
+extern const u8 DEX_ENTRY_GENGAR_S[];
+extern const u8 DEX_ENTRY_VOLTORB_S[];
+extern const u8 DEX_ENTRY_ELECTRODE_S[];
+extern const u8 DEX_ENTRY_KOFFING_S[];
+extern const u8 DEX_ENTRY_WEEZING_S[];
+extern const u8 DEX_ENTRY_MOLEKID[];
+extern const u8 DEX_ENTRY_MOLEBULK[];
+extern const u8 DEX_ENTRY_KANGASKHAN_S[];
+extern const u8 DEX_ENTRY_SCYTHER_S[];
+extern const u8 DEX_ENTRY_PINSIR_S[];
+extern const u8 DEX_ENTRY_HERACROSS_S[];
+extern const u8 DEX_ENTRY_MAGBY_S[];
+extern const u8 DEX_ENTRY_MAGMAR_S[];
+extern const u8 DEX_ENTRY_MAGMORTAR_S[];
+extern const u8 DEX_ENTRY_KOMALA_S[];
+extern const u8 DEX_ENTRY_SNORLAX_S[];
+extern const u8 DEX_ENTRY_NAH[];
+extern const u8 DEX_ENTRY_RABBLIT[];
+extern const u8 DEX_ENTRY_PYROSE[];
+extern const u8 DEX_ENTRY_DOYEBUNNY[];
+extern const u8 DEX_ENTRY_MARACTUS_S[];
