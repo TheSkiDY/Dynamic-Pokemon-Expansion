@@ -50,11 +50,6 @@ Address = 0x24F1A0
 Format = '''^[name""7]18'''
 
 [[NamedAnchors]]
-Name = '''data.abilities.descriptions'''
-Address = 0x1408964
-Format = '''[description<"">]data.abilities.names'''
-
-[[NamedAnchors]]
 Name = '''scripts.text.multichoice'''
 Address = 0x3E04B0
 Format = '''[options<[text<""> unused::]/count> count::]32'''
@@ -120,19 +115,9 @@ Address = 0x3F2EE0
 Format = '''[bank. map. flight.]108'''
 
 [[NamedAnchors]]
-Name = '''scripts.moves.effects'''
-Address = 0x1437708
-Format = '''[effect<`bse`>]moveeffects'''
-
-[[NamedAnchors]]
 Name = '''graphics.pokemon.sprites.coordinates.back'''
 Address = 0x196D478
 Format = '''[size. yOffset. unused:]data.pokemon.names+28'''
-
-[[NamedAnchors]]
-Name = '''scripts.battle.thumb'''
-Address = 0x1437120
-Format = '''[code<>]248'''
 
 [[NamedAnchors]]
 Name = '''data.pokedex.stats'''
@@ -215,11 +200,6 @@ Address = 0x440124
 Format = '''`lzs4x8x4|graphics.townmap.catchmap.palette`'''
 
 [[NamedAnchors]]
-Name = '''graphics.pokemon.moves.animations'''
-Address = 0x140A880
-Format = '''[animation<`ase`>]data.pokemon.moves.names'''
-
-[[NamedAnchors]]
 Name = '''graphics.moves.particles.sprites'''
 Address = 0x3ACC08
 Format = '''[ptr<`lzt4`> size: index:]289'''
@@ -228,11 +208,6 @@ Format = '''[ptr<`lzt4`> size: index:]289'''
 Name = '''graphics.moves.particles.palettes'''
 Address = 0x3AD510
 Format = '''[ptr<`lzp4`> index: unused:]graphics.moves.particles.sprites'''
-
-[[NamedAnchors]]
-Name = '''graphics.moves.surf.palette'''
-Address = 0x14F9148
-Format = '''`lzp4`'''
 
 [[NamedAnchors]]
 Name = '''graphics.moves.surf.tileset'''
@@ -470,16 +445,6 @@ Address = 0x471E8C
 Format = '''[sprite<`ucs4x3x3`> pal<`ucp4`>]10'''
 
 [[NamedAnchors]]
-Name = '''graphics.bag.male'''
-Address = 0xB008E0
-Format = '''`lzs4x8x8|graphics.bag.palette`'''
-
-[[NamedAnchors]]
-Name = '''graphics.bag.female'''
-Address = 0xB014B0
-Format = '''`lzs4x8x8|graphics.bag.palette`'''
-
-[[NamedAnchors]]
 Name = '''graphics.bag.palette'''
 Address = 0xE84560
 Format = '''`lzp4`'''
@@ -498,11 +463,6 @@ Format = '''`lzs4x8x8|graphics.bag.berrycase.palette`'''
 Name = '''graphics.bag.inside1.palette'''
 Address = 0xE835B4
 Format = '''`lzp4`'''
-
-[[NamedAnchors]]
-Name = '''graphics.bag.inside1.tileset'''
-Address = 0xB00000
-Format = '''`lzt4|graphics.bag.inside1.palette`'''
 
 [[NamedAnchors]]
 Name = '''graphics.bag.inside1.berry.palette'''
@@ -553,21 +513,6 @@ Format = '''`lzm4x32x32|graphics.bag.inside3.tileset`'''
 Name = '''graphics.bag.inside3.tilemap2'''
 Address = 0xE86038
 Format = '''`lzm4x32x32|graphics.bag.inside3.tileset`'''
-
-[[NamedAnchors]]
-Name = '''graphics.menu.pokeball.palette'''
-Address = 0xE82DB4
-Format = '''`lzp4`'''
-
-[[NamedAnchors]]
-Name = '''graphics.menu.pokeball.large'''
-Address = 0xE82C00
-Format = '''`lzs4x4x8|graphics.menu.pokeball.palette`'''
-
-[[NamedAnchors]]
-Name = '''graphics.menu.pokeball.small'''
-Address = 0xE82DD8
-Format = '''`lzs4x2x4|graphics.menu.pokeball.palette`'''
 
 [[NamedAnchors]]
 Name = '''graphics.menu.status.palette'''
@@ -658,11 +603,6 @@ Format = '''`lzs4x8x8|graphics.menu.partyscreen.selection.palette`'''
 Name = '''graphics.menu.pokemon.background.tileset'''
 Address = 0xE82700
 Format = '''`lzt4|graphics.menu.pokemon.background.palette`'''
-
-[[NamedAnchors]]
-Name = '''graphics.menu.pokemon.background.tilemap'''
-Address = 0xE82A80
-Format = '''`lzm4x32x32|graphics.menu.pokemon.background.tileset`'''
 
 [[NamedAnchors]]
 Name = '''graphics.menu.boxes'''
@@ -1598,14 +1538,12 @@ Name = '''scripts.daycare.exp.multiplier'''
 Address = 0x0462E8
 Length = 1
 Offset = 0
-Note = '''Picking an even number will prevent new eggs from being created.'''
 
 [[MatchedWords]]
 Name = '''scripts.daycare.exp.multiplier'''
 Address = 0x0463D4
 Length = 1
 Offset = 0
-Note = '''Picking an even number will prevent new eggs from being created.'''
 
 [[MatchedWords]]
 Name = '''graphics.townmap.position.cancel.x'''
