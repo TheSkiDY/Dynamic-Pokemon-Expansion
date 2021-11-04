@@ -1326,5 +1326,12 @@ const struct CompressedSpritePalette gMonShinyPaletteTable[NUM_SPECIES] =
 	[SPECIES_PYROSE] = 		{gBackShinySprite1317PyrosePal, SPECIES_PYROSE + NUM_SPECIES, 0x0},
 	[SPECIES_DOYEBUNNY] = 		{gBackShinySprite1318DoyebunnyPal, SPECIES_DOYEBUNNY + NUM_SPECIES, 0x0},
 	[SPECIES_MARACTUS_S] = 		{gBackShinySprite1319MaractusSPal, SPECIES_MARACTUS_S + NUM_SPECIES, 0x0},
+	[SPECIES_WYRDEER] = 		{gBackShinySprite1320WyrdeerPal, SPECIES_WYRDEER, 0x0},
+	[SPECIES_BASCULEGION] = 	{gBackShinySprite1321BasculegionPal, SPECIES_BASCULEGION, 0x0},
+	[SPECIES_KLEAVOR] = 		{gBackShinySprite1322KleavorPal, SPECIES_KLEAVOR, 0x0},
+	[SPECIES_GROWLITHE_H] = 	{gBackShinySprite1323GrowlitheHPal, SPECIES_GROWLITHE_H, 0x0},
+	[SPECIES_BRAVIARY_H] = 		{gBackShinySprite1324BraviaryHPal, SPECIES_BRAVIARY_H, 0x0},
+	[SPECIES_ZORUA_H] = 		{gBackShinySprite1325ZoruaHPal, SPECIES_ZORUA_H, 0x0},
+	[SPECIES_ZOROARK_H] = 		{gBackShinySprite1326ZoroarkHPal, SPECIES_ZOROARK_H, 0x0},
 
 };

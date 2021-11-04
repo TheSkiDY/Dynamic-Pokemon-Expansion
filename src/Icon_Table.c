@@ -1323,4 +1323,11 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_PYROSE] = 	gIconSprite1317PyroseTiles,
 	[SPECIES_DOYEBUNNY] = 	gIconSprite1318DoyebunnyTiles,
 	[SPECIES_MARACTUS_S] = 	gIconSprite1319MaractusSTiles,
+	[SPECIES_WYRDEER] = 	gIconSprite1320WyrdeerTiles,
+	[SPECIES_BASCULEGION] = gIconSprite1321BasculegionTiles,
+	[SPECIES_KLEAVOR] = 	gIconSprite1322KleavorTiles,
+	[SPECIES_GROWLITHE_H] = gIconSprite1323GrowlitheHTiles,
+	[SPECIES_BRAVIARY_H] = 	gIconSprite1324BraviaryHTiles,
+	[SPECIES_ZORUA_H] = 	gIconSprite1325ZoruaHTiles,
+	[SPECIES_ZOROARK_H] = 	gIconSprite1326ZoroarkHTiles,
 };

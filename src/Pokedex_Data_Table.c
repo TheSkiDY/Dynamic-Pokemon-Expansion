@@ -11053,6 +11053,45 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerOffset = 0,
 	},
 
+	[NATIONAL_DEX_WYRDEER]
+	{
+		.categoryName = {_B, _I, _G, _SPACE, _H, _O, _R, _N, _END, _SPACE, _SPACE, _SPACE},
+		.height = 18,
+		.weight = 951,
+		.description = DEX_ENTRY_WYRDEER,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+	[NATIONAL_DEX_BASCULEGION]
+	{
+		.categoryName = {_B, _I, _G, _SPACE, _F, _I, _S, _H, _END, _SPACE, _SPACE, _SPACE},
+		.height = 30,
+		.weight = 1100,
+		.description = DEX_ENTRY_BASCULEGION,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+	[NATIONAL_DEX_KLEAVOR]
+	{
+		.categoryName = {_A, _X, _E, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
+		.height = 18,
+		.weight = 890,
+		.description = DEX_ENTRY_KLEAVOR,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
 	/*[NATIONAL_DEX_UNKNOWN] =
 	{
 		.categoryName = {_U, _N, _K, _N, _O, _W, _N, _END, _SPACE, _SPACE, _SPACE, _SPACE},
@@ -11174,5 +11213,9 @@ const struct AlternateDexEntries gAlternateDexEntries[] =
 	ALTERNATE_ENTRY(KOMALA_S),
 	ALTERNATE_ENTRY(SNORLAX_S),
 	ALTERNATE_ENTRY(MARACTUS_S),
+	ALTERNATE_ENTRY(GROWLITHE_H),
+	ALTERNATE_ENTRY(BRAVIARY_H),
+	ALTERNATE_ENTRY(ZORUA_H),
+	ALTERNATE_ENTRY(ZOROARK_H),
 	{SPECIES_TABLES_TERMIN, 0} 
 };

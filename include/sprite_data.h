@@ -1295,6 +1295,13 @@ extern const u8 gFrontSprite1316RabblitTiles[];
 extern const u8 gFrontSprite1317PyroseTiles[];
 extern const u8 gFrontSprite1318DoyebunnyTiles[];
 extern const u8 gFrontSprite1319MaractusSTiles[];
+extern const u8 gFrontSprite1320WyrdeerTiles[];
+extern const u8 gFrontSprite1321BasculegionTiles[];
+extern const u8 gFrontSprite1322KleavorTiles[];
+extern const u8 gFrontSprite1323GrowlitheHTiles[];
+extern const u8 gFrontSprite1324BraviaryHTiles[];
+extern const u8 gFrontSprite1325ZoruaHTiles[];
+extern const u8 gFrontSprite1326ZoroarkHTiles[];
 
 
 
@@ -2595,6 +2602,13 @@ extern const u8 gBackShinySprite1316RabblitTiles[];
 extern const u8 gBackShinySprite1317PyroseTiles[];
 extern const u8 gBackShinySprite1318DoyebunnyTiles[];
 extern const u8 gBackShinySprite1319MaractusSTiles[];
+extern const u8 gBackShinySprite1320WyrdeerTiles[];
+extern const u8 gBackShinySprite1321BasculegionTiles[];
+extern const u8 gBackShinySprite1322KleavorTiles[];
+extern const u8 gBackShinySprite1323GrowlitheHTiles[];
+extern const u8 gBackShinySprite1324BraviaryHTiles[];
+extern const u8 gBackShinySprite1325ZoruaHTiles[];
+extern const u8 gBackShinySprite1326ZoroarkHTiles[];
 
 
 extern const u8 gBackShinySprite252Tiles[];
@@ -3896,6 +3910,13 @@ extern const u8 gFrontSprite1316RabblitPal[];
 extern const u8 gFrontSprite1317PyrosePal[];
 extern const u8 gFrontSprite1318DoyebunnyPal[];
 extern const u8 gFrontSprite1319MaractusSPal[];
+extern const u8 gFrontSprite1320WyrdeerPal[];
+extern const u8 gFrontSprite1321BasculegionPal[];
+extern const u8 gFrontSprite1322KleavorPal[];
+extern const u8 gFrontSprite1323GrowlitheHPal[];
+extern const u8 gFrontSprite1324BraviaryHPal[];
+extern const u8 gFrontSprite1325ZoruaHPal[];
+extern const u8 gFrontSprite1326ZoroarkHPal[];
 
 
 extern const u8 gFrontSprite252Pal[];
@@ -5195,6 +5216,13 @@ extern const u8 gBackShinySprite1316RabblitPal[];
 extern const u8 gBackShinySprite1317PyrosePal[];
 extern const u8 gBackShinySprite1318DoyebunnyPal[];
 extern const u8 gBackShinySprite1319MaractusSPal[];
+extern const u8 gBackShinySprite1320WyrdeerPal[];
+extern const u8 gBackShinySprite1321BasculegionPal[];
+extern const u8 gBackShinySprite1322KleavorPal[];
+extern const u8 gBackShinySprite1323GrowlitheHPal[];
+extern const u8 gBackShinySprite1324BraviaryHPal[];
+extern const u8 gBackShinySprite1325ZoruaHPal[];
+extern const u8 gBackShinySprite1326ZoroarkHPal[];
 
 
 extern const u8 gBackShinySprite252Pal[];
@@ -6494,5 +6522,12 @@ extern const u8 gIconSprite1316RabblitTiles[];
 extern const u8 gIconSprite1317PyroseTiles[];
 extern const u8 gIconSprite1318DoyebunnyTiles[];
 extern const u8 gIconSprite1319MaractusSTiles[];
+extern const u8 gIconSprite1320WyrdeerTiles[];
+extern const u8 gIconSprite1321BasculegionTiles[];
+extern const u8 gIconSprite1322KleavorTiles[];
+extern const u8 gIconSprite1323GrowlitheHTiles[];
+extern const u8 gIconSprite1324BraviaryHTiles[];
+extern const u8 gIconSprite1325ZoruaHTiles[];
+extern const u8 gIconSprite1326ZoroarkHTiles[];
 
 extern const u8 gIconSprite252Tiles[];

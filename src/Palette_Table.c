@@ -1326,5 +1326,12 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_PYROSE] = 		{gFrontSprite1317PyrosePal, SPECIES_PYROSE, 0x0},
 	[SPECIES_DOYEBUNNY] = 		{gFrontSprite1318DoyebunnyPal, SPECIES_DOYEBUNNY, 0x0},
 	[SPECIES_MARACTUS_S] = 		{gFrontSprite1319MaractusSPal, SPECIES_MARACTUS_S, 0x0},
-
+	[SPECIES_WYRDEER] = 		{gFrontSprite1320WyrdeerPal, SPECIES_WYRDEER, 0x0},
+	[SPECIES_BASCULEGION] = 	{gFrontSprite1321BasculegionPal, SPECIES_BASCULEGION, 0x0},
+	[SPECIES_KLEAVOR] = 		{gFrontSprite1322KleavorPal, SPECIES_KLEAVOR, 0x0},
+	[SPECIES_GROWLITHE_H] = 	{gFrontSprite1323GrowlitheHPal, SPECIES_GROWLITHE_H, 0x0},
+	[SPECIES_BRAVIARY_H] = 		{gFrontSprite1324BraviaryHPal, SPECIES_BRAVIARY_H, 0x0},
+	[SPECIES_ZORUA_H] = 		{gFrontSprite1325ZoruaHPal, SPECIES_ZORUA_H, 0x0},
+	[SPECIES_ZOROARK_H] = 		{gFrontSprite1326ZoroarkHPal, SPECIES_ZOROARK_H, 0x0},
 };
+

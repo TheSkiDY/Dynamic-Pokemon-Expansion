@@ -1029,7 +1029,11 @@ enum
 #define NATIONAL_DEX_PYROSE 917
 #define NATIONAL_DEX_DOYEBUNNY 918
 
-#define NATIONAL_DEX_UNKNOWN 919
+#define NATIONAL_DEX_WYRDEER 919
+#define NATIONAL_DEX_BASCULEGION 920
+#define NATIONAL_DEX_KLEAVOR 921
+
+#define NATIONAL_DEX_UNKNOWN 922
 
 #define FINAL_DEX_ENTRY NATIONAL_DEX_UNKNOWN //Not +1 b/c used like this for some asm
 #define NATIONAL_DEX_COUNT FINAL_DEX_ENTRY + 1
@@ -1673,3 +1677,11 @@ extern const u8 DEX_ENTRY_RABBLIT[];
 extern const u8 DEX_ENTRY_PYROSE[];
 extern const u8 DEX_ENTRY_DOYEBUNNY[];
 extern const u8 DEX_ENTRY_MARACTUS_S[];
+
+extern const u8 DEX_ENTRY_WYRDEER[];
+extern const u8 DEX_ENTRY_BASCULEGION[];
+extern const u8 DEX_ENTRY_KLEAVOR[];
+extern const u8 DEX_ENTRY_GROWLITHE_H[];
+extern const u8 DEX_ENTRY_BRAVIARY_H[];
+extern const u8 DEX_ENTRY_ZORUA_H[];
+extern const u8 DEX_ENTRY_ZOROARK_H[];

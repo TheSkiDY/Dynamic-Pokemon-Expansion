@@ -1326,5 +1326,13 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_PYROSE] = 		{gFrontSprite1317PyroseTiles, (64 * 64) / 2, SPECIES_PYROSE},
 	[SPECIES_DOYEBUNNY] = 		{gFrontSprite1318DoyebunnyTiles, (64 * 64) / 2, SPECIES_DOYEBUNNY},
 	[SPECIES_MARACTUS_S] = 		{gFrontSprite1319MaractusSTiles, (64 * 64) / 2, SPECIES_MARACTUS_S},
+	[SPECIES_WYRDEER] = 		{gFrontSprite1320WyrdeerTiles, (64 * 64) / 2, SPECIES_WYRDEER},
+	[SPECIES_BASCULEGION] = 	{gFrontSprite1321BasculegionTiles, (64 * 64) / 2, SPECIES_BASCULEGION},
+	[SPECIES_KLEAVOR] = 		{gFrontSprite1322KleavorTiles, (64 * 64) / 2, SPECIES_KLEAVOR},
+	[SPECIES_GROWLITHE_H] = 	{gFrontSprite1323GrowlitheHTiles, (64 * 64) / 2, SPECIES_GROWLITHE_H},
+	[SPECIES_BRAVIARY_H] = 		{gFrontSprite1324BraviaryHTiles, (64 * 64) / 2, SPECIES_BRAVIARY_H},
+	[SPECIES_ZORUA_H] = 		{gFrontSprite1325ZoruaHTiles, (64 * 64) / 2, SPECIES_ZORUA_H},
+	[SPECIES_ZOROARK_H] = 		{gFrontSprite1326ZoroarkHTiles, (64 * 64) / 2, SPECIES_ZOROARK_H},
+
 
 };

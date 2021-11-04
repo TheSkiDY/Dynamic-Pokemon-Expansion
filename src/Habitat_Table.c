@@ -959,6 +959,12 @@ const u16 gForestPage66[] =
 	SPECIES_MUK_S,
 };
 
+const u16 gForestPage67[] = 
+{
+	SPECIES_ZORUA_H,
+	SPECIES_ZOROARK_H,
+};
+
 const u16 gWatersEdgePage1[] =
 {
 	SPECIES_GOLDEEN,
@@ -1122,6 +1128,7 @@ const u16 gWatersEdgePage24[] =
 {
 	SPECIES_BASCULIN_RED,
 	SPECIES_BASCULIN_BLUE,
+	SPECIES_BASCULEGION,
 };
 
 const u16 gWatersEdgePage25[] =
@@ -1974,6 +1981,8 @@ const u16 gMountainPage46[] =
 {
 	SPECIES_MOLEKID,
 	SPECIES_MOLEBULK,
+	SPECIES_WYRDEER,
+	SPECIES_BRAVIARY_H,
 };
 
 const u16 gRoughTerrainPage1[] =
@@ -2182,6 +2191,11 @@ const u16 gRoughTerrainPage30[] =
 	SPECIES_WEEZING_S,
 	SPECIES_KANGASKHAN_S,
 	SPECIES_SCYTHER_S,
+};
+
+const u16 gRoughTerrainPage31[] = 
+{
+	SPECIES_GROWLITHE_H,
 };
 
 const u16 gUrbanPage1[] =
@@ -2860,6 +2874,7 @@ const struct HabitatPage gForestPages[] =
 	{gForestPage64, ARRAY_COUNT(gForestPage64)},
 	{gForestPage65, ARRAY_COUNT(gForestPage65)},
 	{gForestPage66, ARRAY_COUNT(gForestPage66)},
+	{gForestPage67, ARRAY_COUNT(gForestPage67)},
 };
 
 const struct HabitatPage gWatersEdgePages[] =
@@ -3058,6 +3073,7 @@ const struct HabitatPage gRoughTerrainPages[] =
 	{gRoughTerrainPage28, ARRAY_COUNT(gRoughTerrainPage28)}, 
 	{gRoughTerrainPage29, ARRAY_COUNT(gRoughTerrainPage29)}, 
 	{gRoughTerrainPage30, ARRAY_COUNT(gRoughTerrainPage30)}, 
+	{gRoughTerrainPage31, ARRAY_COUNT(gRoughTerrainPage31)}, 
 };
 
 const struct HabitatPage gUrbanPages[] =

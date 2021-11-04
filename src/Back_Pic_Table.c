@@ -1326,5 +1326,12 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_PYROSE] = 		{gBackShinySprite1317PyroseTiles, (64 * 64) / 2, SPECIES_PYROSE},
 	[SPECIES_DOYEBUNNY] = 		{gBackShinySprite1318DoyebunnyTiles, (64 * 64) / 2, SPECIES_DOYEBUNNY},
 	[SPECIES_MARACTUS_S] = 		{gBackShinySprite1319MaractusSTiles, (64 * 64) / 2, SPECIES_MARACTUS_S},
+	[SPECIES_WYRDEER] = 		{gBackShinySprite1320WyrdeerTiles, (64 * 64) / 2, SPECIES_WYRDEER},
+	[SPECIES_BASCULEGION] = 	{gBackShinySprite1321BasculegionTiles, (64 * 64) / 2, SPECIES_BASCULEGION},
+	[SPECIES_KLEAVOR] = 		{gBackShinySprite1322KleavorTiles, (64 * 64) / 2, SPECIES_KLEAVOR},
+	[SPECIES_GROWLITHE_H] = 	{gBackShinySprite1323GrowlitheHTiles, (64 * 64) / 2, SPECIES_GROWLITHE_H},
+	[SPECIES_BRAVIARY_H] = 		{gBackShinySprite1324BraviaryHTiles, (64 * 64) / 2, SPECIES_BRAVIARY_H},
+	[SPECIES_ZORUA_H] = 		{gBackShinySprite1325ZoruaHTiles, (64 * 64) / 2, SPECIES_ZORUA_H},
+	[SPECIES_ZOROARK_H] = 		{gBackShinySprite1326ZoroarkHTiles, (64 * 64) / 2, SPECIES_ZOROARK_H},
 
 };
