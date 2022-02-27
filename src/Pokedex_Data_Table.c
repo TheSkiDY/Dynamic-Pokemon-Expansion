@@ -9631,7 +9631,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 	[NATIONAL_DEX_MARSHADOW] =
 	{
 		.categoryName = {_G, _L, _O, _O, _M, _D, _W, _E, _L, _L, _END, _SPACE},
-		.height = 70,
+		.height = 7,
 		.weight = 222,
 		.description = DEX_ENTRY_MARSHADOW,
 		.unusedDescription = (const u8*) 0x8444cb1,
