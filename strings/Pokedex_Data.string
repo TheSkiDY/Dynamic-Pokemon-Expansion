@@ -1519,9 +1519,8 @@ Inhabiting the mountains of a distant\nregion, it races across sheer cliffs, tra
 #org @DEX_ENTRY_ZARUDE
 Once the vines on its body tear off,\nthey become nutrients in the soil. This helps\nthe plants of the forest grow.
 
-/*
-#org @DEX_ENTRY_UNKNOWN_MYTHICAL
-This is a newly discovered Pok\emon.\nIt is currently under investigation. No\ninformation is available at this time.
+#org @DEX_ENTRY_LUGIA_SHADOW
+It is a LUGIA corrupted by the criminal\norganization CIPHER, believed to be the\nSHADOW POK\eMON immune to purification.
 
 #org @DEX_ENTRY_CALYREX
 Its every move is filled with grace\nand dignity. Extremely intelligent, it is said\nto see past, present, and future events.
@@ -1531,7 +1530,6 @@ This is a newly discovered Pok\emon.\nIt is currently under investigation. No\ni
 
 #org @DEX_ENTRY_REGIDRAGO
 This is a newly discovered Pok\emon.\nIt is currently under investigation. No\ninformation is available at this time.
-*/
 
 //Special Form Entries
 

@@ -5933,11 +5933,11 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	/*[SPECIES_UNKNOWN_MYTHICAL] = 
+	[SPECIES_LUGIA_SHADOW] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
-	},*/
+	},
 	[SPECIES_CALYREX] = 
 	{
 		.size = 0x0,

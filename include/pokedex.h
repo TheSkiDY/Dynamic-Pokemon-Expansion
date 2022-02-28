@@ -1545,10 +1545,10 @@ extern const u8 DEX_ENTRY_ETERNATUS[];
 extern const u8 DEX_ENTRY_KUBFU[];
 extern const u8 DEX_ENTRY_URSHIFU_SINGLE[];
 extern const u8 DEX_ENTRY_ZARUDE[];
+extern const u8 DEX_ENTRY_LUGIA_SHADOW[];
 extern const u8 DEX_ENTRY_CALYREX[];
 extern const u8 DEX_ENTRY_REGIELEKI[];
 extern const u8 DEX_ENTRY_REGIDRAGO[];
-extern const u8 DEX_ENTRY_UNKNWON_MYTHICAL[];
 
 extern const u8 DEX_ENTRY_RATTATA_A[];
 extern const u8 DEX_ENTRY_RATICATE_A[];

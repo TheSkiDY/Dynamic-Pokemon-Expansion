@@ -2489,6 +2489,7 @@ const u16 gRarePage1[] =
 const u16 gRarePage2[] =
 {
 	SPECIES_LUGIA,
+	SPECIES_LUGIA_SHADOW,
 	SPECIES_HO_OH,
 };
 
@@ -2721,7 +2722,6 @@ const u16 gRarePage34[] =
 	SPECIES_KUBFU,
 	SPECIES_URSHIFU_SINGLE,
 	SPECIES_URSHIFU_RAPID,
-	//SPECIES_UNKNOWN_MYTHICAL,
 };
 
 const u16 gRarePage35[] =

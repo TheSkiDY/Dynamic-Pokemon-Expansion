@@ -13926,19 +13926,19 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_UNKNOWN_MYTHICAL] =
-	{	
+*/	[SPECIES_LUGIA_SHADOW] =
+	{
 		.type = 0x20,
 		.key = 0x3c,
 		.length = 0x0,
 		.pan_sweep = 0x0,
-		.wav = gCryUnknownMythical,
+		.wav = (u8*) 0x860feb0,
 		.attack = 0xff,
 		.decay = 0x0,
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_CALYREX] =
+/*	[SPECIES_CALYREX] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,
