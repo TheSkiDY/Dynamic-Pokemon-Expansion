@@ -10793,7 +10793,98 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerOffset = 0,
 	},
 
-	/*[NATIONAL_DEX_UNKNOWN] =
+	[NATIONAL_DEX_WYRDEER] = 
+	{
+		 .categoryName = {_B, _I, _G, _SPACE, _H, _O, _R, _N, _END, _END, _END, _END},
+		.height = 18,
+		.weight = 951,
+		.description = DEX_ENTRY_WYRDEER,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+	[NATIONAL_DEX_KLEAVOR] = 
+	{
+		 .categoryName = {_A, _X, _E, _END, _END, _END, _END, _END, _END, _END, _END, _END},
+		.height = 18,
+		.weight = 890,
+		.description = DEX_ENTRY_KLEAVOR,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+	[NATIONAL_DEX_URSALUNA] = 
+	{
+		 .categoryName = {_P, _E, _A, _T, _END, _END, _END, _END, _END, _END, _END, _END},
+		.height = 24,
+		.weight = 2900,
+		.description = DEX_ENTRY_URSALUNA,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+	[NATIONAL_DEX_BASCULEGION] = 
+	{
+		 .categoryName = {_B, _I, _G, _SPACE, _F, _I, _S, _H, _END, _END, _END, _END},
+		.height = 30,
+		.weight = 1100,
+		.description = DEX_ENTRY_BASCULEGION,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+	[NATIONAL_DEX_SNEASLER] = 
+	{
+		 .categoryName = {_F, _R, _E, _E, _SPACE, _C, _L, _I, _M, _B, _END, _END},
+		.height = 13,
+		.weight = 430,
+		.description = DEX_ENTRY_SNEASLER,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+	[NATIONAL_DEX_OVERQWIL] = 
+	{
+		 .categoryName = {_P, _I, _N, _SPACE, _C, _L, _U, _S, _T, _E, _R, _END},
+		.height = 25,
+		.weight = 605,
+		.description = DEX_ENTRY_OVERQWIL,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+	[NATIONAL_DEX_ENAMORUS] = 
+	{
+		 .categoryName = {_L, _O, _V, _E, _SPACE, _H, _A, _T, _E, _END, _END, _END},
+		.height = 16,
+		.weight = 480,
+		.description = DEX_ENTRY_ENAMORUS,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+	/*[NATIONAL_DEX_UNKNOWN] = 
 	{
 		.categoryName = {_U, _N, _K, _N, _O, _W, _N, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 0,
@@ -10881,5 +10972,26 @@ const struct AlternateDexEntries gAlternateDexEntries[] =
 	ALTERNATE_ENTRY(ETERNATUS_ETERNAMAX),
 	ALTERNATE_ENTRY(URSHIFU_RAPID),
 	ALTERNATE_ENTRY(LUGIA_SHADOW),
+	ALTERNATE_ENTRY(GROWLITHE_H),
+	ALTERNATE_ENTRY(ARCANINE_H),
+	ALTERNATE_ENTRY(VOLTORB_H),
+	ALTERNATE_ENTRY(ELECTRODE_H),
+	ALTERNATE_ENTRY(TYPHLOSION_H),
+	ALTERNATE_ENTRY(QWILFISH_H),
+	ALTERNATE_ENTRY(SNEASEL_H),
+	ALTERNATE_ENTRY(SAMUROTT_H),
+	ALTERNATE_ENTRY(LILLIGANT_H),
+	ALTERNATE_ENTRY(ZORUA_H),
+	ALTERNATE_ENTRY(ZOROARK_H),
+	ALTERNATE_ENTRY(BRAVIARY_H),
+	ALTERNATE_ENTRY(SLIGGOO_H),
+	ALTERNATE_ENTRY(GOODRA_H),
+	ALTERNATE_ENTRY(AVALUGG_H),
+	ALTERNATE_ENTRY(DECIDUEYE_H),
+	ALTERNATE_ENTRY(DIALGA_ORIGIN),
+	ALTERNATE_ENTRY(PALKIA_ORIGIN),
+	ALTERNATE_ENTRY(BASCULIN_WHITE),
+	ALTERNATE_ENTRY(BASCULEGION_FEMALE),
+	ALTERNATE_ENTRY(ENAMORUS_THERIAN),
 	{SPECIES_TABLES_TERMIN, 0} 
 };
