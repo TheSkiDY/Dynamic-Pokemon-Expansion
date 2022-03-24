@@ -41754,7 +41754,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SPRIGATITO] = 
+	[SPECIES_SPRIGATITO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -41787,7 +41787,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SPRIGATITO_EVO] = 
+	[SPECIES_SPRIGATITO_EVO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -41820,7 +41820,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SPRIGATITO_EVO_2] = 
+	[SPECIES_SPRIGATITO_EVO_2] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -41853,7 +41853,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_FUECOCO] = 
+	[SPECIES_FUECOCO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -41886,7 +41886,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_FUECOCO_EVO] = 
+	[SPECIES_FUECOCO_EVO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -41919,7 +41919,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_FUECOCO_EVO_2] = 
+	[SPECIES_FUECOCO_EVO_2] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -41952,7 +41952,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_QUAXLY] = 
+	[SPECIES_QUAXLY] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -41985,7 +41985,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_QUAXLY_EVO] = 
+	[SPECIES_QUAXLY_EVO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42018,7 +42018,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_QUAXLY_EVO_2] = 
+	[SPECIES_QUAXLY_EVO_2] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42051,7 +42051,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_1] = 
+	[SPECIES_SCARLET_VIOLET_1] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42084,7 +42084,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_2] = 
+	[SPECIES_SCARLET_VIOLET_2] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42117,7 +42117,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_3] = 
+	[SPECIES_SCARLET_VIOLET_3] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42150,7 +42150,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_4] = 
+	[SPECIES_SCARLET_VIOLET_4] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42183,7 +42183,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_5] = 
+	[SPECIES_SCARLET_VIOLET_5] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42216,7 +42216,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_6] = 
+	[SPECIES_SCARLET_VIOLET_6] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42249,7 +42249,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_7] = 
+	[SPECIES_SCARLET_VIOLET_7] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42282,7 +42282,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_8] = 
+	[SPECIES_SCARLET_VIOLET_8] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42315,7 +42315,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_9] = 
+	[SPECIES_SCARLET_VIOLET_9] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42348,7 +42348,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_10] = 
+	[SPECIES_SCARLET_VIOLET_10] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42381,7 +42381,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_11] = 
+	[SPECIES_SCARLET_VIOLET_11] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42414,7 +42414,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_12] = 
+	[SPECIES_SCARLET_VIOLET_12] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42447,7 +42447,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_13] = 
+	[SPECIES_SCARLET_VIOLET_13] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42480,7 +42480,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_14] = 
+	[SPECIES_SCARLET_VIOLET_14] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42513,7 +42513,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_15] = 
+	[SPECIES_SCARLET_VIOLET_15] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42546,7 +42546,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_16] = 
+	[SPECIES_SCARLET_VIOLET_16] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42579,7 +42579,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_17] = 
+	[SPECIES_SCARLET_VIOLET_17] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42612,7 +42612,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_18] = 
+	[SPECIES_SCARLET_VIOLET_18] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42645,7 +42645,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_19] = 
+	[SPECIES_SCARLET_VIOLET_19] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42678,7 +42678,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_20] = 
+	[SPECIES_SCARLET_VIOLET_20] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42711,7 +42711,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_21] = 
+	[SPECIES_SCARLET_VIOLET_21] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42744,7 +42744,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_22] = 
+	[SPECIES_SCARLET_VIOLET_22] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42777,7 +42777,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_23] = 
+	[SPECIES_SCARLET_VIOLET_23] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42810,7 +42810,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_24] = 
+	[SPECIES_SCARLET_VIOLET_24] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42843,7 +42843,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_25] = 
+	[SPECIES_SCARLET_VIOLET_25] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42876,7 +42876,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_26] = 
+	[SPECIES_SCARLET_VIOLET_26] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42909,7 +42909,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_27] = 
+	[SPECIES_SCARLET_VIOLET_27] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42942,7 +42942,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_28] = 
+	[SPECIES_SCARLET_VIOLET_28] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42975,7 +42975,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_29] = 
+	[SPECIES_SCARLET_VIOLET_29] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43008,7 +43008,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_30] = 
+	[SPECIES_SCARLET_VIOLET_30] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43041,7 +43041,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_31] = 
+	[SPECIES_SCARLET_VIOLET_31] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43074,7 +43074,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_32] = 
+	[SPECIES_SCARLET_VIOLET_32] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43107,7 +43107,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_33] = 
+	[SPECIES_SCARLET_VIOLET_33] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43140,7 +43140,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_34] = 
+	[SPECIES_SCARLET_VIOLET_34] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43173,7 +43173,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_35] = 
+	[SPECIES_SCARLET_VIOLET_35] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43206,7 +43206,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_36] = 
+	[SPECIES_SCARLET_VIOLET_36] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43239,7 +43239,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_37] = 
+	[SPECIES_SCARLET_VIOLET_37] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43272,7 +43272,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_38] = 
+	[SPECIES_SCARLET_VIOLET_38] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43305,7 +43305,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_39] = 
+	[SPECIES_SCARLET_VIOLET_39] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43338,7 +43338,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_40] = 
+	[SPECIES_SCARLET_VIOLET_40] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43371,7 +43371,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_41] = 
+	[SPECIES_SCARLET_VIOLET_41] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43404,7 +43404,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_42] = 
+	[SPECIES_SCARLET_VIOLET_42] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43437,7 +43437,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_43] = 
+	[SPECIES_SCARLET_VIOLET_43] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43470,7 +43470,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_44] = 
+	[SPECIES_SCARLET_VIOLET_44] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43503,7 +43503,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_45] = 
+	[SPECIES_SCARLET_VIOLET_45] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43536,7 +43536,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_46] = 
+	[SPECIES_SCARLET_VIOLET_46] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43569,7 +43569,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_47] = 
+	[SPECIES_SCARLET_VIOLET_47] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43602,7 +43602,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_48] = 
+	[SPECIES_SCARLET_VIOLET_48] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43635,7 +43635,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_49] = 
+	[SPECIES_SCARLET_VIOLET_49] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43668,7 +43668,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_50] = 
+	[SPECIES_SCARLET_VIOLET_50] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43701,7 +43701,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_51] = 
+	[SPECIES_SCARLET_VIOLET_51] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43734,7 +43734,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_52] = 
+	[SPECIES_SCARLET_VIOLET_52] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43767,7 +43767,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_53] = 
+	[SPECIES_SCARLET_VIOLET_53] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43800,7 +43800,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_54] = 
+	[SPECIES_SCARLET_VIOLET_54] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43833,7 +43833,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_55] = 
+	[SPECIES_SCARLET_VIOLET_55] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43866,7 +43866,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_56] = 
+	[SPECIES_SCARLET_VIOLET_56] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43899,7 +43899,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_57] = 
+	[SPECIES_SCARLET_VIOLET_57] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43932,7 +43932,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_58] = 
+	[SPECIES_SCARLET_VIOLET_58] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43965,7 +43965,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_59] = 
+	[SPECIES_SCARLET_VIOLET_59] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43998,7 +43998,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_60] = 
+	[SPECIES_SCARLET_VIOLET_60] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44031,7 +44031,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_61] = 
+	[SPECIES_SCARLET_VIOLET_61] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44064,7 +44064,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_62] = 
+	[SPECIES_SCARLET_VIOLET_62] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44097,7 +44097,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_63] = 
+	[SPECIES_SCARLET_VIOLET_63] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44130,7 +44130,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_64] = 
+	[SPECIES_SCARLET_VIOLET_64] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44163,7 +44163,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_65] = 
+	[SPECIES_SCARLET_VIOLET_65] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44196,7 +44196,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_66] = 
+	[SPECIES_SCARLET_VIOLET_66] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44229,7 +44229,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_67] = 
+	[SPECIES_SCARLET_VIOLET_67] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44262,7 +44262,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_68] = 
+	[SPECIES_SCARLET_VIOLET_68] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44295,7 +44295,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_69] = 
+	[SPECIES_SCARLET_VIOLET_69] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44328,7 +44328,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_70] = 
+	[SPECIES_SCARLET_VIOLET_70] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44361,7 +44361,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_71] = 
+	[SPECIES_SCARLET_VIOLET_71] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44394,7 +44394,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_72] = 
+	[SPECIES_SCARLET_VIOLET_72] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44427,7 +44427,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_73] = 
+	[SPECIES_SCARLET_VIOLET_73] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44460,7 +44460,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_74] = 
+	[SPECIES_SCARLET_VIOLET_74] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44493,7 +44493,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_75] = 
+	[SPECIES_SCARLET_VIOLET_75] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44526,7 +44526,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_76] = 
+	[SPECIES_SCARLET_VIOLET_76] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44559,7 +44559,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_77] = 
+	[SPECIES_SCARLET_VIOLET_77] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44592,7 +44592,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_78] = 
+	[SPECIES_SCARLET_VIOLET_78] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44625,7 +44625,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_79] = 
+	[SPECIES_SCARLET_VIOLET_79] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44658,7 +44658,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_80] = 
+	[SPECIES_SCARLET_VIOLET_80] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44691,7 +44691,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_81] = 
+	[SPECIES_SCARLET_VIOLET_81] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44724,7 +44724,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_82] = 
+	[SPECIES_SCARLET_VIOLET_82] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44757,7 +44757,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_83] = 
+	[SPECIES_SCARLET_VIOLET_83] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44790,7 +44790,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_84] = 
+	[SPECIES_SCARLET_VIOLET_84] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44823,7 +44823,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_85] = 
+	[SPECIES_SCARLET_VIOLET_85] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44856,7 +44856,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_86] = 
+	[SPECIES_SCARLET_VIOLET_86] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44889,7 +44889,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_87] = 
+	[SPECIES_SCARLET_VIOLET_87] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44922,7 +44922,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_88] = 
+	[SPECIES_SCARLET_VIOLET_88] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44955,7 +44955,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_89] = 
+	[SPECIES_SCARLET_VIOLET_89] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44988,7 +44988,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_90] = 
+	[SPECIES_SCARLET_VIOLET_90] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45021,7 +45021,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_91] = 
+	[SPECIES_SCARLET_VIOLET_91] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45054,7 +45054,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_92] = 
+	[SPECIES_SCARLET_VIOLET_92] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45087,7 +45087,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_93] = 
+	[SPECIES_SCARLET_VIOLET_93] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45120,7 +45120,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_94] = 
+	[SPECIES_SCARLET_VIOLET_94] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45153,7 +45153,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_95] = 
+	[SPECIES_SCARLET_VIOLET_95] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45186,7 +45186,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_96] = 
+	[SPECIES_SCARLET_VIOLET_96] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45219,7 +45219,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_97] = 
+	[SPECIES_SCARLET_VIOLET_97] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45252,7 +45252,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_98] = 
+	[SPECIES_SCARLET_VIOLET_98] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45285,7 +45285,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_99] = 
+	[SPECIES_SCARLET_VIOLET_99] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45318,7 +45318,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_100] = 
+	[SPECIES_SCARLET_VIOLET_100] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45351,7 +45351,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_101] = 
+	[SPECIES_SCARLET_VIOLET_101] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45384,7 +45384,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_102] = 
+	[SPECIES_SCARLET_VIOLET_102] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45417,7 +45417,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_103] = 
+	[SPECIES_SCARLET_VIOLET_103] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45450,7 +45450,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_104] = 
+	[SPECIES_SCARLET_VIOLET_104] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45483,7 +45483,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_105] = 
+	[SPECIES_SCARLET_VIOLET_105] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45516,7 +45516,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_106] = 
+	[SPECIES_SCARLET_VIOLET_106] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45549,7 +45549,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_107] = 
+	[SPECIES_SCARLET_VIOLET_107] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45582,7 +45582,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_108] = 
+	[SPECIES_SCARLET_VIOLET_108] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45615,7 +45615,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_109] = 
+	[SPECIES_SCARLET_VIOLET_109] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45648,7 +45648,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_110] = 
+	[SPECIES_SCARLET_VIOLET_110] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45681,7 +45681,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_111] = 
+	[SPECIES_SCARLET_VIOLET_111] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45714,7 +45714,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_112] = 
+	[SPECIES_SCARLET_VIOLET_112] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45747,7 +45747,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_113] = 
+	[SPECIES_SCARLET_VIOLET_113] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45780,7 +45780,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_114] = 
+	[SPECIES_SCARLET_VIOLET_114] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45813,7 +45813,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_115] = 
+	[SPECIES_SCARLET_VIOLET_115] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45846,7 +45846,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_116] = 
+	[SPECIES_SCARLET_VIOLET_116] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45879,7 +45879,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_117] = 
+	[SPECIES_SCARLET_VIOLET_117] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45912,7 +45912,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_118] = 
+	[SPECIES_SCARLET_VIOLET_118] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45945,7 +45945,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_119] = 
+	[SPECIES_SCARLET_VIOLET_119] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45978,7 +45978,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_120] = 
+	[SPECIES_SCARLET_VIOLET_120] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46011,7 +46011,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_121] = 
+	[SPECIES_SCARLET_VIOLET_121] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46044,7 +46044,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_122] = 
+	[SPECIES_SCARLET_VIOLET_122] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46077,7 +46077,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_123] = 
+	[SPECIES_SCARLET_VIOLET_123] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46110,7 +46110,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_124] = 
+	[SPECIES_SCARLET_VIOLET_124] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46143,7 +46143,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_125] = 
+	[SPECIES_SCARLET_VIOLET_125] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46176,7 +46176,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_126] = 
+	[SPECIES_SCARLET_VIOLET_126] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46209,7 +46209,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_127] = 
+	[SPECIES_SCARLET_VIOLET_127] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46242,7 +46242,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_128] = 
+	[SPECIES_SCARLET_VIOLET_128] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46275,7 +46275,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_129] = 
+	[SPECIES_SCARLET_VIOLET_129] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46308,7 +46308,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_130] = 
+	[SPECIES_SCARLET_VIOLET_130] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46341,7 +46341,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_131] = 
+	[SPECIES_SCARLET_VIOLET_131] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46374,7 +46374,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_132] = 
+	[SPECIES_SCARLET_VIOLET_132] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46407,7 +46407,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_133] = 
+	[SPECIES_SCARLET_VIOLET_133] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46440,7 +46440,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_134] = 
+	[SPECIES_SCARLET_VIOLET_134] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46473,7 +46473,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_135] = 
+	[SPECIES_SCARLET_VIOLET_135] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46506,7 +46506,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_136] = 
+	[SPECIES_SCARLET_VIOLET_136] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46539,7 +46539,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_137] = 
+	[SPECIES_SCARLET_VIOLET_137] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46572,7 +46572,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_138] = 
+	[SPECIES_SCARLET_VIOLET_138] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46605,7 +46605,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_139] = 
+	[SPECIES_SCARLET_VIOLET_139] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46638,7 +46638,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_140] = 
+	[SPECIES_SCARLET_VIOLET_140] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46671,7 +46671,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPECIES_SCARLET_VIOLET_141] = 
+	[SPECIES_SCARLET_VIOLET_141] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
