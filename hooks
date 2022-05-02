@@ -22,3 +22,7 @@ DisplayRegionalDexNumHook 8104A66 1
 CountSpeciesInDex 8104BBC 2
 AlternateDexEntriesHook 8105CBC 0
 SummaryScreenIconPalHook 8139DDC 1
+
+DexScreen_PrintNum3LeadingZeroes 08104880 6
+DexScreen_PrintNum3RightAlign 0810491C 6
+DexScreen_InitGfxForTopMenu 08102C28 0

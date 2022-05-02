@@ -3,6 +3,7 @@
 #include "../include/graphics.h"
 #include "../include/main.h"
 #include "../include/pokedex.h"
+#include "../include/text.h"
 
 //Backsprite battle start
 
@@ -37,9 +38,133 @@ s8 __attribute__((long_call)) DexFlagCheck(u16 nationalDexNo, u8 caseId, bool8 i
 u16 __attribute__((long_call)) SpeciesToNationalPokedexNum(u16 species);
 void __attribute__((long_call)) break_func();
 
+
 //This file's functions
 u16 TryGetFemaleGenderedSpecies(u16 species, u32 personality);
 static u16 LoadNationalPokedexView(void);
+
+enum TextMode {
+    TEXT_LEFT,
+    TEXT_CENTER,
+    TEXT_RIGHT
+};
+
+static const struct WindowTemplate sWindowTemplate_ModeSelect = {
+    .bg = 1,
+    .tilemapLeft = 1,
+    .tilemapTop = 2,
+    .width = 20,
+    .height = 16,
+    .paletteNum = 0,
+    .baseBlock = 0x0008
+};
+
+static const struct WindowTemplate sWindowTemplate_SelectionIcon = {
+    .bg = 1,
+    .tilemapLeft = 21,
+    .tilemapTop = 11,
+    .width = 8,
+    .height = 6,
+    .paletteNum = 1,
+    .baseBlock = 0x0148
+};
+
+static const struct WindowTemplate sWindowTemplate_DexCounts = {
+    .bg = 1,
+    .tilemapLeft = 21,
+    .tilemapTop = 2,
+    .width = 9,
+    .height = 9,
+    .paletteNum = 0,
+    .baseBlock = 0x0178
+};
+
+static const struct ListMenuItem sListMenuItems_KantoDexModeSelect[] = {
+    {gText_PokemonList,                  -3},
+    {gText_NumericalMode,                9},
+    {gText_PokemonHabitats,              -3},
+    {gText_DexCategory_GrasslandPkmn,    0},
+    {gText_DexCategory_ForestPkmn,       1},
+    {gText_DexCategory_WatersEdgePkmn,   2},
+    {gText_DexCategory_SeaPkmn,          3},
+    {gText_DexCategory_CavePkmn,         4},
+    {gText_DexCategory_MountainPkmn,     5},
+    {gText_DexCategory_RoughTerrainPkmn, 6},
+    {gText_DexCategory_UrbanPkmn,        7},
+    {gText_DexCategory_RarePkmn,         8},
+    {gText_Search,                       -3},
+    {gText_AToZMode,                     10},
+    {gText_TypeMode,                     11},
+    {gText_LightestMode,                 12},
+    {gText_SmallestMode,                 13},
+    {gText_PokedexOther,                 -3},
+    {gText_ClosePokedex,                 -2},
+};
+
+static const struct ListMenuTemplate sListMenuTemplate_KantoDexModeSelect = {
+    .items = sListMenuItems_KantoDexModeSelect,
+    .moveCursorFunc = MoveCursorFunc_DexModeSelect,
+    .itemPrintFunc = ItemPrintFunc_DexModeSelect,
+    .totalItems = NELEMS(sListMenuItems_KantoDexModeSelect),
+    .maxShowed = 9,
+    .windowId = 0,
+    .header_X = 0,
+    .item_X = 12,
+    .cursor_X = 4,
+    .upText_Y = 2,
+    .cursorPal = 1,
+    .fillValue = 0,
+    .cursorShadowPal = 3,
+    .lettersSpacing = 1,
+    .itemVerticalPadding = 0,
+    .scrollMultiple = 0,
+    .fontId = 2,
+    .cursorKind = 0,
+};
+
+static const struct ListMenuItem sListMenuItems_NatDexModeSelect[] = {
+    {gText_PokemonList,                  -3},
+    {gText_NumericalModeKanto,           9},
+    {gText_NumericalModeNational,        14},
+    {gText_PokemonHabitats,              -3},
+    {gText_DexCategory_GrasslandPkmn,    0},
+    {gText_DexCategory_ForestPkmn,       1},
+    {gText_DexCategory_WatersEdgePkmn,   2},
+    {gText_DexCategory_SeaPkmn,          3},
+    {gText_DexCategory_CavePkmn,         4},
+    {gText_DexCategory_MountainPkmn,     5},
+    {gText_DexCategory_RoughTerrainPkmn, 6},
+    {gText_DexCategory_UrbanPkmn,        7},
+    {gText_DexCategory_RarePkmn,         8},
+    {gText_Search,                       -3},
+    {gText_AToZMode,                     10},
+    {gText_TypeMode,                     11},
+    {gText_LightestMode,                 12},
+    {gText_SmallestMode,                 13},
+    {gText_PokedexOther,                 -3},
+    {gText_ClosePokedex,                 -2},
+};
+
+static const struct ListMenuTemplate sListMenuTemplate_NatDexModeSelect = {
+    .items = sListMenuItems_NatDexModeSelect,
+    .moveCursorFunc = MoveCursorFunc_DexModeSelect,
+    .itemPrintFunc = ItemPrintFunc_DexModeSelect,
+    .totalItems = NELEMS(sListMenuItems_NatDexModeSelect),
+    .maxShowed = 9,
+    .windowId = 0,
+    .header_X = 0,
+    .item_X = 12,
+    .cursor_X = 4,
+    .upText_Y = 2,
+    .cursorPal = 1,
+    .fillValue = 0,
+    .cursorShadowPal = 3,
+    .lettersSpacing = 1,
+    .itemVerticalPadding = 0,
+    .scrollMultiple = 0,
+    .fontId = 2,
+    .cursorKind = 0,
+};
 
 u16 SpeciesToCryId(u16 species)
 {
@@ -375,19 +500,19 @@ u16 LoadPokedexViews(u8 type)
 		{
 			if (showUnseenSpecies)
 			{
-				gPokedexScreenDataPtr->listItem[counter].name = (void*) 0x8415F66; //-----
-				gPokedexScreenDataPtr->listItem[counter++].id = species | (0 << 16); //Unseen
+				sPokedexScreenData->listItems[counter].name = (void*) 0x8415F66; //-----
+				sPokedexScreenData->listItems[counter++].id = species | (0 << 16); //Unseen
 			}
 		}
 		else if (caught || showUncaughtSpecies)
 		{
 			lastMeaningfulIndex = counter + 1;
-			gPokedexScreenDataPtr->listItem[counter].name = gSpeciesNames[species];
+			sPokedexScreenData->listItems[counter].name = gSpeciesNames[species];
 			
 			if (caught)
-				gPokedexScreenDataPtr->listItem[counter++].id = species | (3 << 16); //Caught
+				sPokedexScreenData->listItems[counter++].id = species | (3 << 16); //Caught
 			else
-				gPokedexScreenDataPtr->listItem[counter++].id = species | (1 << 16); //Seen
+				sPokedexScreenData->listItems[counter++].id = species | (1 << 16); //Seen
 		}
 	}
 
@@ -395,8 +520,8 @@ u16 LoadPokedexViews(u8 type)
 	{
 		//Fix empty list
 		lastMeaningfulIndex = 1;
-		gPokedexScreenDataPtr->listItem[0].name = (void*) 0x8415F66; //-----
-		gPokedexScreenDataPtr->listItem[0].id = gPokedexOrder_Regional[0] | (0 << 16); //Unseen
+		sPokedexScreenData->listItems[0].name = (void*) 0x8415F66; //-----
+		sPokedexScreenData->listItems[0].id = gPokedexOrder_Regional[0] | (0 << 16); //Unseen
 	}
 
 	return lastMeaningfulIndex;
@@ -415,20 +540,98 @@ static u16 LoadNationalPokedexView(void)
 
 		if (!seen)
 		{
-			gPokedexScreenDataPtr->listItem[listIndex].name = (void*) 0x8415F66; //-----
-			gPokedexScreenDataPtr->listItem[listIndex].id = species | (0 << 16); //Unseen
+			sPokedexScreenData->listItems[listIndex].name = (void*) 0x8415F66; //-----
+			sPokedexScreenData->listItems[listIndex].id = species | (0 << 16); //Unseen
 		}
 		else
 		{
 			lastMeaningfulIndex = i;
-			gPokedexScreenDataPtr->listItem[listIndex].name = gSpeciesNames[species];
+			sPokedexScreenData->listItems[listIndex].name = gSpeciesNames[species];
 			
 			if (caught)
-				gPokedexScreenDataPtr->listItem[listIndex].id = species | (3 << 16); //Caught
+				sPokedexScreenData->listItems[listIndex].id = species | (3 << 16); //Caught
 			else
-				gPokedexScreenDataPtr->listItem[listIndex].id = species | (1 << 16); //Seen
+				sPokedexScreenData->listItems[listIndex].id = species | (1 << 16); //Seen
 		}
 	}
 
 	return lastMeaningfulIndex;
+}
+
+void DexScreen_PrintNum3LeadingZeroes(u8 windowId, u8 fontId, u16 num, u8 x, u8 y, u8 colorIdx)
+{
+    u8 buff[5];
+    buff[0] = (num / 1000) + _0;
+    buff[1] = ((num %= 1000) / 100) + _0;
+    buff[2] = ((num %= 100) / 10) + _0;
+    buff[3] = (num % 10) + _0;
+    buff[4] = _END;
+    DexScreen_AddTextPrinterParameterized(windowId, fontId, buff, x, y, colorIdx);
+}
+
+void DexScreen_PrintNum3RightAlign(u8 windowId, u8 fontId, u16 num, u8 x, u8 y, u8 colorIdx)
+{
+    u8 buff[5];
+    int i;
+    buff[0] = (num / 1000) + _0;
+    buff[1] = ((num %= 1000) / 100) + _0;
+    buff[2] = ((num %= 100) / 10) + _0;
+    buff[3] = (num % 10) + _0;
+    buff[4] = _END;
+    for (i = 0; i < 3; i++)
+    {
+        if (buff[i] != _0)
+            break;
+        buff[i] = _SPACE;
+    }
+    DexScreen_AddTextPrinterParameterized(windowId, fontId, buff, x, y, colorIdx);
+}
+
+void DexScreen_InitGfxForTopMenu(void)
+{
+    struct ListMenuTemplate listMenuTemplate;
+    FillBgTilemapBufferRect(3, 0x00E, 0, 0, 30, 20, 0x00);
+    FillBgTilemapBufferRect(2, 0x000, 0, 0, 30, 20, 0x11);
+    FillBgTilemapBufferRect(1, 0x000, 0, 0, 30, 20, 0x11);
+    sPokedexScreenData->modeSelectWindowId = AddWindow(&sWindowTemplate_ModeSelect);
+    sPokedexScreenData->selectionIconWindowId = AddWindow(&sWindowTemplate_SelectionIcon);
+    sPokedexScreenData->dexCountsWindowId = AddWindow(&sWindowTemplate_DexCounts);
+    if (IsNationalPokedexEnabled())
+    {
+        listMenuTemplate = sListMenuTemplate_NatDexModeSelect;
+        listMenuTemplate.windowId = sPokedexScreenData->modeSelectWindowId;
+        sPokedexScreenData->modeSelectListMenuId = ListMenuInit(&listMenuTemplate, sPokedexScreenData->modeSelectCursorPos, sPokedexScreenData->modeSelectItemsAbove);
+        FillWindowPixelBuffer(sPokedexScreenData->dexCountsWindowId, PIXEL_FILL(0));
+        DexScreen_AddTextPrinterParameterized(sPokedexScreenData->dexCountsWindowId, 0, gText_Seen, 0, 2, 0);
+        DexScreen_AddTextPrinterParameterized(sPokedexScreenData->dexCountsWindowId, 0, gText_Region, 8, 13, 0);
+        DexScreen_PrintNum3RightAlign(sPokedexScreenData->dexCountsWindowId, 0, sPokedexScreenData->numSeenKanto, 48, 13, 2);
+        DexScreen_AddTextPrinterParameterized(sPokedexScreenData->dexCountsWindowId, 0, gText_National, 8, 24, 0);
+        DexScreen_PrintNum3RightAlign(sPokedexScreenData->dexCountsWindowId, 0, sPokedexScreenData->numSeenNational, 48, 24, 2);
+        DexScreen_AddTextPrinterParameterized(sPokedexScreenData->dexCountsWindowId, 0, gText_Owned, 0, 37, 0);
+        DexScreen_AddTextPrinterParameterized(sPokedexScreenData->dexCountsWindowId, 0, gText_Region, 8, 48, 0);
+        DexScreen_PrintNum3RightAlign(sPokedexScreenData->dexCountsWindowId, 0, sPokedexScreenData->numOwnedKanto, 48, 48, 2);
+        DexScreen_AddTextPrinterParameterized(sPokedexScreenData->dexCountsWindowId, 0, gText_National, 8, 59, 0);
+        DexScreen_PrintNum3RightAlign(sPokedexScreenData->dexCountsWindowId, 0, sPokedexScreenData->numOwnedNational, 48, 59, 2);
+    }
+    else
+    {
+        listMenuTemplate = sListMenuTemplate_KantoDexModeSelect;
+        listMenuTemplate.windowId = sPokedexScreenData->modeSelectWindowId;
+        sPokedexScreenData->modeSelectListMenuId = ListMenuInit(&listMenuTemplate, sPokedexScreenData->modeSelectCursorPos, sPokedexScreenData->modeSelectItemsAbove);
+        FillWindowPixelBuffer(sPokedexScreenData->dexCountsWindowId, PIXEL_FILL(0));
+        DexScreen_AddTextPrinterParameterized(sPokedexScreenData->dexCountsWindowId, 1, gText_Seen, 0, 9, 0);
+        DexScreen_PrintNum3RightAlign(sPokedexScreenData->dexCountsWindowId, 1, sPokedexScreenData->numSeenKanto, 32, 21, 2);
+        DexScreen_AddTextPrinterParameterized(sPokedexScreenData->dexCountsWindowId, 1, gText_Owned, 0, 37, 0);
+        DexScreen_PrintNum3RightAlign(sPokedexScreenData->dexCountsWindowId, 1, sPokedexScreenData->numOwnedKanto, 32, 49, 2);
+    }
+    FillWindowPixelBuffer(0, PIXEL_FILL(15));
+    DexScreen_PrintStringWithAlignment(gText_PokedexTableOfContents, TEXT_CENTER);
+    FillWindowPixelBuffer(1, PIXEL_FILL(15));
+    DexScreen_PrintControlInfo(gText_PickOK);
+    PutWindowTilemap(0);
+    CopyWindowToVram(0, 2);
+    PutWindowTilemap(1);
+    CopyWindowToVram(1, 2);
+    PutWindowTilemap(sPokedexScreenData->dexCountsWindowId);
+    CopyWindowToVram(sPokedexScreenData->dexCountsWindowId, 2);
 }

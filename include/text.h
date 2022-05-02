@@ -7,6 +7,37 @@
 #define _SPACE 0x0
 #define _NEWLINE 0xFE
 
+#define _PLUS           0x2E
+#define _ARROW_UP       0x79
+#define _ARROW_DOWN     0x7A
+#define _ARROW_LEFT     0x7B
+#define _ARROW_RIGHT    0x7C
+#define _0              0xA1
+#define _1              0xA2
+#define _2              0xA3
+#define _3              0xA4
+#define _4              0xA5
+#define _5              0xA6
+#define _6              0xA7
+#define _7              0xA8
+#define _8              0xA9
+#define _9              0xAA
+#define _EXCL_MARK      0xAB
+#define _QUESTION_MARK  0xAC
+#define _PERIOD         0xAD
+#define _HYPHEN         0xAE
+#define _ELLIPSIS       0xB0
+#define _DBL_QUOT_LEFT  0xB1
+#define _DBL_QUOT_RIGHT 0xB2
+#define _SGL_QUOT_LEFT  0xB3
+#define _SGL_QUOT_RIGHT 0xB4
+#define _MALE           0xB5
+#define _FEMALE         0xB6
+#define _CURRENCY       0xB7
+#define _COMMA          0xB8
+#define _MULT_SIGN      0xB9
+#define _SLASH          0xBA
+
 //  Punctutation
 #define _EXCLAMATION 0xAB
 #define _APOSTROPHE 0xB4
