@@ -10873,7 +10873,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 
 	[NATIONAL_DEX_ENAMORUS] = 
 	{
-		 .categoryName = {_L, _O, _V, _E, _SPACE, _H, _A, _T, _E, _END, _END, _END},
+		 .categoryName = {_L, _O, _V, _E, _HYPHEN, _H, _A, _T, _E, _END, _END, _END},
 		.height = 16,
 		.weight = 480,
 		.description = DEX_ENTRY_ENAMORUS,

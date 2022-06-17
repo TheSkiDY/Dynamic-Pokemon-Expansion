@@ -2985,6 +2985,7 @@ const struct HabitatPage gRoughTerrainPages[] =
 	{gRoughTerrainPage26, ARRAY_COUNT(gRoughTerrainPage26)}, 
 	{gRoughTerrainPage27, ARRAY_COUNT(gRoughTerrainPage27)}, 
 	{gRoughTerrainPage28, ARRAY_COUNT(gRoughTerrainPage28)}, 
+	{gRoughTerrainPage29, ARRAY_COUNT(gRoughTerrainPage29)}, 
 };
 
 const struct HabitatPage gUrbanPages[] =
