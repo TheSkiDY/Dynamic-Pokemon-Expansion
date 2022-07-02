@@ -6336,132 +6336,132 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_WYRDEER] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x2,
 	},
 	[SPECIES_KLEAVOR] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_URSALUNA] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0xf,
 	},
 	[SPECIES_BASCULEGION] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_SNEASLER] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_OVERQWIL] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x8,
 	},
 	[SPECIES_ENAMORUS] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_GROWLITHE_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x2,
 	},
 	[SPECIES_ARCANINE_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_VOLTORB_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0xa,
 	},
 	[SPECIES_ELECTRODE_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x8,
 	},
 	[SPECIES_TYPHLOSION_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x4,
 	},
 	[SPECIES_QWILFISH_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x8,
 	},
 	[SPECIES_SNEASEL_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x4,
 	},
 	[SPECIES_SAMUROTT_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_LILLIGANT_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x6,
 	},
 	[SPECIES_ZORUA_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x2,
 	},
 	[SPECIES_ZOROARK_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_BRAVIARY_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0xb,
 	},
 	[SPECIES_SLIGGOO_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_GOODRA_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0xa,
 	},
 	[SPECIES_AVALUGG_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x12,
 	},
 	[SPECIES_DECIDUEYE_H] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_DIALGA_ORIGIN] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_PALKIA_ORIGIN] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x4,
 	},
 	[SPECIES_BASCULIN_WHITE] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x11,
 	},
 	[SPECIES_BASCULEGION_FEMALE] = 
 	{
@@ -6471,7 +6471,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_ENAMORUS_THERIAN] = 
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x3,
 	},
 	[SPECIES_SPRIGATITO] = 
 	{
