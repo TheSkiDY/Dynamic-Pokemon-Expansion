@@ -1,0 +1,168 @@
+#-------------------------------
+[ARCANINE,1]
+FormName = Mega Arcanine
+MegaStone = Arcanite
+BaseStats = 90,155,80,105,120,105
+Abilities = RECKLESS
+HiddenAbility = RECKLESS
+Height = 2.0
+Weight = 150.5
+Pokedex = Arcanine discovered the benefits of smoke and uses them to attack its foe with powerful sneak attacks.
+Generation = 9
+#-------------------------------
+[MACHAMP,1]
+FormName = Mega Machamp
+MegaStone = Machamite
+BaseStats = 90,170,110,55,85,95
+Abilities = IRONFIST
+HiddenAbility = IRONFIST
+Height = 2.1
+Weight = 170.0
+Pokedex = Mega evolution gives Machamp a gigantic boost to its already strong phsicality. A very long exposure to the energy might cause Machamp pain though.
+Generation = 9
+#-------------------------------
+[BARBARACLE,1]
+FormName = Mega Barbaracle
+MegaStone = Barbaraclite
+BaseStats = 72,78,54,145,145,106
+Abilities = LEVITATE
+HiddenAbility = LEVITATE
+Height = 1.3
+Weight = 89.0
+Pokedex = Barbaracle became one with the sea and is now capable of summoning devastating sea stroms and 100 feet tall waves.
+Generation = 9
+#-------------------------------
+[SCRAFTY,1]
+FormName = Mega Scrafty
+MegaStone = Scraftine
+BaseStats = 65,110,125,58,65,165
+Abilities = SCRAPPY
+HiddenAbility = SCRAPPY
+Height = 1.2
+Weight = 34.2
+Pokedex = Since Mega Scrafty travels faster than the sound of its movement. It can perform quick and silent attacks.
+Generation = 9
+#-------------------------------
+[MISMAGIUS,1]
+FormName = Mega Mismagius
+MegaStone = Mismaginite
+Type1= Ghost
+Type2= Psychic
+BaseStats = 60,65,65,135,135,135
+Abilities = DAZZLING
+HiddenAbility = DAZZLING
+Height = 1.3
+Weight = 6.2
+Pokedex = Mega Mismagius gains its power from the moon. Under the influence of a full moon, its power is unscalable.
+Generation = 9
+#-------------------------------
+[UXIE,1]
+FormName = Mega Uxie
+MegaStone = Uxinite
+BaseStats = 75,100,145,100,145,115
+Abilities = LEVITATE
+HiddenAbility = LEVITATE
+Height = 0.6
+Weight = 0.5
+Pokedex = Through its mega evolution Uxie lost all control of its body. It follows an inner force that wants to defeat anyone who has a comparable amount of wisdom.
+Generation = 9
+#-------------------------------
+[X]
+Name = Pansimi
+InternalName = PANSIMI
+Type1 = NORMAL
+BaseStats = 38,38,33,38,33,40
+GenderRate = FemaleOneEighth
+GrowthRate = Fast
+BaseEXP = 44
+EffortPoints = 0,0,0,0,0,1
+Rareness = 45
+Happiness = 50
+Abilities = RUNAWAY
+HiddenAbility = COMATOSE
+Moves = 1,Scratch,1,BABYDOLLEYES,4,LICK,8,FAKEOUT,12,CHARME,16,ENDEAVOR,20,SWIFT
+TutorMoves = MEGAPUNCH,MEGAKICK,DIG,SCREECH,TOXIC,PROTECT,SUBSTITUTE,SAFEGUAD,REST,SNORE,SLEEPTALK,SCARYFACE,CHARM,ATTRACT,BEATUP,FACADE,SWIFT,HELPINGHAND,FAKETEARS,FLING,SHADOWCLAW,ROUND,ACROBATICS,RETALIATE,DRAININGKISS,BODYSLAM,AGILITY,METRONOME,AMNESIA,ENDURE,ENCORE,UPRAOR,TAUNT,HYPERVOICE,WORKUP,BULKUP,CAPTIVATE,CONFIDE,DOUBLETEAM
+EggMoves = ASTONISH,TICKLE,COVET,NASTYPLOT,DISARMINGVOICE,ROLEPLAY,PRESENT,LOWKICK
+Compatibility = Undiscovered
+StepsToHatch = 5120
+Height = 0.4
+Weight = 5.2
+Color = Gray
+Shape = BipedalTail
+Habitat = Forest
+Kind = Small Monkey
+Pokedex = Cause of its low power, Pansimi spends most of the day sleeping. It strongly depends on the support of its tribe.
+Generation = 9
+BattlerPlayerX = 
+BattlerPlayerY =
+BattlerEnemyX = 
+BattlerEnemyY = 
+BattlerShadowX = 
+BattlerShadowSize = 
+Evolutions = PANSEAR,Pansear,10,PANSAGE,Pansage,10,PANPOUR,Panpour,10
+#-------------------------------
+[X]
+Name = Xapling
+InternalName = XAPLING
+Type1 = ELECTRIC
+BaseStats = 63,71,57,123,57,69
+GenderRate = Genderless
+GrowthRate = Slow
+BaseEXP = 189
+EffortPoints = 0,0,0,1,0,0
+Rareness = 45
+Happiness = 0
+Abilities = BEASTBOOST
+Moves = 1,TAILGLOW,1,SPARK,1,CHARGE,1,WRAP,1,THUNDERSHOCK,5,THUNDERWAVE,11,SHOCKWAVE,17,INGRAIN,21,THUNDERPUNCH,27,EERIEIMPULSE,29,SIGNALBEAM,35,THUNDERBOLT,41,HYPNOSIS,45,DISCHARGE,51,ELECTRICTERRAIN,57,POWERWHIP,65,IONDELUGE,71,ZAPCANNON
+TutorMoves = BIND,BRUTALSWING,CALMMIND,CHARGEBEAM,CONFIDE,DAZZLINGGLEAM,DOUBLETEAM,ELECTROWEB,ENERGYBALL,FACADE,FLING,FRUSTRATION,GIGAIMPACT,GRASSKNOT,GRAVITY,HIDDENPOWER,HYPERBEAM,LIGHTSCREEN,MAGICCOAT,MAGNETRISE,NATUREPOWER,PROTECT,RAINDANCE,REFLECT,REST,RETURN,ROUND,SHOCKWAVE,SIGNALBEAM,SLEEPTALK,SNORE,SOLARBEAM,SUBSTITUTE,SUNNYDAY,SWAGGER,THUNDER,THUNDERBOLT,THUNDERPUNCH,THUNDERWAVE,TOXIC,VOLTSWITCH,WILDCHARGE
+Compatibility = Undiscovered
+StepsToHatch = 30720
+Height = 0.8
+Weight = 22.3
+Color = Black
+Shape = BipedalTail
+Habitat = Rare
+Kind = Glowing Pokemon
+Pokedex = Xapling is very unstable und unable to contain electricity. It constantly searches for new sources of energy.
+Generation = 9
+BattlerPlayerX = 
+BattlerPlayerY =
+BattlerEnemyX = 
+BattlerEnemyY = 
+BattlerShadowX = 
+BattlerShadowSize = 
+Evolutions = XURKITREE,Level,40
+#-------------------------------
+[X]
+Name = Capricorn
+InternalName = CAPRICORN
+Type1 = GRASS
+BaseStats = 75,110,70,55,70,80
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 159
+EffortPoints = 0,2,0,0,0,0
+Rareness = 55
+Happiness = 40
+Abilities = SAPSIPPER,CHLOROPHYLL
+HiddenAbility = ANGERPOINT
+Moves = 1,GROWL,1,TACKLE,3,GROWTH,7,VINEWHIP,10,SCREECH,13,LEAFTORNADO,16,STOMP,21,RAZORLEAF,23,SWAGGER,27,AGILITY,33,HORNLEECH,38,TAKEDOWN,43,ZENHEADBUTT,49,MEGAHORN,50,GRASSYTERRAIN,55,WOODHAMMER
+TutorMoves = SCREECH,TOXIC,PROTECT,SUBSTITUTE,REST,SNORE,SLEEPTALK,SCARYFACE,ATTRACT,BEATUP,FACADE,ROUND,RETALIATE,BODYSLAM,AGILITY,ENDURE,UPRAOR,TAUNT,HYPERVOICE,WORKUP,BULKUP,CAPTIVATE,DOUBLEEDGE,DOUBLETEAM,CONFIDE,MEGAKICK,SOLARBEAM,SOLARBLADE,ROCKSLIDE,SUNNYDAY,RAINDANCE,REVENGE,BRICKBREAK,ROCKTOMB,BOUNCE,PAYBACK,BRUTALSWING,STOMPINGTANTRUM,LOWKICK,FOCUSENERGY,MEGAHORN,SUPERPOWER,SEEDBOMB,ZENHEADBUTT,IRONHEAD,GRASSKNOT,FOULPLAY,PLAYROUGH
+EggMoves = STRENGTHSAP,INGRAIN,ASTONISH,CURSE,JUMPKICK,MEGADRAIN,LEAFBLADE,FLAIL,PETALDANCE
+Compatibility = Field,Grass
+StepsToHatch = 5120
+Height = 1.3
+Weight = 72.0
+Color = Green
+Shape = Quadruped
+Habitat = Mountain
+Kind = Corn
+Pokedex = Cause of its low power, Pansimi spends most of the day sleeping. It strongly depends on the support of its tribe.
+Generation = 9
+BattlerPlayerX = 
+BattlerPlayerY =
+BattlerEnemyX = 
+BattlerEnemyY = 
+BattlerShadowX = 
+BattlerShadowSize = 
+#-------------------------------

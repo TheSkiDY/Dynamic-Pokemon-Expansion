@@ -1,0 +1,12 @@
+Textbox
+
+Imagen:
+471a4c
+Paleta:
+471e4c
+
+Gráfico ID Level:
+Imagen:
+2506f0
+Paleta:
+2506D0
