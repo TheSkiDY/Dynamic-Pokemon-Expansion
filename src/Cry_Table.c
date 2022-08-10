@@ -12258,7 +12258,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_WISHIWASHI_S] = 
+	[SPECIES_WISHIWASHI_SCHOOLING] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
