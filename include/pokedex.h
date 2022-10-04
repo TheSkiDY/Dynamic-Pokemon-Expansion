@@ -2119,3 +2119,28 @@ extern const u8 DEX_ENTRY_TALONFLAME_MEGA[];
 extern const u8 DEX_ENTRY_LOPUNNY_S_MEGA[];
 extern const u8 DEX_ENTRY_CARBINK_MEGA[];
 extern const u8 DEX_ENTRY_DEMOLETT_SHELTER[];
+
+extern const u8 DEX_CATEGORY_HOOPA_UNBOUND[];
+extern const u8 DEX_CATEGORY_CALYREX_ICE[];
+extern const u8 DEX_CATEGORY_CALYREX_GHOST[];
+extern const u8 DEX_CATEGORY_PONYTA_G[];
+extern const u8 DEX_CATEGORY_RAPIDASH_G[];
+extern const u8 DEX_CATEGORY_MR_MIME_G[];
+extern const u8 DEX_CATEGORY_SLOWKING_G[];
+extern const u8 DEX_CATEGORY_ARTICUNO_G[];
+extern const u8 DEX_CATEGORY_ZAPDOS_G[];
+extern const u8 DEX_CATEGORY_MOLTRES_G[];
+extern const u8 DEX_CATEGORY_DARMANITAN_G[];
+extern const u8 DEX_CATEGORY_DARMANITAN_G_ZEN[];
+extern const u8 DEX_CATEGORY_GROWLITHE_H[];
+extern const u8 DEX_CATEGORY_VOLTORB_H[];
+extern const u8 DEX_CATEGORY_ELECTRODE_H[];
+extern const u8 DEX_CATEGORY_TYPHLOSION_H[];
+extern const u8 DEX_CATEGORY_LILLIGANT_H[];
+extern const u8 DEX_CATEGORY_BASCULIN_WHITE[];
+extern const u8 DEX_CATEGORY_ZORUA_H[];
+extern const u8 DEX_CATEGORY_ZOROARK_H[];
+extern const u8 DEX_CATEGORY_BRAVIARY_H[];
+extern const u8 DEX_CATEGORY_SLIGGOO_H[];
+extern const u8 DEX_CATEGORY_GOODRA_H[];
+

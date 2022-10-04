@@ -5652,34 +5652,37 @@ extern const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON];
 // given species.
 u16 GetEggSpecies(u16 species)
 {
-    int i, j, k;
-    bool8 found;
+	int i, j, k;
+	bool8 found;
 
-    // Working backwards up to 5 times seems arbitrary, since the maximum number
-    // of times would only be 3 for 3-stage evolutions.
-    for (i = 0; i < EVOS_PER_MON; i++)
-    {
-        found = FALSE;
-        for (j = 1; j < NUM_SPECIES; j++)
-        {
-            for (k = 0; k < EVOS_PER_MON; k++)
-            {
-                if (gEvolutionTable[j][k].method != EVO_MEGA && gEvolutionTable[j][k].targetSpecies == species)
-                {
-                    species = j;
-                    found = TRUE;
-                    break;
-                }
-            }
+	for (i = 0; i < 3; ++i)
+	{
+		found = FALSE;
 
-            if (found)
-                break;
-        }
+		for (j = 1; j < NUM_SPECIES; ++j)
+		{
+			for (k = 0; k < EVOS_PER_MON; ++k)
+			{
+				if (gEvolutionTable[j][k].method != EVO_MEGA
+				&& gEvolutionTable[j][k].method != EVO_GIGANTAMAX
+				&& gEvolutionTable[j][k].targetSpecies == species)
+				{
+					species = j;
+					found = TRUE;
+					break;
+				}
 
-        if (j == NUM_SPECIES)
-            break;
-    }
+				if (gEvolutionTable[j][k].method == EVO_NONE) //Most likely end of entries
+					break; //Break now to save time
+			}
 
-    return species;
+			if (found)
+				break;
+		}
+
+		if (j == NUM_SPECIES)
+			break;
+	}
+
+	return species;
 }
-

@@ -46,7 +46,14 @@ enum EvolutionMethods
 	EVO_CRITICAL_HIT, // successfully land 3 critical hits in one battle
 	EVO_NATURE_HIGH, // evolution based on high key nature at a certain level
 	EVO_NATURE_LOW, // evolution based on low key nature at a certain level
-	EVO_DAMAGE_LOCATION // recieve 49+ damage in battle without fainting, walk to specific tile
+	EVO_FLAG_SET, //If a certain flag is set. Can be used for touching the Mossy/Icy Rock for Leafeon/Glaceon evolutions
+	EVO_DAMAGE_LOCATION, // recieve 49+ damage in battle without fainting, walk to specific tile
+	EVO_ITEM_LOCATION, // Stand on a tile with a certain behaviour and use an item on a Pokemon
+	EVO_LEVEL_HOLD_ITEM, // Level up to a certain level while holding an item
+	EVO_ITEM_HOLD_ITEM, // Use and item on a Pokemon while its holding an item
+	EVO_MOVE_MALE, // Knows a given move and is male
+	EVO_MOVE_FEMALE, // Knows a given move and is female
+	EVO_ITEM_NIGHT, // Item is used on it at night
 };
 
 #define EVO_GIGANTAMAX 0xFD

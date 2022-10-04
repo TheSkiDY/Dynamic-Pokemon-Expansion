@@ -6,10 +6,18 @@
 #include "../include/text.h"
 
 //Backsprite battle start
+struct Pokemon
+{
+	u8 data[0x20];
+	u16 species;
+	u8 data2[0x42];
+};
 
 extern const u8 gSpeciesNames[][POKEMON_NAME_LENGTH + 1];
+extern const struct PokedexEntry gPokedexEntries[];
 extern const u16 gSpeciesIdToCryId[];
 extern const u16 gSpeciesToNationalPokedexNum[];
+extern struct Pokemon gPlayerParty[6];
 
 extern const u16 gPokedexOrder_Regional[];
 extern const u16 gRegionalDexCount;
@@ -23,6 +31,7 @@ extern const u16 gPokedexOrder_Type[];
 extern const u16 gPokedexOrderTypeCount;
 
 extern const struct AlternateDexEntries gAlternateDexEntries[];
+extern const struct AlternateDexEntries gAlternateDexCategories[];
 extern const struct CompressedSpriteSheet gMonBackPicTable[];
 extern const struct CompressedSpriteSheet gMonFrontPicTable[];
 extern const struct CompressedSpritePalette gMonPaletteTable[];
@@ -31,12 +40,18 @@ extern const struct CompressedSpritePalette gMonShinyPaletteTable[];
 const u16 gNumSpecies = NUM_SPECIES;
 const u16 gNumDexEntries = FINAL_DEX_ENTRY;
 
+#define MON_DATA_SPECIES           11
+#define MON_DATA_SPECIES2          65
+typedef u32 (*GetBoxMonDataAt_T) (u8 boxId, u8 boxPosition, s32 request);
+#define GetBoxMonDataAt ((GetBoxMonDataAt_T) (0x0808BA18 |1))
+
 u8 __attribute__((long_call)) GetGenderFromSpeciesAndPersonality(u16 species, u32 personality);
 u8  __attribute__((long_call)) GetUnownLetterFromPersonality(u32 personality);
 bool8 __attribute__((long_call)) GetSetPokedexFlag(u16 nationalNum, u8 caseID);
 s8 __attribute__((long_call)) DexFlagCheck(u16 nationalDexNo, u8 caseId, bool8 indexIsSpecies);
 u16 __attribute__((long_call)) SpeciesToNationalPokedexNum(u16 species);
 void __attribute__((long_call)) break_func();
+
 
 
 //This file's functions
@@ -232,6 +247,22 @@ const u8* TryLoadAlternateDexEntry(u16 species)
 	return 0;
 }
 
+const u8* TryLoadAlternateDexCategory(u16 species)
+{
+    u32 i;
+    u16 dexNum = SpeciesToNationalPokedexNum(species);
+    const u8* category = gPokedexEntries[dexNum].categoryName;
+    for (i = 0; gAlternateDexCategories[i].species != SPECIES_TABLES_TERMIN; ++i)
+    {
+        if (gAlternateDexCategories[i].species == species)
+        {
+            category = gAlternateDexCategories[i].description;
+            break;
+        }
+    }
+    return category;
+}
+
 void LoadSpecialPokePic(const struct CompressedSpriteSheet* src, void* dest, u16 species, u32 personality, bool8 isFrontPic)
 {
 	u16 oldSpecies = species;
@@ -274,7 +305,7 @@ const u32* GetFrontSpritePalFromSpeciesAndPersonality(u16 species, u32 otId, u32
 		return (u32*) gMonPaletteTable[0].data;
 
 	shinyValue = HIHALF(otId) ^ LOHALF(otId) ^ HIHALF(personality) ^ LOHALF(personality);
-	if (shinyValue < 8)
+	if (shinyValue < 16)
 		return (u32*) gMonShinyPaletteTable[species].data;
 	else
 		return (u32*) gMonPaletteTable[species].data;
@@ -286,7 +317,7 @@ const struct CompressedSpritePalette* GetMonSpritePalStructFromOtIdPersonality(u
 	species = TryGetFemaleGenderedSpecies(species, personality);
 
 	shinyValue = HIHALF(otId) ^ LOHALF(otId) ^ HIHALF(personality) ^ LOHALF(personality);
-	if (shinyValue < 8)
+	if (shinyValue < 16)
 		return &gMonShinyPaletteTable[species];
 	else
 		return &gMonPaletteTable[species];

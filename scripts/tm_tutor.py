@@ -107,6 +107,9 @@ def ReverseString(string: str) -> str:
 
 
 def PokemonDataListInitializer(numEntries: int) -> [[]]:
+    if numEntries % 32 != 0:
+        numEntries = 32 * (numEntries // 32 + 1)  # Round up to the nearest multiple of 32
+
     outerList = []
     for a in range(int(SPECIES_COUNT)):
         innerList = [0] * numEntries
