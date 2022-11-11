@@ -305,7 +305,7 @@ const u32* GetFrontSpritePalFromSpeciesAndPersonality(u16 species, u32 otId, u32
 		return (u32*) gMonPaletteTable[0].data;
 
 	shinyValue = HIHALF(otId) ^ LOHALF(otId) ^ HIHALF(personality) ^ LOHALF(personality);
-	if (shinyValue < 16)
+	if (shinyValue < 8)
 		return (u32*) gMonShinyPaletteTable[species].data;
 	else
 		return (u32*) gMonPaletteTable[species].data;
@@ -317,7 +317,7 @@ const struct CompressedSpritePalette* GetMonSpritePalStructFromOtIdPersonality(u
 	species = TryGetFemaleGenderedSpecies(species, personality);
 
 	shinyValue = HIHALF(otId) ^ LOHALF(otId) ^ HIHALF(personality) ^ LOHALF(personality);
-	if (shinyValue < 16)
+	if (shinyValue < 8)
 		return &gMonShinyPaletteTable[species];
 	else
 		return &gMonPaletteTable[species];
