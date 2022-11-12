@@ -23229,7 +23229,7 @@ static const struct LevelUpMove sSprigatitoLevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sSprigatitoEvoLevelUpLearnset[] = {
+static const struct LevelUpMove sFloragatoLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23244,7 +23244,7 @@ static const struct LevelUpMove sSprigatitoEvoLevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sSprigatitoEvo2LevelUpLearnset[] = {
+static const struct LevelUpMove sMeowscaradaLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23274,7 +23274,7 @@ static const struct LevelUpMove sFuecocoLevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sFuecocoEvoLevelUpLearnset[] = {
+static const struct LevelUpMove sCrocalorLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23289,7 +23289,7 @@ static const struct LevelUpMove sFuecocoEvoLevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sFuecocoEvo2LevelUpLearnset[] = {
+static const struct LevelUpMove sSkeledirgeLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23319,7 +23319,7 @@ static const struct LevelUpMove sQuaxlyLevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sQuaxlyEvoLevelUpLearnset[] = {
+static const struct LevelUpMove sQuaxwellLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23334,7 +23334,7 @@ static const struct LevelUpMove sQuaxlyEvoLevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sQuaxlyEvo2LevelUpLearnset[] = {
+static const struct LevelUpMove sQuaquavalLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23349,7 +23349,7 @@ static const struct LevelUpMove sQuaxlyEvo2LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet1LevelUpLearnset[] = {
+static const struct LevelUpMove sLechonkLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23364,7 +23364,7 @@ static const struct LevelUpMove sScarletViolet1LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet2LevelUpLearnset[] = {
+static const struct LevelUpMove sOinkologneLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23379,7 +23379,7 @@ static const struct LevelUpMove sScarletViolet2LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet3LevelUpLearnset[] = {
+static const struct LevelUpMove sDudunsparceLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23394,7 +23394,7 @@ static const struct LevelUpMove sScarletViolet3LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet4LevelUpLearnset[] = {
+static const struct LevelUpMove sTarountulaLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23409,7 +23409,7 @@ static const struct LevelUpMove sScarletViolet4LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet5LevelUpLearnset[] = {
+static const struct LevelUpMove sSpidopsLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23424,7 +23424,7 @@ static const struct LevelUpMove sScarletViolet5LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet6LevelUpLearnset[] = {
+static const struct LevelUpMove sNymbleLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23439,7 +23439,7 @@ static const struct LevelUpMove sScarletViolet6LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet7LevelUpLearnset[] = {
+static const struct LevelUpMove sLokixLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23454,7 +23454,7 @@ static const struct LevelUpMove sScarletViolet7LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet8LevelUpLearnset[] = {
+static const struct LevelUpMove sRellorLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23469,7 +23469,7 @@ static const struct LevelUpMove sScarletViolet8LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet9LevelUpLearnset[] = {
+static const struct LevelUpMove sRabscaLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23484,7 +23484,7 @@ static const struct LevelUpMove sScarletViolet9LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet10LevelUpLearnset[] = {
+static const struct LevelUpMove sGreavardLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23499,7 +23499,7 @@ static const struct LevelUpMove sScarletViolet10LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet11LevelUpLearnset[] = {
+static const struct LevelUpMove sHoundstoneLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23514,7 +23514,7 @@ static const struct LevelUpMove sScarletViolet11LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet12LevelUpLearnset[] = {
+static const struct LevelUpMove sFlittleLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23529,7 +23529,7 @@ static const struct LevelUpMove sScarletViolet12LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet13LevelUpLearnset[] = {
+static const struct LevelUpMove sEspathraLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23544,7 +23544,7 @@ static const struct LevelUpMove sScarletViolet13LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet14LevelUpLearnset[] = {
+static const struct LevelUpMove sFarigirafLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23559,7 +23559,7 @@ static const struct LevelUpMove sScarletViolet14LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet15LevelUpLearnset[] = {
+static const struct LevelUpMove sWiglettLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23574,7 +23574,7 @@ static const struct LevelUpMove sScarletViolet15LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet16LevelUpLearnset[] = {
+static const struct LevelUpMove sWugtrioLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23589,7 +23589,7 @@ static const struct LevelUpMove sScarletViolet16LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet17LevelUpLearnset[] = {
+static const struct LevelUpMove sDondozoLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23604,7 +23604,7 @@ static const struct LevelUpMove sScarletViolet17LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet18LevelUpLearnset[] = {
+static const struct LevelUpMove sVeluzaLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23619,7 +23619,7 @@ static const struct LevelUpMove sScarletViolet18LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet19LevelUpLearnset[] = {
+static const struct LevelUpMove sFinizenLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23634,7 +23634,7 @@ static const struct LevelUpMove sScarletViolet19LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet20LevelUpLearnset[] = {
+static const struct LevelUpMove sPalafinLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23649,7 +23649,7 @@ static const struct LevelUpMove sScarletViolet20LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet21LevelUpLearnset[] = {
+static const struct LevelUpMove sSmolivLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23664,7 +23664,7 @@ static const struct LevelUpMove sScarletViolet21LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet22LevelUpLearnset[] = {
+static const struct LevelUpMove sDollivLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23679,7 +23679,7 @@ static const struct LevelUpMove sScarletViolet22LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet23LevelUpLearnset[] = {
+static const struct LevelUpMove sArbolivaLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23694,7 +23694,7 @@ static const struct LevelUpMove sScarletViolet23LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet24LevelUpLearnset[] = {
+static const struct LevelUpMove sCapsakidLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23709,7 +23709,7 @@ static const struct LevelUpMove sScarletViolet24LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet25LevelUpLearnset[] = {
+static const struct LevelUpMove sScovillainLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23724,7 +23724,7 @@ static const struct LevelUpMove sScarletViolet25LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet26LevelUpLearnset[] = {
+static const struct LevelUpMove sTadbulbLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23739,7 +23739,7 @@ static const struct LevelUpMove sScarletViolet26LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet27LevelUpLearnset[] = {
+static const struct LevelUpMove sBelliboltLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23754,7 +23754,7 @@ static const struct LevelUpMove sScarletViolet27LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet28LevelUpLearnset[] = {
+static const struct LevelUpMove sVaroomLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23769,7 +23769,7 @@ static const struct LevelUpMove sScarletViolet28LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet29LevelUpLearnset[] = {
+static const struct LevelUpMove sRevavroomLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23784,7 +23784,7 @@ static const struct LevelUpMove sScarletViolet29LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet30LevelUpLearnset[] = {
+static const struct LevelUpMove sOrthwormLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23799,7 +23799,7 @@ static const struct LevelUpMove sScarletViolet30LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet31LevelUpLearnset[] = {
+static const struct LevelUpMove sTandemausLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23814,7 +23814,7 @@ static const struct LevelUpMove sScarletViolet31LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet32LevelUpLearnset[] = {
+static const struct LevelUpMove sMausholdLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23829,7 +23829,7 @@ static const struct LevelUpMove sScarletViolet32LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet33LevelUpLearnset[] = {
+static const struct LevelUpMove sCetoddleLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23844,7 +23844,7 @@ static const struct LevelUpMove sScarletViolet33LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet34LevelUpLearnset[] = {
+static const struct LevelUpMove sCetitanLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23859,7 +23859,7 @@ static const struct LevelUpMove sScarletViolet34LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet35LevelUpLearnset[] = {
+static const struct LevelUpMove sFrigibaxLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23874,7 +23874,7 @@ static const struct LevelUpMove sScarletViolet35LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet36LevelUpLearnset[] = {
+static const struct LevelUpMove sArctibaxLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23889,7 +23889,7 @@ static const struct LevelUpMove sScarletViolet36LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet37LevelUpLearnset[] = {
+static const struct LevelUpMove sBaxcaliburLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23904,7 +23904,7 @@ static const struct LevelUpMove sScarletViolet37LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet38LevelUpLearnset[] = {
+static const struct LevelUpMove sTatsugiriLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23919,7 +23919,7 @@ static const struct LevelUpMove sScarletViolet38LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet39LevelUpLearnset[] = {
+static const struct LevelUpMove sCyclizarLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23934,7 +23934,7 @@ static const struct LevelUpMove sScarletViolet39LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet40LevelUpLearnset[] = {
+static const struct LevelUpMove sPawmiLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23949,7 +23949,7 @@ static const struct LevelUpMove sScarletViolet40LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet41LevelUpLearnset[] = {
+static const struct LevelUpMove sPawmoLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23964,7 +23964,7 @@ static const struct LevelUpMove sScarletViolet41LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet42LevelUpLearnset[] = {
+static const struct LevelUpMove sPawmotLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23979,7 +23979,7 @@ static const struct LevelUpMove sScarletViolet42LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet43LevelUpLearnset[] = {
+static const struct LevelUpMove sWattrelLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -23994,7 +23994,7 @@ static const struct LevelUpMove sScarletViolet43LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet44LevelUpLearnset[] = {
+static const struct LevelUpMove sKilowattrelLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24009,7 +24009,7 @@ static const struct LevelUpMove sScarletViolet44LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet45LevelUpLearnset[] = {
+static const struct LevelUpMove sBombirdierLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24024,7 +24024,7 @@ static const struct LevelUpMove sScarletViolet45LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet46LevelUpLearnset[] = {
+static const struct LevelUpMove sSquawkabillyLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24039,7 +24039,7 @@ static const struct LevelUpMove sScarletViolet46LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet47LevelUpLearnset[] = {
+static const struct LevelUpMove sFlamigoLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24054,7 +24054,7 @@ static const struct LevelUpMove sScarletViolet47LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet48LevelUpLearnset[] = {
+static const struct LevelUpMove sKlawfLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24069,7 +24069,7 @@ static const struct LevelUpMove sScarletViolet48LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet49LevelUpLearnset[] = {
+static const struct LevelUpMove sNacliLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24084,7 +24084,7 @@ static const struct LevelUpMove sScarletViolet49LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet50LevelUpLearnset[] = {
+static const struct LevelUpMove sNaclstackLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24099,7 +24099,7 @@ static const struct LevelUpMove sScarletViolet50LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet51LevelUpLearnset[] = {
+static const struct LevelUpMove sGarganaclLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24114,7 +24114,7 @@ static const struct LevelUpMove sScarletViolet51LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet52LevelUpLearnset[] = {
+static const struct LevelUpMove sGlimmetLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24129,7 +24129,7 @@ static const struct LevelUpMove sScarletViolet52LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet53LevelUpLearnset[] = {
+static const struct LevelUpMove sGlimmoraLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24144,7 +24144,7 @@ static const struct LevelUpMove sScarletViolet53LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet54LevelUpLearnset[] = {
+static const struct LevelUpMove sShroodleLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24159,7 +24159,7 @@ static const struct LevelUpMove sScarletViolet54LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet55LevelUpLearnset[] = {
+static const struct LevelUpMove sGrafaiaiLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24174,7 +24174,7 @@ static const struct LevelUpMove sScarletViolet55LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet56LevelUpLearnset[] = {
+static const struct LevelUpMove sFidoughLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24189,7 +24189,7 @@ static const struct LevelUpMove sScarletViolet56LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet57LevelUpLearnset[] = {
+static const struct LevelUpMove sDachsbunLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24204,7 +24204,7 @@ static const struct LevelUpMove sScarletViolet57LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet58LevelUpLearnset[] = {
+static const struct LevelUpMove sMaschiffLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24219,7 +24219,7 @@ static const struct LevelUpMove sScarletViolet58LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet59LevelUpLearnset[] = {
+static const struct LevelUpMove sMabosstiffLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24234,7 +24234,7 @@ static const struct LevelUpMove sScarletViolet59LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet60LevelUpLearnset[] = {
+static const struct LevelUpMove sBramblinLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24249,7 +24249,7 @@ static const struct LevelUpMove sScarletViolet60LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet61LevelUpLearnset[] = {
+static const struct LevelUpMove sBrambleghastLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24264,7 +24264,7 @@ static const struct LevelUpMove sScarletViolet61LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet62LevelUpLearnset[] = {
+static const struct LevelUpMove sGimmighoulLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24279,7 +24279,7 @@ static const struct LevelUpMove sScarletViolet62LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet63LevelUpLearnset[] = {
+static const struct LevelUpMove sGholdengoLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24294,7 +24294,7 @@ static const struct LevelUpMove sScarletViolet63LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet64LevelUpLearnset[] = {
+static const struct LevelUpMove sDonphanAncientLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24309,7 +24309,7 @@ static const struct LevelUpMove sScarletViolet64LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet65LevelUpLearnset[] = {
+static const struct LevelUpMove sAmoongussAncientLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24324,7 +24324,7 @@ static const struct LevelUpMove sScarletViolet65LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet66LevelUpLearnset[] = {
+static const struct LevelUpMove sSuicuneAncientLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24339,7 +24339,7 @@ static const struct LevelUpMove sScarletViolet66LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet67LevelUpLearnset[] = {
+static const struct LevelUpMove sMagnetonAncientLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24354,7 +24354,7 @@ static const struct LevelUpMove sScarletViolet67LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet68LevelUpLearnset[] = {
+static const struct LevelUpMove sJigglypuffAncientLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24369,7 +24369,7 @@ static const struct LevelUpMove sScarletViolet68LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet69LevelUpLearnset[] = {
+static const struct LevelUpMove sMisdreavusAncientLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24384,7 +24384,7 @@ static const struct LevelUpMove sScarletViolet69LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet70LevelUpLearnset[] = {
+static const struct LevelUpMove sVolcaronaAncientLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24399,7 +24399,7 @@ static const struct LevelUpMove sScarletViolet70LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet71LevelUpLearnset[] = {
+static const struct LevelUpMove sSalamenceAncientLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24414,7 +24414,7 @@ static const struct LevelUpMove sScarletViolet71LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet72LevelUpLearnset[] = {
+static const struct LevelUpMove sDonphanFutureLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24429,7 +24429,7 @@ static const struct LevelUpMove sScarletViolet72LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet73LevelUpLearnset[] = {
+static const struct LevelUpMove sVirizionFutureLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24444,7 +24444,7 @@ static const struct LevelUpMove sScarletViolet73LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet74LevelUpLearnset[] = {
+static const struct LevelUpMove sVolcaronaFutureLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24459,7 +24459,7 @@ static const struct LevelUpMove sScarletViolet74LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet75LevelUpLearnset[] = {
+static const struct LevelUpMove sHariyamaFutureLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24474,7 +24474,7 @@ static const struct LevelUpMove sScarletViolet75LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet76LevelUpLearnset[] = {
+static const struct LevelUpMove sHydreigonFutureLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24489,7 +24489,7 @@ static const struct LevelUpMove sScarletViolet76LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet77LevelUpLearnset[] = {
+static const struct LevelUpMove sTyranitarFutureLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24504,7 +24504,7 @@ static const struct LevelUpMove sScarletViolet77LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet78LevelUpLearnset[] = {
+static const struct LevelUpMove sDelibirdFutureLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24519,7 +24519,7 @@ static const struct LevelUpMove sScarletViolet78LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet79LevelUpLearnset[] = {
+static const struct LevelUpMove sGalladeFutureLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24534,7 +24534,7 @@ static const struct LevelUpMove sScarletViolet79LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet80LevelUpLearnset[] = {
+static const struct LevelUpMove sTingLuLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24549,7 +24549,7 @@ static const struct LevelUpMove sScarletViolet80LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet81LevelUpLearnset[] = {
+static const struct LevelUpMove sChienPaoLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24564,7 +24564,7 @@ static const struct LevelUpMove sScarletViolet81LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet82LevelUpLearnset[] = {
+static const struct LevelUpMove sWoChienLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24579,7 +24579,7 @@ static const struct LevelUpMove sScarletViolet82LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet83LevelUpLearnset[] = {
+static const struct LevelUpMove sChiYuLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24594,7 +24594,7 @@ static const struct LevelUpMove sScarletViolet83LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet84LevelUpLearnset[] = {
+static const struct LevelUpMove sKoraidonLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24609,7 +24609,7 @@ static const struct LevelUpMove sScarletViolet84LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet85LevelUpLearnset[] = {
+static const struct LevelUpMove sMiraidonLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24624,7 +24624,7 @@ static const struct LevelUpMove sScarletViolet85LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet86LevelUpLearnset[] = {
+static const struct LevelUpMove sTinkatinkLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24639,7 +24639,7 @@ static const struct LevelUpMove sScarletViolet86LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet87LevelUpLearnset[] = {
+static const struct LevelUpMove sTinkatuffLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24654,7 +24654,7 @@ static const struct LevelUpMove sScarletViolet87LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet88LevelUpLearnset[] = {
+static const struct LevelUpMove sTinkatonLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24669,7 +24669,7 @@ static const struct LevelUpMove sScarletViolet88LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet89LevelUpLearnset[] = {
+static const struct LevelUpMove sCharcadetLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24684,7 +24684,7 @@ static const struct LevelUpMove sScarletViolet89LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet90LevelUpLearnset[] = {
+static const struct LevelUpMove sArmarougeLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24699,7 +24699,7 @@ static const struct LevelUpMove sScarletViolet90LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet91LevelUpLearnset[] = {
+static const struct LevelUpMove sCeruledgeLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24714,7 +24714,7 @@ static const struct LevelUpMove sScarletViolet91LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet92LevelUpLearnset[] = {
+static const struct LevelUpMove sToedscoolLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24729,7 +24729,7 @@ static const struct LevelUpMove sScarletViolet92LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet93LevelUpLearnset[] = {
+static const struct LevelUpMove sToedscruelLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24744,7 +24744,7 @@ static const struct LevelUpMove sScarletViolet93LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet94LevelUpLearnset[] = {
+static const struct LevelUpMove sKingambitLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24759,7 +24759,7 @@ static const struct LevelUpMove sScarletViolet94LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet95LevelUpLearnset[] = {
+static const struct LevelUpMove sClodsireLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24774,7 +24774,7 @@ static const struct LevelUpMove sScarletViolet95LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet96LevelUpLearnset[] = {
+static const struct LevelUpMove sAnnihilapeLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24789,7 +24789,7 @@ static const struct LevelUpMove sScarletViolet96LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet97LevelUpLearnset[] = {
+static const struct LevelUpMove sWooperPLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24804,7 +24804,7 @@ static const struct LevelUpMove sScarletViolet97LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet98LevelUpLearnset[] = {
+static const struct LevelUpMove sTaurosPLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24819,7 +24819,7 @@ static const struct LevelUpMove sScarletViolet98LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet99LevelUpLearnset[] = {
+static const struct LevelUpMove sTaurosPFireLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24834,7 +24834,7 @@ static const struct LevelUpMove sScarletViolet99LevelUpLearnset[] = {
 };
 
 
-static const struct LevelUpMove sScarletViolet100LevelUpLearnset[] = {
+static const struct LevelUpMove sTaurosPWaterLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE(10, MOVE_GROWL),
 	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
@@ -24847,97 +24847,6 @@ static const struct LevelUpMove sScarletViolet100LevelUpLearnset[] = {
 	LEVEL_UP_MOVE(90, MOVE_RAZORLEAF),
 	LEVEL_UP_END
 };
-
-
-static const struct LevelUpMove sScarletViolet101LevelUpLearnset[] = {
-	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
-	LEVEL_UP_MOVE(10, MOVE_GROWL),
-	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
-	LEVEL_UP_MOVE(30, MOVE_LEECHSEED),
-	LEVEL_UP_MOVE(40, MOVE_GROWTH),
-	LEVEL_UP_MOVE(50, MOVE_POISONPOWDER),
-	LEVEL_UP_MOVE(60, MOVE_STUNSPORE),
-	LEVEL_UP_MOVE(70, MOVE_SLEEPPOWDER),
-	LEVEL_UP_MOVE(80, MOVE_ACID),
-	LEVEL_UP_MOVE(90, MOVE_RAZORLEAF),
-	LEVEL_UP_END
-};
-
-
-static const struct LevelUpMove sScarletViolet102LevelUpLearnset[] = {
-	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
-	LEVEL_UP_MOVE(10, MOVE_GROWL),
-	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
-	LEVEL_UP_MOVE(30, MOVE_LEECHSEED),
-	LEVEL_UP_MOVE(40, MOVE_GROWTH),
-	LEVEL_UP_MOVE(50, MOVE_POISONPOWDER),
-	LEVEL_UP_MOVE(60, MOVE_STUNSPORE),
-	LEVEL_UP_MOVE(70, MOVE_SLEEPPOWDER),
-	LEVEL_UP_MOVE(80, MOVE_ACID),
-	LEVEL_UP_MOVE(90, MOVE_RAZORLEAF),
-	LEVEL_UP_END
-};
-
-
-static const struct LevelUpMove sScarletViolet103LevelUpLearnset[] = {
-	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
-	LEVEL_UP_MOVE(10, MOVE_GROWL),
-	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
-	LEVEL_UP_MOVE(30, MOVE_LEECHSEED),
-	LEVEL_UP_MOVE(40, MOVE_GROWTH),
-	LEVEL_UP_MOVE(50, MOVE_POISONPOWDER),
-	LEVEL_UP_MOVE(60, MOVE_STUNSPORE),
-	LEVEL_UP_MOVE(70, MOVE_SLEEPPOWDER),
-	LEVEL_UP_MOVE(80, MOVE_ACID),
-	LEVEL_UP_MOVE(90, MOVE_RAZORLEAF),
-	LEVEL_UP_END
-};
-
-
-static const struct LevelUpMove sScarletViolet104LevelUpLearnset[] = {
-	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
-	LEVEL_UP_MOVE(10, MOVE_GROWL),
-	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
-	LEVEL_UP_MOVE(30, MOVE_LEECHSEED),
-	LEVEL_UP_MOVE(40, MOVE_GROWTH),
-	LEVEL_UP_MOVE(50, MOVE_POISONPOWDER),
-	LEVEL_UP_MOVE(60, MOVE_STUNSPORE),
-	LEVEL_UP_MOVE(70, MOVE_SLEEPPOWDER),
-	LEVEL_UP_MOVE(80, MOVE_ACID),
-	LEVEL_UP_MOVE(90, MOVE_RAZORLEAF),
-	LEVEL_UP_END
-};
-
-
-static const struct LevelUpMove sScarletViolet105LevelUpLearnset[] = {
-	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
-	LEVEL_UP_MOVE(10, MOVE_GROWL),
-	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
-	LEVEL_UP_MOVE(30, MOVE_LEECHSEED),
-	LEVEL_UP_MOVE(40, MOVE_GROWTH),
-	LEVEL_UP_MOVE(50, MOVE_POISONPOWDER),
-	LEVEL_UP_MOVE(60, MOVE_STUNSPORE),
-	LEVEL_UP_MOVE(70, MOVE_SLEEPPOWDER),
-	LEVEL_UP_MOVE(80, MOVE_ACID),
-	LEVEL_UP_MOVE(90, MOVE_RAZORLEAF),
-	LEVEL_UP_END
-};
-
-
-static const struct LevelUpMove sScarletViolet106LevelUpLearnset[] = {
-	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
-	LEVEL_UP_MOVE(10, MOVE_GROWL),
-	LEVEL_UP_MOVE(20, MOVE_VINEWHIP),
-	LEVEL_UP_MOVE(30, MOVE_LEECHSEED),
-	LEVEL_UP_MOVE(40, MOVE_GROWTH),
-	LEVEL_UP_MOVE(50, MOVE_POISONPOWDER),
-	LEVEL_UP_MOVE(60, MOVE_STUNSPORE),
-	LEVEL_UP_MOVE(70, MOVE_SLEEPPOWDER),
-	LEVEL_UP_MOVE(80, MOVE_ACID),
-	LEVEL_UP_MOVE(90, MOVE_RAZORLEAF),
-	LEVEL_UP_END
-};
-
 
 static const struct LevelUpMove sScarletViolet107LevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
@@ -29997,155 +29906,155 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_BASCULEGION_FEMALE] = sBasculegionLevelUpLearnset,
 	[SPECIES_ENAMORUS_THERIAN] = sEnamorusLevelUpLearnset,
 	[SPECIES_SPRIGATITO] = sSprigatitoLevelUpLearnset,
-	[SPECIES_SPRIGATITO_EVO] = sSprigatitoEvoLevelUpLearnset,
-	[SPECIES_SPRIGATITO_EVO_2] = sSprigatitoEvo2LevelUpLearnset,
+	[SPECIES_FLORAGATO] = sFloragatoLevelUpLearnset,
+	[SPECIES_MEOWSCARADA] = sMeowscaradaLevelUpLearnset,
 	[SPECIES_FUECOCO] = sFuecocoLevelUpLearnset,
-	[SPECIES_FUECOCO_EVO] = sFuecocoEvoLevelUpLearnset,
-	[SPECIES_FUECOCO_EVO_2] = sFuecocoEvo2LevelUpLearnset,
+	[SPECIES_CROCALOR] = sCrocalorLevelUpLearnset,
+	[SPECIES_SKELEDIRGE] = sSkeledirgeLevelUpLearnset,
 	[SPECIES_QUAXLY] = sQuaxlyLevelUpLearnset,
-	[SPECIES_QUAXLY_EVO] = sQuaxlyEvoLevelUpLearnset,
-	[SPECIES_QUAXLY_EVO_2] = sQuaxlyEvo2LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_1] = sScarletViolet1LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_2] = sScarletViolet2LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_3] = sScarletViolet3LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_4] = sScarletViolet4LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_5] = sScarletViolet5LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_6] = sScarletViolet6LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_7] = sScarletViolet7LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_8] = sScarletViolet8LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_9] = sScarletViolet9LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_10] = sScarletViolet10LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_11] = sScarletViolet11LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_12] = sScarletViolet12LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_13] = sScarletViolet13LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_14] = sScarletViolet14LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_15] = sScarletViolet15LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_16] = sScarletViolet16LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_17] = sScarletViolet17LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_18] = sScarletViolet18LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_19] = sScarletViolet19LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_20] = sScarletViolet20LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_21] = sScarletViolet21LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_22] = sScarletViolet22LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_23] = sScarletViolet23LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_24] = sScarletViolet24LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_25] = sScarletViolet25LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_26] = sScarletViolet26LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_27] = sScarletViolet27LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_28] = sScarletViolet28LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_29] = sScarletViolet29LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_30] = sScarletViolet30LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_31] = sScarletViolet31LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_32] = sScarletViolet32LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_33] = sScarletViolet33LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_34] = sScarletViolet34LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_35] = sScarletViolet35LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_36] = sScarletViolet36LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_37] = sScarletViolet37LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_38] = sScarletViolet38LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_39] = sScarletViolet39LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_40] = sScarletViolet40LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_41] = sScarletViolet41LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_42] = sScarletViolet42LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_43] = sScarletViolet43LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_44] = sScarletViolet44LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_45] = sScarletViolet45LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_46] = sScarletViolet46LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_47] = sScarletViolet47LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_48] = sScarletViolet48LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_49] = sScarletViolet49LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_50] = sScarletViolet50LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_51] = sScarletViolet51LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_52] = sScarletViolet52LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_53] = sScarletViolet53LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_54] = sScarletViolet54LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_55] = sScarletViolet55LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_56] = sScarletViolet56LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_57] = sScarletViolet57LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_58] = sScarletViolet58LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_59] = sScarletViolet59LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_60] = sScarletViolet60LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_61] = sScarletViolet61LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_62] = sScarletViolet62LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_63] = sScarletViolet63LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_64] = sScarletViolet64LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_65] = sScarletViolet65LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_66] = sScarletViolet66LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_67] = sScarletViolet67LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_68] = sScarletViolet68LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_69] = sScarletViolet69LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_70] = sScarletViolet70LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_71] = sScarletViolet71LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_72] = sScarletViolet72LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_73] = sScarletViolet73LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_74] = sScarletViolet74LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_75] = sScarletViolet75LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_76] = sScarletViolet76LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_77] = sScarletViolet77LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_78] = sScarletViolet78LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_79] = sScarletViolet79LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_80] = sScarletViolet80LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_81] = sScarletViolet81LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_82] = sScarletViolet82LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_83] = sScarletViolet83LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_84] = sScarletViolet84LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_85] = sScarletViolet85LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_86] = sScarletViolet86LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_87] = sScarletViolet87LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_88] = sScarletViolet88LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_89] = sScarletViolet89LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_90] = sScarletViolet90LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_91] = sScarletViolet91LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_92] = sScarletViolet92LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_93] = sScarletViolet93LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_94] = sScarletViolet94LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_95] = sScarletViolet95LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_96] = sScarletViolet96LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_97] = sScarletViolet97LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_98] = sScarletViolet98LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_99] = sScarletViolet99LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_100] = sScarletViolet100LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_101] = sScarletViolet101LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_102] = sScarletViolet102LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_103] = sScarletViolet103LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_104] = sScarletViolet104LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_105] = sScarletViolet105LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_106] = sScarletViolet106LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_107] = sScarletViolet107LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_108] = sScarletViolet108LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_109] = sScarletViolet109LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_110] = sScarletViolet110LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_111] = sScarletViolet111LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_112] = sScarletViolet112LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_113] = sScarletViolet113LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_114] = sScarletViolet114LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_115] = sScarletViolet115LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_116] = sScarletViolet116LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_117] = sScarletViolet117LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_118] = sScarletViolet118LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_119] = sScarletViolet119LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_120] = sScarletViolet120LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_121] = sScarletViolet121LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_122] = sScarletViolet122LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_123] = sScarletViolet123LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_124] = sScarletViolet124LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_125] = sScarletViolet125LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_126] = sScarletViolet126LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_127] = sScarletViolet127LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_128] = sScarletViolet128LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_129] = sScarletViolet129LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_130] = sScarletViolet130LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_131] = sScarletViolet131LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_132] = sScarletViolet132LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_133] = sScarletViolet133LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_134] = sScarletViolet134LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_135] = sScarletViolet135LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_136] = sScarletViolet136LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_137] = sScarletViolet137LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_138] = sScarletViolet138LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_139] = sScarletViolet139LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_140] = sScarletViolet140LevelUpLearnset,
-	[SPECIES_SCARLET_VIOLET_141] = sScarletViolet141LevelUpLearnset,
+	[SPECIES_QUAXWELL] = sQuaxwellLevelUpLearnset,
+	[SPECIES_QUAQUAVAL] = sQuaquavalLevelUpLearnset,
+	[SPECIES_LECHONK] = sLechonkLevelUpLearnset,
+	[SPECIES_OINKOLOGNE] = sOinkologneLevelUpLearnset,
+	[SPECIES_DUDUNSPARCE] = sDudunsparceLevelUpLearnset,
+	[SPECIES_TAROUNTULA] = sTarountulaLevelUpLearnset,
+	[SPECIES_SPIDOPS] = sSpidopsLevelUpLearnset,
+	[SPECIES_NYMBLE] = sNymbleLevelUpLearnset,
+	[SPECIES_LOKIX] = sLokixLevelUpLearnset,
+	[SPECIES_RELLOR] = sRellorLevelUpLearnset,
+	[SPECIES_RABSCA] = sRabscaLevelUpLearnset,
+	[SPECIES_GREAVARD] = sGreavardLevelUpLearnset,
+	[SPECIES_HOUNDSTONE] = sHoundstoneLevelUpLearnset,
+	[SPECIES_FLITTLE] = sFlittleLevelUpLearnset,
+	[SPECIES_ESPATHRA] = sEspathraLevelUpLearnset,
+	[SPECIES_FARIGIRAF] = sFarigirafLevelUpLearnset,
+	[SPECIES_WIGLETT] = sWiglettLevelUpLearnset,
+	[SPECIES_WUGTRIO] = sWugtrioLevelUpLearnset,
+	[SPECIES_DONDOZO] = sDondozoLevelUpLearnset,
+	[SPECIES_VELUZA] = sVeluzaLevelUpLearnset,
+	[SPECIES_FINIZEN] = sFinizenLevelUpLearnset,
+	[SPECIES_PALAFIN] = sPalafinLevelUpLearnset,
+	[SPECIES_SMOLIV] = sSmolivLevelUpLearnset,
+	[SPECIES_DOLLIV] = sDollivLevelUpLearnset,
+	[SPECIES_ARBOLIVA] = sArbolivaLevelUpLearnset,
+	[SPECIES_CAPSAKID] = sCapsakidLevelUpLearnset,
+	[SPECIES_SCOVILLAIN] = sScovillainLevelUpLearnset,
+	[SPECIES_TADBULB] = sTadbulbLevelUpLearnset,
+	[SPECIES_BELLIBOLT] = sBelliboltLevelUpLearnset,
+	[SPECIES_VAROOM] = sVaroomLevelUpLearnset,
+	[SPECIES_REVAVROOM] = sRevavroomLevelUpLearnset,
+	[SPECIES_ORTHWORM] = sOrthwormLevelUpLearnset,
+	[SPECIES_TANDEMAUS] = sTandemausLevelUpLearnset,
+	[SPECIES_MAUSHOLD] = sMausholdLevelUpLearnset,
+	[SPECIES_CETODDLE] = sCetoddleLevelUpLearnset,
+	[SPECIES_CETITAN] = sCetitanLevelUpLearnset,
+	[SPECIES_FRIGIBAX] = sFrigibaxLevelUpLearnset,
+	[SPECIES_ARCTIBAX] = sArctibaxLevelUpLearnset,
+	[SPECIES_BAXCALIBUR] = sBaxcaliburLevelUpLearnset,
+	[SPECIES_TATSUGIRI] = sTatsugiriLevelUpLearnset,
+	[SPECIES_CYCLIZAR] = sCyclizarLevelUpLearnset,
+	[SPECIES_PAWMI] = sPawmiLevelUpLearnset,
+	[SPECIES_PAWMO] = sPawmoLevelUpLearnset,
+	[SPECIES_PAWMOT] = sPawmotLevelUpLearnset,
+	[SPECIES_WATTREL] = sWattrelLevelUpLearnset,
+	[SPECIES_KILOWATTREL] = sKilowattrelLevelUpLearnset,
+	[SPECIES_BOMBIRDIER] = sBombirdierLevelUpLearnset,
+	[SPECIES_SQUAWKABILLY] = sSquawkabillyLevelUpLearnset,
+	[SPECIES_FLAMIGO] = sFlamigoLevelUpLearnset,
+	[SPECIES_KLAWF] = sKlawfLevelUpLearnset,
+	[SPECIES_NACLI] = sNacliLevelUpLearnset,
+	[SPECIES_NACLSTACK] = sNaclstackLevelUpLearnset,
+	[SPECIES_GARGANACL] = sGarganaclLevelUpLearnset,
+	[SPECIES_GLIMMET] = sGlimmetLevelUpLearnset,
+	[SPECIES_GLIMMORA] = sGlimmoraLevelUpLearnset,
+	[SPECIES_SHROODLE] = sShroodleLevelUpLearnset,
+	[SPECIES_GRAFAIAI] = sGrafaiaiLevelUpLearnset,
+	[SPECIES_FIDOUGH] = sFidoughLevelUpLearnset,
+	[SPECIES_DACHSBUN] = sDachsbunLevelUpLearnset,
+	[SPECIES_MASCHIFF] = sMaschiffLevelUpLearnset,
+	[SPECIES_MABOSSTIFF] = sMabosstiffLevelUpLearnset,
+	[SPECIES_BRAMBLIN] = sBramblinLevelUpLearnset,
+	[SPECIES_BRAMBLEGHAST] = sBrambleghastLevelUpLearnset,
+	[SPECIES_GIMMIGHOUL] = sGimmighoulLevelUpLearnset,
+	[SPECIES_GHOLDENGO] = sGholdengoLevelUpLearnset,
+	[SPECIES_DONPHAN_ANCIENT] = sDonphanAncientLevelUpLearnset,
+	[SPECIES_AMOONGUSS_ANCIENT] = sAmoongussAncientLevelUpLearnset,
+	[SPECIES_SUICUNE_ANCIENT] = sSuicuneAncientLevelUpLearnset,
+	[SPECIES_MAGNETON_ANCIENT] = sMagnetonAncientLevelUpLearnset,
+	[SPECIES_JIGGLYPUFF_ANCIENT] = sJigglypuffAncientLevelUpLearnset,
+	[SPECIES_MISDREAVUS_ANCIENT] = sMisdreavusAncientLevelUpLearnset,
+	[SPECIES_VOLCARONA_ANCIENT] = sVolcaronaAncientLevelUpLearnset,
+	[SPECIES_SALAMENCE_ANCIENT] = sSalamenceAncientLevelUpLearnset,
+	[SPECIES_DONPHAN_FUTURE] = sDonphanFutureLevelUpLearnset,
+	[SPECIES_VIRIZION_FUTURE] = sVirizionFutureLevelUpLearnset,
+	[SPECIES_VOLCARONA_FUTURE] = sVolcaronaFutureLevelUpLearnset,
+	[SPECIES_HARIYAMA_FUTURE] = sHariyamaFutureLevelUpLearnset,
+	[SPECIES_HYDREIGON_FUTURE] = sHydreigonFutureLevelUpLearnset,
+	[SPECIES_TYRANITAR_FUTURE] = sTyranitarFutureLevelUpLearnset,
+	[SPECIES_DELIBIRD_FUTURE] = sDelibirdFutureLevelUpLearnset,
+	[SPECIES_GALLADE_FUTURE] = sGalladeFutureLevelUpLearnset,
+	[SPECIES_TING_LU] = sTingLuLevelUpLearnset,
+	[SPECIES_CHIEN_PAO] = sChienPaoLevelUpLearnset,
+	[SPECIES_WO_CHIEN] = sWoChienLevelUpLearnset,
+	[SPECIES_CHI_YU] = sChiYuLevelUpLearnset,
+	[SPECIES_KORAIDON] = sKoraidonLevelUpLearnset,
+	[SPECIES_MIRAIDON] = sMiraidonLevelUpLearnset,
+	[SPECIES_TINKATINK] = sTinkatinkLevelUpLearnset,
+	[SPECIES_TINKATUFF] = sTinkatuffLevelUpLearnset,
+	[SPECIES_TINKATON] = sTinkatonLevelUpLearnset,
+	[SPECIES_CHARCADET] = sCharcadetLevelUpLearnset,
+	[SPECIES_ARMAROUGE] = sArmarougeLevelUpLearnset,
+	[SPECIES_CERULEDGE] = sCeruledgeLevelUpLearnset,
+	[SPECIES_TOEDSCOOL] = sToedscoolLevelUpLearnset,
+	[SPECIES_TOEDSCRUEL] = sToedscruelLevelUpLearnset,
+	[SPECIES_KINGAMBIT] = sKingambitLevelUpLearnset,
+	[SPECIES_CLODSIRE] = sClodsireLevelUpLearnset,
+	[SPECIES_ANNIHILAPE] = sAnnihilapeLevelUpLearnset,
+	[SPECIES_WOOPER_P] = sWooperPLevelUpLearnset,
+	[SPECIES_TAUROS_P] = sTaurosPLevelUpLearnset,
+	[SPECIES_TAUROS_P_FIRE] = sTaurosPFireLevelUpLearnset,
+	[SPECIES_TAUROS_P_WATER] = sTaurosPWaterLevelUpLearnset,
+	[SPECIES_OINKOLOGNE_F] = sOinkologneLevelUpLearnset,
+	[SPECIES_PALAFIN_HERO] = sPalafinLevelUpLearnset,
+	[SPECIES_SQUAWKABILLY_GREEN] = sSquawkabillyLevelUpLearnset,
+	[SPECIES_SQUAWKABILLY_YELLOW] = sSquawkabillyLevelUpLearnset,
+	[SPECIES_MABOSSTIFF_NIGHT] = sMabosstiffLevelUpLearnset,
+	[SPECIES_GIMMIGHOUL_ROAMING] = sGimmighoulLevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_107X] = sScarletViolet107LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_108X] = sScarletViolet108LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_109X] = sScarletViolet109LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_110X] = sScarletViolet110LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_111X] = sScarletViolet111LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_112X] = sScarletViolet112LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_113X] = sScarletViolet113LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_114X] = sScarletViolet114LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_115X] = sScarletViolet115LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_116X] = sScarletViolet116LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_117X] = sScarletViolet117LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_118X] = sScarletViolet118LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_119X] = sScarletViolet119LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_120X] = sScarletViolet120LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_121X] = sScarletViolet121LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_122X] = sScarletViolet122LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_123X] = sScarletViolet123LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_124X] = sScarletViolet124LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_125X] = sScarletViolet125LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_126X] = sScarletViolet126LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_127X] = sScarletViolet127LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_128X] = sScarletViolet128LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_129X] = sScarletViolet129LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_130X] = sScarletViolet130LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_131X] = sScarletViolet131LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_132X] = sScarletViolet132LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_133X] = sScarletViolet133LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_134X] = sScarletViolet134LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_135X] = sScarletViolet135LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_136X] = sScarletViolet136LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_137X] = sScarletViolet137LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_138X] = sScarletViolet138LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_139X] = sScarletViolet139LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_140X] = sScarletViolet140LevelUpLearnset,
+	[SPECIES_SCARLET_VIOLET_141X] = sScarletViolet141LevelUpLearnset,
 	[SPECIES_CEBULACK] = sCebulackLevelUpLearnset,
 	[SPECIES_CEBULBA] = sCebulbaLevelUpLearnset,
 	[SPECIES_CEBOGRE] = sCebogreLevelUpLearnset,

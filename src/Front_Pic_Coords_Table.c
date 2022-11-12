@@ -6478,12 +6478,12 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SPRIGATITO_EVO] = 
+	[SPECIES_FLORAGATO] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SPRIGATITO_EVO_2] = 
+	[SPECIES_MEOWSCARADA] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
@@ -6493,12 +6493,12 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_FUECOCO_EVO] = 
+	[SPECIES_CROCALOR] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_FUECOCO_EVO_2] = 
+	[SPECIES_SKELEDIRGE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
@@ -6508,717 +6508,717 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_QUAXLY_EVO] = 
+	[SPECIES_QUAXWELL] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_QUAXLY_EVO_2] = 
+	[SPECIES_QUAQUAVAL] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_1] = 
+	[SPECIES_LECHONK] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_2] = 
+	[SPECIES_OINKOLOGNE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_3] = 
+	[SPECIES_DUDUNSPARCE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_4] = 
+	[SPECIES_TAROUNTULA] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_5] = 
+	[SPECIES_SPIDOPS] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_6] = 
+	[SPECIES_NYMBLE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_7] = 
+	[SPECIES_LOKIX] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_8] = 
+	[SPECIES_RELLOR] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_9] = 
+	[SPECIES_RABSCA] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_10] = 
+	[SPECIES_GREAVARD] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_11] = 
+	[SPECIES_HOUNDSTONE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_12] = 
+	[SPECIES_FLITTLE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_13] = 
+	[SPECIES_ESPATHRA] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_14] = 
+	[SPECIES_FARIGIRAF] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_15] = 
+	[SPECIES_WIGLETT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_16] = 
+	[SPECIES_WUGTRIO] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_17] = 
+	[SPECIES_DONDOZO] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_18] = 
+	[SPECIES_VELUZA] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_19] = 
+	[SPECIES_FINIZEN] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_20] = 
+	[SPECIES_PALAFIN] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_21] = 
+	[SPECIES_SMOLIV] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_22] = 
+	[SPECIES_DOLLIV] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_23] = 
+	[SPECIES_ARBOLIVA] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_24] = 
+	[SPECIES_CAPSAKID] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_25] = 
+	[SPECIES_SCOVILLAIN] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_26] = 
+	[SPECIES_TADBULB] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_27] = 
+	[SPECIES_BELLIBOLT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_28] = 
+	[SPECIES_VAROOM] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_29] = 
+	[SPECIES_REVAVROOM] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_30] = 
+	[SPECIES_ORTHWORM] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_31] = 
+	[SPECIES_TANDEMAUS] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_32] = 
+	[SPECIES_MAUSHOLD] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_33] = 
+	[SPECIES_CETODDLE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_34] = 
+	[SPECIES_CETITAN] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_35] = 
+	[SPECIES_FRIGIBAX] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_36] = 
+	[SPECIES_ARCTIBAX] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_37] = 
+	[SPECIES_BAXCALIBUR] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_38] = 
+	[SPECIES_TATSUGIRI] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_39] = 
+	[SPECIES_CYCLIZAR] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_40] = 
+	[SPECIES_PAWMI] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_41] = 
+	[SPECIES_PAWMO] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_42] = 
+	[SPECIES_PAWMOT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_43] = 
+	[SPECIES_WATTREL] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_44] = 
+	[SPECIES_KILOWATTREL] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_45] = 
+	[SPECIES_BOMBIRDIER] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_46] = 
+	[SPECIES_SQUAWKABILLY] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_47] = 
+	[SPECIES_FLAMIGO] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_48] = 
+	[SPECIES_KLAWF] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_49] = 
+	[SPECIES_NACLI] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_50] = 
+	[SPECIES_NACLSTACK] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_51] = 
+	[SPECIES_GARGANACL] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_52] = 
+	[SPECIES_GLIMMET] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_53] = 
+	[SPECIES_GLIMMORA] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_54] = 
+	[SPECIES_SHROODLE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_55] = 
+	[SPECIES_GRAFAIAI] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_56] = 
+	[SPECIES_FIDOUGH] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_57] = 
+	[SPECIES_DACHSBUN] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_58] = 
+	[SPECIES_MASCHIFF] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_59] = 
+	[SPECIES_MABOSSTIFF] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_60] = 
+	[SPECIES_BRAMBLIN] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_61] = 
+	[SPECIES_BRAMBLEGHAST] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_62] = 
+	[SPECIES_GIMMIGHOUL] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_63] = 
+	[SPECIES_GHOLDENGO] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_64] = 
+	[SPECIES_DONPHAN_ANCIENT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_65] = 
+	[SPECIES_AMOONGUSS_ANCIENT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_66] = 
+	[SPECIES_SUICUNE_ANCIENT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_67] = 
+	[SPECIES_MAGNETON_ANCIENT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_68] = 
+	[SPECIES_JIGGLYPUFF_ANCIENT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_69] = 
+	[SPECIES_MISDREAVUS_ANCIENT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_70] = 
+	[SPECIES_VOLCARONA_ANCIENT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_71] = 
+	[SPECIES_SALAMENCE_ANCIENT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_72] = 
+	[SPECIES_DONPHAN_FUTURE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_73] = 
+	[SPECIES_VIRIZION_FUTURE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_74] = 
+	[SPECIES_VOLCARONA_FUTURE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_75] = 
+	[SPECIES_HARIYAMA_FUTURE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_76] = 
+	[SPECIES_HYDREIGON_FUTURE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_77] = 
+	[SPECIES_TYRANITAR_FUTURE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_78] = 
+	[SPECIES_DELIBIRD_FUTURE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_79] = 
+	[SPECIES_GALLADE_FUTURE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_80] = 
+	[SPECIES_TING_LU] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_81] = 
+	[SPECIES_CHIEN_PAO] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_82] = 
+	[SPECIES_WO_CHIEN] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_83] = 
+	[SPECIES_CHI_YU] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_84] = 
+	[SPECIES_KORAIDON] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_85] = 
+	[SPECIES_MIRAIDON] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_86] = 
+	[SPECIES_TINKATINK] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_87] = 
+	[SPECIES_TINKATUFF] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_88] = 
+	[SPECIES_TINKATON] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_89] = 
+	[SPECIES_CHARCADET] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_90] = 
+	[SPECIES_ARMAROUGE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_91] = 
+	[SPECIES_CERULEDGE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_92] = 
+	[SPECIES_TOEDSCOOL] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_93] = 
+	[SPECIES_TOEDSCRUEL] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_94] = 
+	[SPECIES_KINGAMBIT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_95] = 
+	[SPECIES_CLODSIRE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_96] = 
+	[SPECIES_ANNIHILAPE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_97] = 
+	[SPECIES_WOOPER_P] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_98] = 
+	[SPECIES_TAUROS_P] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_99] = 
+	[SPECIES_TAUROS_P_FIRE] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_100] = 
+	[SPECIES_TAUROS_P_WATER] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_101] = 
+	[SPECIES_OINKOLOGNE_F] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_102] = 
+	[SPECIES_PALAFIN_HERO] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_103] = 
+	[SPECIES_SQUAWKABILLY_GREEN] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_104] = 
+	[SPECIES_SQUAWKABILLY_YELLOW] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_105] = 
+	[SPECIES_MABOSSTIFF_NIGHT] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_106] = 
+	[SPECIES_GIMMIGHOUL_ROAMING] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_107] = 
+	[SPECIES_SCARLET_VIOLET_107X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_108] = 
+	[SPECIES_SCARLET_VIOLET_108X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_109] = 
+	[SPECIES_SCARLET_VIOLET_109X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_110] = 
+	[SPECIES_SCARLET_VIOLET_110X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_111] = 
+	[SPECIES_SCARLET_VIOLET_111X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_112] = 
+	[SPECIES_SCARLET_VIOLET_112X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_113] = 
+	[SPECIES_SCARLET_VIOLET_113X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_114] = 
+	[SPECIES_SCARLET_VIOLET_114X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_115] = 
+	[SPECIES_SCARLET_VIOLET_115X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_116] = 
+	[SPECIES_SCARLET_VIOLET_116X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_117] = 
+	[SPECIES_SCARLET_VIOLET_117X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_118] = 
+	[SPECIES_SCARLET_VIOLET_118X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_119] = 
+	[SPECIES_SCARLET_VIOLET_119X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_120] = 
+	[SPECIES_SCARLET_VIOLET_120X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_121] = 
+	[SPECIES_SCARLET_VIOLET_121X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_122] = 
+	[SPECIES_SCARLET_VIOLET_122X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_123] = 
+	[SPECIES_SCARLET_VIOLET_123X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_124] = 
+	[SPECIES_SCARLET_VIOLET_124X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_125] = 
+	[SPECIES_SCARLET_VIOLET_125X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_126] = 
+	[SPECIES_SCARLET_VIOLET_126X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_127] = 
+	[SPECIES_SCARLET_VIOLET_127X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_128] = 
+	[SPECIES_SCARLET_VIOLET_128X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_129] = 
+	[SPECIES_SCARLET_VIOLET_129X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_130] = 
+	[SPECIES_SCARLET_VIOLET_130X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_131] = 
+	[SPECIES_SCARLET_VIOLET_131X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_132] = 
+	[SPECIES_SCARLET_VIOLET_132X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_133] = 
+	[SPECIES_SCARLET_VIOLET_133X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_134] = 
+	[SPECIES_SCARLET_VIOLET_134X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_135] = 
+	[SPECIES_SCARLET_VIOLET_135X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_136] = 
+	[SPECIES_SCARLET_VIOLET_136X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_137] = 
+	[SPECIES_SCARLET_VIOLET_137X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_138] = 
+	[SPECIES_SCARLET_VIOLET_138X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_139] = 
+	[SPECIES_SCARLET_VIOLET_139X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_140] = 
+	[SPECIES_SCARLET_VIOLET_140X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SCARLET_VIOLET_141] = 
+	[SPECIES_SCARLET_VIOLET_141X] = 
 	{
 		.size = 0x0,
 		.y_offset = 0x0,

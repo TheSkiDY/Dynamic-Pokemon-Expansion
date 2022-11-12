@@ -10975,8 +10975,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack 	= 40,
 		.baseSpDefense 	= 75,
 		.baseSpeed 		= 50,
-		.type1 = TYPE_FLYING,
-		.type2 = TYPE_DRAGON,
+		.type1 = TYPE_DRAGON,
+		.type2 = TYPE_FLYING,
 		.catchRate = 255,
 		.expYield = 74,
 		.evYield_HP 		= 0,
@@ -11008,8 +11008,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack 	= 70,
 		.baseSpDefense 	= 105,
 		.baseSpeed 		= 80,
-		.type1 = TYPE_FLYING,
-		.type2 = TYPE_DRAGON,
+		.type1 = TYPE_DRAGON,
+		.type2 = TYPE_FLYING,
 		.catchRate = 45,
 		.expYield = 188,
 		.evYield_HP 		= 0,
@@ -12262,8 +12262,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack 	= 110,
 		.baseSpDefense 	= 80,
 		.baseSpeed 		= 100,
-		.type1 = TYPE_FLYING,
-		.type2 = TYPE_DRAGON,
+		.type1 = TYPE_DRAGON,
+		.type2 = TYPE_FLYING,
 		.catchRate = 45,
 		.expYield = 218,
 		.evYield_HP 		= 0,
@@ -16057,8 +16057,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack 	= 62,
 		.baseSpDefense 	= 60,
 		.baseSpeed 		= 40,
-		.type1 = TYPE_ICE,
-		.type2 = TYPE_GRASS,
+		.type1 = TYPE_GRASS,
+		.type2 = TYPE_ICE,
 		.catchRate = 120,
 		.expYield = 131,
 		.evYield_HP 		= 0,
@@ -16090,8 +16090,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack 	= 92,
 		.baseSpDefense 	= 85,
 		.baseSpeed 		= 60,
-		.type1 = TYPE_ICE,
-		.type2 = TYPE_GRASS,
+		.type1 = TYPE_GRASS,
+		.type2 = TYPE_ICE,
 		.catchRate = 60,
 		.expYield = 214,
 		.evYield_HP 		= 0,
@@ -41774,7 +41774,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -41787,7 +41787,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPRIGATITO_EVO] = 
+	[SPECIES_FLORAGATO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -41795,8 +41795,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GRASS,
+		.type2 = TYPE_GRASS,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -41807,7 +41807,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -41820,7 +41820,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SPRIGATITO_EVO_2] = 
+	[SPECIES_MEOWSCARADA] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -41828,8 +41828,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GRASS,
+		.type2 = TYPE_DARK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -41840,7 +41840,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -41873,7 +41873,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -41886,7 +41886,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_FUECOCO_EVO] = 
+	[SPECIES_CROCALOR] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -41894,8 +41894,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIRE,
+		.type2 = TYPE_FIRE,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -41906,7 +41906,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -41919,7 +41919,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_FUECOCO_EVO_2] = 
+	[SPECIES_SKELEDIRGE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -41927,8 +41927,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIRE,
+		.type2 = TYPE_GHOST,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -41939,7 +41939,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -41972,7 +41972,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -41985,7 +41985,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_QUAXLY_EVO] = 
+	[SPECIES_QUAXWELL] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -41993,8 +41993,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_WATER,
+		.type2 = TYPE_WATER,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42005,7 +42005,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42018,7 +42018,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_QUAXLY_EVO_2] = 
+	[SPECIES_QUAQUAVAL] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42026,8 +42026,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_WATER,
+		.type2 = TYPE_FIGHTING,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42038,7 +42038,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42051,7 +42051,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_1] = 
+	[SPECIES_LECHONK] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42071,7 +42071,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42084,7 +42084,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_2] = 
+	[SPECIES_OINKOLOGNE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42104,7 +42104,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42117,7 +42117,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_3] = 
+	[SPECIES_DUDUNSPARCE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42137,7 +42137,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42150,7 +42150,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_4] = 
+	[SPECIES_TAROUNTULA] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42158,8 +42158,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_BUG,
+		.type2 = TYPE_BUG,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42170,7 +42170,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42183,7 +42183,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_5] = 
+	[SPECIES_SPIDOPS] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42191,8 +42191,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_BUG,
+		.type2 = TYPE_BUG,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42203,7 +42203,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42216,7 +42216,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_6] = 
+	[SPECIES_NYMBLE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42224,8 +42224,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_BUG,
+		.type2 = TYPE_BUG,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42236,7 +42236,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42249,7 +42249,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_7] = 
+	[SPECIES_LOKIX] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42257,8 +42257,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_BUG,
+		.type2 = TYPE_DARK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42269,7 +42269,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42282,7 +42282,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_8] = 
+	[SPECIES_RELLOR] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42290,8 +42290,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_BUG,
+		.type2 = TYPE_BUG,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42302,7 +42302,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42315,7 +42315,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_9] = 
+	[SPECIES_RABSCA] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42323,8 +42323,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_BUG,
+		.type2 = TYPE_PSYCHIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42335,7 +42335,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42348,7 +42348,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_10] = 
+	[SPECIES_GREAVARD] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42356,8 +42356,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GHOST,
+		.type2 = TYPE_GHOST,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42368,7 +42368,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42381,7 +42381,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_11] = 
+	[SPECIES_HOUNDSTONE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42389,8 +42389,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GHOST,
+		.type2 = TYPE_GHOST,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42401,7 +42401,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42414,7 +42414,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_12] = 
+	[SPECIES_FLITTLE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42422,8 +42422,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_PSYCHIC,
+		.type2 = TYPE_PSYCHIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42434,7 +42434,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42447,7 +42447,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_13] = 
+	[SPECIES_ESPATHRA] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42455,8 +42455,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_PSYCHIC,
+		.type2 = TYPE_PSYCHIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42467,7 +42467,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42480,7 +42480,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_14] = 
+	[SPECIES_FARIGIRAF] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42489,7 +42489,7 @@ const struct BaseStats gBaseStats[] =
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
 		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type2 = TYPE_PSYCHIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42500,7 +42500,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42513,7 +42513,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_15] = 
+	[SPECIES_WIGLETT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42521,8 +42521,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_WATER,
+		.type2 = TYPE_WATER,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42533,7 +42533,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42546,7 +42546,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_16] = 
+	[SPECIES_WUGTRIO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42554,8 +42554,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_WATER,
+		.type2 = TYPE_WATER,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42566,7 +42566,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42579,7 +42579,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_17] = 
+	[SPECIES_DONDOZO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42587,8 +42587,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_WATER,
+		.type2 = TYPE_WATER,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42599,7 +42599,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42612,7 +42612,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_18] = 
+	[SPECIES_VELUZA] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42620,8 +42620,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_WATER,
+		.type2 = TYPE_PSYCHIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42632,7 +42632,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42645,7 +42645,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_19] = 
+	[SPECIES_FINIZEN] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42653,8 +42653,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_WATER,
+		.type2 = TYPE_WATER,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42665,7 +42665,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42678,7 +42678,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_20] = 
+	[SPECIES_PALAFIN] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42686,8 +42686,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_WATER,
+		.type2 = TYPE_WATER,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42698,7 +42698,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42711,7 +42711,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_21] = 
+	[SPECIES_SMOLIV] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42719,7 +42719,7 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
+		.type1 = TYPE_GRASS,
 		.type2 = TYPE_NORMAL,
 		.catchRate = 255,
 		.expYield = 255,
@@ -42731,7 +42731,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42744,7 +42744,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_22] = 
+	[SPECIES_DOLLIV] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42752,7 +42752,7 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
+		.type1 = TYPE_GRASS,
 		.type2 = TYPE_NORMAL,
 		.catchRate = 255,
 		.expYield = 255,
@@ -42764,7 +42764,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42777,7 +42777,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_23] = 
+	[SPECIES_ARBOLIVA] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42785,7 +42785,7 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
+		.type1 = TYPE_GRASS,
 		.type2 = TYPE_NORMAL,
 		.catchRate = 255,
 		.expYield = 255,
@@ -42797,7 +42797,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42810,7 +42810,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_24] = 
+	[SPECIES_CAPSAKID] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42818,8 +42818,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GRASS,
+		.type2 = TYPE_FIRE,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42830,7 +42830,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42843,7 +42843,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_25] = 
+	[SPECIES_SCOVILLAIN] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42851,8 +42851,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GRASS,
+		.type2 = TYPE_FIRE,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42863,7 +42863,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42876,7 +42876,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_26] = 
+	[SPECIES_TADBULB] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42884,8 +42884,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ELECTRIC,
+		.type2 = TYPE_ELECTRIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42896,7 +42896,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42909,7 +42909,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_27] = 
+	[SPECIES_BELLIBOLT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42917,8 +42917,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ELECTRIC,
+		.type2 = TYPE_ELECTRIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42929,7 +42929,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42942,7 +42942,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_28] = 
+	[SPECIES_VAROOM] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42950,8 +42950,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_POISON,
+		.type2 = TYPE_STEEL,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42962,7 +42962,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -42975,7 +42975,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_29] = 
+	[SPECIES_REVAVROOM] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -42983,8 +42983,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_POISON,
+		.type2 = TYPE_STEEL,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -42995,7 +42995,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43008,7 +43008,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_30] = 
+	[SPECIES_ORTHWORM] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43016,8 +43016,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_STEEL,
+		.type2 = TYPE_STEEL,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43028,7 +43028,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43041,7 +43041,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_31] = 
+	[SPECIES_TANDEMAUS] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43061,7 +43061,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43074,7 +43074,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_32] = 
+	[SPECIES_MAUSHOLD] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43094,7 +43094,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43107,7 +43107,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_33] = 
+	[SPECIES_CETODDLE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43115,8 +43115,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ICE,
+		.type2 = TYPE_ICE,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43127,7 +43127,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43140,7 +43140,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_34] = 
+	[SPECIES_CETITAN] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43148,8 +43148,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ICE,
+		.type2 = TYPE_ICE,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43160,7 +43160,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43173,7 +43173,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_35] = 
+	[SPECIES_FRIGIBAX] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43181,8 +43181,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DRAGON,
+		.type2 = TYPE_ICE,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43193,7 +43193,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43206,7 +43206,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_36] = 
+	[SPECIES_ARCTIBAX] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43214,8 +43214,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DRAGON,
+		.type2 = TYPE_ICE,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43226,7 +43226,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43239,7 +43239,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_37] = 
+	[SPECIES_BAXCALIBUR] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43247,8 +43247,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DRAGON,
+		.type2 = TYPE_ICE,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43259,7 +43259,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43272,7 +43272,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_38] = 
+	[SPECIES_TATSUGIRI] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43280,8 +43280,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DRAGON,
+		.type2 = TYPE_WATER,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43292,7 +43292,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43305,7 +43305,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_39] = 
+	[SPECIES_CYCLIZAR] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43313,7 +43313,7 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
+		.type1 = TYPE_DRAGON,
 		.type2 = TYPE_NORMAL,
 		.catchRate = 255,
 		.expYield = 255,
@@ -43325,7 +43325,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43338,7 +43338,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_40] = 
+	[SPECIES_PAWMI] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43346,8 +43346,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ELECTRIC,
+		.type2 = TYPE_ELECTRIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43358,7 +43358,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43371,7 +43371,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_41] = 
+	[SPECIES_PAWMO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43379,8 +43379,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ELECTRIC,
+		.type2 = TYPE_FIGHTING,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43391,7 +43391,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43404,7 +43404,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_42] = 
+	[SPECIES_PAWMOT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43412,8 +43412,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ELECTRIC,
+		.type2 = TYPE_FIGHTING,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43424,7 +43424,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43437,7 +43437,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_43] = 
+	[SPECIES_WATTREL] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43445,8 +43445,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FLYING,
+		.type2 = TYPE_ELECTRIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43457,7 +43457,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43470,7 +43470,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_44] = 
+	[SPECIES_KILOWATTREL] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43478,8 +43478,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FLYING,
+		.type2 = TYPE_ELECTRIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43490,7 +43490,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43503,7 +43503,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_45] = 
+	[SPECIES_BOMBIRDIER] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43511,8 +43511,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FLYING,
+		.type2 = TYPE_DARK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43523,7 +43523,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43536,7 +43536,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_46] = 
+	[SPECIES_SQUAWKABILLY] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43545,7 +43545,7 @@ const struct BaseStats gBaseStats[] =
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
 		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type2 = TYPE_FLYING,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43556,7 +43556,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43569,7 +43569,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_47] = 
+	[SPECIES_FLAMIGO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43577,8 +43577,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FLYING,
+		.type2 = TYPE_FIGHTING,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43589,7 +43589,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43602,7 +43602,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_48] = 
+	[SPECIES_KLAWF] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43610,8 +43610,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ROCK,
+		.type2 = TYPE_ROCK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43622,7 +43622,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43635,7 +43635,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_49] = 
+	[SPECIES_NACLI] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43643,8 +43643,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ROCK,
+		.type2 = TYPE_ROCK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43655,7 +43655,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43668,7 +43668,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_50] = 
+	[SPECIES_NACLSTACK] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43676,8 +43676,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ROCK,
+		.type2 = TYPE_ROCK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43688,7 +43688,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43701,7 +43701,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_51] = 
+	[SPECIES_GARGANACL] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43709,8 +43709,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ROCK,
+		.type2 = TYPE_ROCK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43721,7 +43721,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43734,7 +43734,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_52] = 
+	[SPECIES_GLIMMET] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43742,8 +43742,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_POISON,
+		.type2 = TYPE_ROCK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43754,7 +43754,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43767,7 +43767,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_53] = 
+	[SPECIES_GLIMMORA] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43775,8 +43775,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_POISON,
+		.type2 = TYPE_ROCK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43787,7 +43787,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43800,7 +43800,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_54] = 
+	[SPECIES_SHROODLE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43808,7 +43808,7 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
+		.type1 = TYPE_POISON,
 		.type2 = TYPE_NORMAL,
 		.catchRate = 255,
 		.expYield = 255,
@@ -43820,7 +43820,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43833,7 +43833,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_55] = 
+	[SPECIES_GRAFAIAI] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43841,7 +43841,7 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
+		.type1 = TYPE_POISON,
 		.type2 = TYPE_NORMAL,
 		.catchRate = 255,
 		.expYield = 255,
@@ -43853,7 +43853,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43866,7 +43866,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_56] = 
+	[SPECIES_FIDOUGH] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43874,8 +43874,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FAIRY,
+		.type2 = TYPE_FAIRY,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43886,7 +43886,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43899,7 +43899,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_57] = 
+	[SPECIES_DACHSBUN] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43907,8 +43907,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FAIRY,
+		.type2 = TYPE_FAIRY,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43919,7 +43919,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43932,7 +43932,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_58] = 
+	[SPECIES_MASCHIFF] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43940,8 +43940,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DARK,
+		.type2 = TYPE_DARK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43952,7 +43952,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43965,7 +43965,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_59] = 
+	[SPECIES_MABOSSTIFF] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -43973,8 +43973,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DARK,
+		.type2 = TYPE_DARK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -43985,7 +43985,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -43998,7 +43998,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_60] = 
+	[SPECIES_BRAMBLIN] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44006,8 +44006,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GRASS,
+		.type2 = TYPE_GHOST,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44018,7 +44018,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44031,7 +44031,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_61] = 
+	[SPECIES_BRAMBLEGHAST] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44039,8 +44039,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GRASS,
+		.type2 = TYPE_GHOST,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44051,7 +44051,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44064,7 +44064,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_62] = 
+	[SPECIES_GIMMIGHOUL] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44072,8 +44072,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GHOST,
+		.type2 = TYPE_GHOST,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44084,7 +44084,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44097,7 +44097,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_63] = 
+	[SPECIES_GHOLDENGO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44105,8 +44105,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GHOST,
+		.type2 = TYPE_STEEL,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44117,7 +44117,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44130,7 +44130,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_64] = 
+	[SPECIES_DONPHAN_ANCIENT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44138,8 +44138,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GROUND,
+		.type2 = TYPE_FIGHTING,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44150,7 +44150,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44163,7 +44163,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_65] = 
+	[SPECIES_AMOONGUSS_ANCIENT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44171,8 +44171,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GRASS,
+		.type2 = TYPE_DARK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44183,7 +44183,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44196,7 +44196,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_66] = 
+	[SPECIES_SUICUNE_ANCIENT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44216,7 +44216,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44229,7 +44229,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_67] = 
+	[SPECIES_MAGNETON_ANCIENT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44237,8 +44237,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ELECTRIC,
+		.type2 = TYPE_GROUND,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44249,7 +44249,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44262,7 +44262,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_68] = 
+	[SPECIES_JIGGLYPUFF_ANCIENT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44270,8 +44270,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FAIRY,
+		.type2 = TYPE_PSYCHIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44282,7 +44282,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44295,7 +44295,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_69] = 
+	[SPECIES_MISDREAVUS_ANCIENT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44303,8 +44303,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GHOST,
+		.type2 = TYPE_FAIRY,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44315,7 +44315,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44328,7 +44328,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_70] = 
+	[SPECIES_VOLCARONA_ANCIENT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44336,8 +44336,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_BUG,
+		.type2 = TYPE_FIGHTING,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44348,7 +44348,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44361,7 +44361,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_71] = 
+	[SPECIES_SALAMENCE_ANCIENT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44369,8 +44369,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DRAGON,
+		.type2 = TYPE_DARK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44381,7 +44381,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44394,7 +44394,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_72] = 
+	[SPECIES_DONPHAN_FUTURE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44402,8 +44402,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GROUND,
+		.type2 = TYPE_STEEL,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44414,7 +44414,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44427,7 +44427,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_73] = 
+	[SPECIES_VIRIZION_FUTURE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44447,7 +44447,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44460,7 +44460,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_74] = 
+	[SPECIES_VOLCARONA_FUTURE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44468,8 +44468,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIRE,
+		.type2 = TYPE_POISON,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44480,7 +44480,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44493,7 +44493,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_75] = 
+	[SPECIES_HARIYAMA_FUTURE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44501,8 +44501,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIGHTING,
+		.type2 = TYPE_ELECTRIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44513,7 +44513,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44526,7 +44526,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_76] = 
+	[SPECIES_HYDREIGON_FUTURE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44534,8 +44534,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DARK,
+		.type2 = TYPE_FLYING,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44546,7 +44546,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44559,7 +44559,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_77] = 
+	[SPECIES_TYRANITAR_FUTURE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44567,8 +44567,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ROCK,
+		.type2 = TYPE_ELECTRIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44579,7 +44579,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44592,7 +44592,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_78] = 
+	[SPECIES_DELIBIRD_FUTURE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44600,8 +44600,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ICE,
+		.type2 = TYPE_WATER,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44612,7 +44612,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44625,7 +44625,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_79] = 
+	[SPECIES_GALLADE_FUTURE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44633,8 +44633,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIGHTING,
+		.type2 = TYPE_FAIRY,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44645,7 +44645,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44658,7 +44658,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_80] = 
+	[SPECIES_TING_LU] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44666,8 +44666,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DARK,
+		.type2 = TYPE_GROUND,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44678,7 +44678,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44691,7 +44691,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_81] = 
+	[SPECIES_CHIEN_PAO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44699,8 +44699,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DARK,
+		.type2 = TYPE_ICE,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44711,7 +44711,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44724,7 +44724,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_82] = 
+	[SPECIES_WO_CHIEN] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44732,8 +44732,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DARK,
+		.type2 = TYPE_GRASS,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44744,7 +44744,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44757,7 +44757,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_83] = 
+	[SPECIES_CHI_YU] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44765,8 +44765,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DARK,
+		.type2 = TYPE_FIRE,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44777,7 +44777,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44790,7 +44790,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_84] = 
+	[SPECIES_KORAIDON] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44798,8 +44798,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIGHTING,
+		.type2 = TYPE_DRAGON,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44810,7 +44810,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44823,7 +44823,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_85] = 
+	[SPECIES_MIRAIDON] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44831,8 +44831,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_ELECTRIC,
+		.type2 = TYPE_DRAGON,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44843,7 +44843,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44856,7 +44856,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_86] = 
+	[SPECIES_TINKATINK] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44864,8 +44864,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FAIRY,
+		.type2 = TYPE_STEEL,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44876,7 +44876,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44889,7 +44889,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_87] = 
+	[SPECIES_TINKATUFF] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44897,8 +44897,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FAIRY,
+		.type2 = TYPE_STEEL,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44909,7 +44909,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44922,7 +44922,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_88] = 
+	[SPECIES_TINKATON] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44930,8 +44930,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FAIRY,
+		.type2 = TYPE_STEEL,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44942,7 +44942,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44955,7 +44955,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_89] = 
+	[SPECIES_CHARCADET] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44963,8 +44963,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIRE,
+		.type2 = TYPE_FIRE,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -44975,7 +44975,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -44988,7 +44988,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_90] = 
+	[SPECIES_ARMAROUGE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -44996,8 +44996,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIRE,
+		.type2 = TYPE_PSYCHIC,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45008,7 +45008,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45021,7 +45021,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_91] = 
+	[SPECIES_CERULEDGE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45029,8 +45029,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIRE,
+		.type2 = TYPE_GHOST,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45041,7 +45041,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45054,7 +45054,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_92] = 
+	[SPECIES_TOEDSCOOL] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45062,8 +45062,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GRASS,
+		.type2 = TYPE_GROUND,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45074,7 +45074,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45087,7 +45087,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_93] = 
+	[SPECIES_TOEDSCRUEL] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45095,8 +45095,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GRASS,
+		.type2 = TYPE_GROUND,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45107,7 +45107,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45120,7 +45120,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_94] = 
+	[SPECIES_KINGAMBIT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45128,8 +45128,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DARK,
+		.type2 = TYPE_STEEL,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45140,7 +45140,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45153,7 +45153,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_95] = 
+	[SPECIES_CLODSIRE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45161,8 +45161,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_POISON,
+		.type2 = TYPE_GROUND,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45173,7 +45173,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45186,7 +45186,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_96] = 
+	[SPECIES_ANNIHILAPE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45194,8 +45194,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIGHTING,
+		.type2 = TYPE_GHOST,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45206,7 +45206,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45219,7 +45219,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_97] = 
+	[SPECIES_WOOPER_P] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45227,8 +45227,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_POISON,
+		.type2 = TYPE_GROUND,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45239,7 +45239,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45252,7 +45252,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_98] = 
+	[SPECIES_TAUROS_P] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45260,8 +45260,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIGHTING,
+		.type2 = TYPE_FIGHTING,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45272,7 +45272,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45285,7 +45285,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_99] = 
+	[SPECIES_TAUROS_P_FIRE] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45293,8 +45293,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIGHTING,
+		.type2 = TYPE_FIRE,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45305,7 +45305,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45318,7 +45318,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_100] = 
+	[SPECIES_TAUROS_P_WATER] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45326,8 +45326,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_FIGHTING,
+		.type2 = TYPE_WATER,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45338,7 +45338,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45351,7 +45351,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_101] = 
+	[SPECIES_OINKOLOGNE_F] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45371,7 +45371,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45384,7 +45384,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_102] = 
+	[SPECIES_PALAFIN_HERO] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45392,8 +45392,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_WATER,
+		.type2 = TYPE_WATER,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45404,7 +45404,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45417,7 +45417,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_103] = 
+	[SPECIES_SQUAWKABILLY_GREEN] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45426,7 +45426,7 @@ const struct BaseStats gBaseStats[] =
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
 		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type2 = TYPE_FLYING,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45437,7 +45437,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45450,7 +45450,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_104] = 
+	[SPECIES_SQUAWKABILLY_YELLOW] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45459,7 +45459,7 @@ const struct BaseStats gBaseStats[] =
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
 		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type2 = TYPE_FLYING,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45470,7 +45470,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45483,7 +45483,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_105] = 
+	[SPECIES_MABOSSTIFF_NIGHT] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45491,8 +45491,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_DARK,
+		.type2 = TYPE_DARK,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45503,7 +45503,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45516,7 +45516,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_106] = 
+	[SPECIES_GIMMIGHOUL_ROAMING] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45524,8 +45524,8 @@ const struct BaseStats gBaseStats[] =
 		.baseSpAttack = 100,
 		.baseSpDefense = 100,
 		.baseSpeed = 100,
-		.type1 = TYPE_NORMAL,
-		.type2 = TYPE_NORMAL,
+		.type1 = TYPE_GHOST,
+		.type2 = TYPE_GHOST,
 		.catchRate = 255,
 		.expYield = 255,
 		.evYield_HP = 0,
@@ -45536,7 +45536,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45549,7 +45549,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_107] = 
+	[SPECIES_SCARLET_VIOLET_107X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45569,7 +45569,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45582,7 +45582,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_108] = 
+	[SPECIES_SCARLET_VIOLET_108X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45602,7 +45602,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45615,7 +45615,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_109] = 
+	[SPECIES_SCARLET_VIOLET_109X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45635,7 +45635,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45648,7 +45648,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_110] = 
+	[SPECIES_SCARLET_VIOLET_110X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45668,7 +45668,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45681,7 +45681,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_111] = 
+	[SPECIES_SCARLET_VIOLET_111X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45701,7 +45701,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45714,7 +45714,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_112] = 
+	[SPECIES_SCARLET_VIOLET_112X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45734,7 +45734,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45747,7 +45747,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_113] = 
+	[SPECIES_SCARLET_VIOLET_113X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45767,7 +45767,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45780,7 +45780,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_114] = 
+	[SPECIES_SCARLET_VIOLET_114X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45800,7 +45800,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45813,7 +45813,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_115] = 
+	[SPECIES_SCARLET_VIOLET_115X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45833,7 +45833,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45846,7 +45846,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_116] = 
+	[SPECIES_SCARLET_VIOLET_116X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45866,7 +45866,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45879,7 +45879,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_117] = 
+	[SPECIES_SCARLET_VIOLET_117X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45899,7 +45899,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45912,7 +45912,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_118] = 
+	[SPECIES_SCARLET_VIOLET_118X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45932,7 +45932,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45945,7 +45945,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_119] = 
+	[SPECIES_SCARLET_VIOLET_119X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45965,7 +45965,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -45978,7 +45978,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_120] = 
+	[SPECIES_SCARLET_VIOLET_120X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -45998,7 +45998,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46011,7 +46011,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_121] = 
+	[SPECIES_SCARLET_VIOLET_121X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46031,7 +46031,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46044,7 +46044,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_122] = 
+	[SPECIES_SCARLET_VIOLET_122X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46064,7 +46064,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46077,7 +46077,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_123] = 
+	[SPECIES_SCARLET_VIOLET_123X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46097,7 +46097,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46110,7 +46110,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_124] = 
+	[SPECIES_SCARLET_VIOLET_124X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46130,7 +46130,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46143,7 +46143,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_125] = 
+	[SPECIES_SCARLET_VIOLET_125X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46163,7 +46163,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46176,7 +46176,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_126] = 
+	[SPECIES_SCARLET_VIOLET_126X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46196,7 +46196,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46209,7 +46209,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_127] = 
+	[SPECIES_SCARLET_VIOLET_127X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46229,7 +46229,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46242,7 +46242,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_128] = 
+	[SPECIES_SCARLET_VIOLET_128X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46262,7 +46262,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46275,7 +46275,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_129] = 
+	[SPECIES_SCARLET_VIOLET_129X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46295,7 +46295,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46308,7 +46308,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_130] = 
+	[SPECIES_SCARLET_VIOLET_130X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46328,7 +46328,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46341,7 +46341,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_131] = 
+	[SPECIES_SCARLET_VIOLET_131X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46361,7 +46361,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46374,7 +46374,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_132] = 
+	[SPECIES_SCARLET_VIOLET_132X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46394,7 +46394,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46407,7 +46407,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_133] = 
+	[SPECIES_SCARLET_VIOLET_133X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46427,7 +46427,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46440,7 +46440,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_134] = 
+	[SPECIES_SCARLET_VIOLET_134X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46460,7 +46460,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46473,7 +46473,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_135] = 
+	[SPECIES_SCARLET_VIOLET_135X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46493,7 +46493,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46506,7 +46506,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_136] = 
+	[SPECIES_SCARLET_VIOLET_136X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46526,7 +46526,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46539,7 +46539,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_137] = 
+	[SPECIES_SCARLET_VIOLET_137X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46559,7 +46559,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46572,7 +46572,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_138] = 
+	[SPECIES_SCARLET_VIOLET_138X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46592,7 +46592,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46605,7 +46605,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_139] = 
+	[SPECIES_SCARLET_VIOLET_139X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46625,7 +46625,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46638,7 +46638,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_140] = 
+	[SPECIES_SCARLET_VIOLET_140X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46658,7 +46658,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,
@@ -46671,7 +46671,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_SCARLET_VIOLET_141] = 
+	[SPECIES_SCARLET_VIOLET_141X] = 
 	{
 		.baseHP = 100,
 		.baseAttack = 100,
@@ -46691,7 +46691,7 @@ const struct BaseStats gBaseStats[] =
 		.evYield_Speed = 0,
 		.item1 = ITEM_NONE,
 		.item2 = ITEM_NONE,
-		.genderRatio = PERCENT_FEMALE(200.0),
+		.genderRatio = PERCENT_FEMALE(50.0),
 		.eggCycles = 120,
 		.friendship = 0,
 		.growthRate = GROWTH_SLOW,

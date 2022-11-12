@@ -349,6 +349,10 @@ u16 TryGetFemaleGenderedSpecies(u16 species, u32 personality)
 			case SPECIES_BASCULEGION:
 				species = SPECIES_BASCULEGION_FEMALE;
 				break;
+			case SPECIES_OINKOLOGNE:
+				species = SPECIES_OINKOLOGNE_F;
+				break;
+
 		}
 	}
 	else if (species == SPECIES_XERNEAS && !gMain.inBattle)
