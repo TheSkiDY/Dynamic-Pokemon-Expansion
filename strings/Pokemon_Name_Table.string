@@ -3782,6 +3782,378 @@ Enamorus
 #org @NAME_ENAMORUS_THERIAN
 Enamorus
 
+#org @NAME_SPRIGATITO
+Sprigatito
+
+#org @NAME_FLORAGATO
+Floragato
+
+#org @NAME_MEOWSCARADA
+Meowscrada
+
+#org @NAME_FUECOCO
+Fuecoco
+
+#org @NAME_CROCALOR
+Crocalor
+
+#org @NAME_SKELEDIRGE
+Skeledirge
+
+#org @NAME_QUAXLY
+Quaxly
+
+#org @NAME_QUAXWELL
+Quaxwell
+
+#org @NAME_QUAQUAVAL
+Quaquaval
+
+#org @NAME_LECHONK
+Lechonk
+
+#org @NAME_OINKOLOGNE
+Oinkologne
+
+#org @NAME_OINKOLOGNE_FEMALE
+Oinkologne
+
+#org @NAME_TAROUNTULA
+Tarountula
+
+#org @NAME_SPIDOPS
+Spidops
+
+#org @NAME_NYMBLE
+Nymble
+
+#org @NAME_LOKIX
+Lokix
+
+#org @NAME_PAWMI
+Pawmi
+
+#org @NAME_PAWMO
+Pawmo
+
+#org @NAME_PAWMOT
+Pawmot
+
+#org @NAME_TANDEMAUS
+Tandemaus
+
+#org @NAME_MAUSHOLD
+Maushold
+
+#org @NAME_MAUSHOLD_FOUR
+Maushold
+
+#org @NAME_FIDOUGH
+Fidough
+
+#org @NAME_DACHSBUN
+Dachsbun
+
+#org @NAME_SMOLIV
+Smoliv
+
+#org @NAME_DOLLIV
+Dolliv
+
+#org @NAME_ARBOLIVA
+Arboliva
+
+#org @NAME_SQUAWKABILLY
+Squawkbily
+
+#org @NAME_SQUAWKABILLY_BLUE
+Squawkbily
+
+#org @NAME_SQUAWKABILLY_YELLOW
+Squawkbily
+
+#org @NAME_SQUAWKABILLY_WHITE
+Squawkbily
+
+#org @NAME_NACLI
+Nacli
+
+#org @NAME_NACLSTACK
+Naclstack
+
+#org @NAME_GARGANACL
+Garganacl
+
+#org @NAME_CHARCADET
+Charcadet
+
+#org @NAME_ARMAROUGE
+Armarouge
+
+#org @NAME_CERULEDGE
+Ceruledge
+
+#org @NAME_TADBULB
+Tadbulb
+
+#org @NAME_BELLIBOLT
+Bellibolt
+
+#org @NAME_WATTREL
+Wattrel
+
+#org @NAME_KILOWATTREL
+Kilowatrel
+
+#org @NAME_MASCHIFF
+Maschiff
+
+#org @NAME_MABOSSTIFF
+Mabosstiff
+
+#org @NAME_SHROODLE
+Shroodle
+
+#org @NAME_GRAFAIAI
+Grafaiai
+
+#org @NAME_BRAMBLIN
+Bramblin
+
+#org @NAME_BRAMBLEGHAST
+Bramblgast
+
+#org @NAME_TOEDSCOOL
+Toedscool
+
+#org @NAME_TOEDSCRUEL
+Toedscruel
+
+#org @NAME_KLAWF
+Klawf
+
+#org @NAME_CAPSAKID
+Capsakid
+
+#org @NAME_SCOVILLAIN
+Scovillain
+
+#org @NAME_RELLOR
+Rellor
+
+#org @NAME_RABSCA
+Rabsca
+
+#org @NAME_FLITTLE
+Flittle
+
+#org @NAME_ESPATHRA
+Espathra
+
+#org @NAME_TINKATINK
+Tinkatink
+
+#org @NAME_TINKATUFF
+Tinkatuff
+
+#org @NAME_TINKATON
+Tinkaton
+
+#org @NAME_WIGLETT
+Wiglett
+
+#org @NAME_WUGTRIO
+Wugtrio
+
+#org @NAME_BOMBIRDIER
+Bombirdier
+
+#org @NAME_FINIZEN
+Finizen
+
+#org @NAME_PALAFIN
+Palafin
+
+#org @NAME_PALAFIN_HERO
+Palafin
+
+#org @NAME_VAROOM
+Varoom
+
+#org @NAME_REVAVROOM
+Revavroom
+
+#org @NAME_CYCLIZAR
+Cyclizar
+
+#org @NAME_ORTHWORM
+Orthworm
+
+#org @NAME_GLIMMET
+Glimmet
+
+#org @NAME_GLIMMORA
+Glimmora
+
+#org @NAME_GREAVARD
+Greavard
+
+#org @NAME_HOUNDSTONE
+Houndstone
+
+#org @NAME_FLAMIGO
+Flamigo
+
+#org @NAME_CETODDLE
+Cetoddle
+
+#org @NAME_CETITAN
+Cetitan
+
+#org @NAME_VELUZA
+Veluza
+
+#org @NAME_DONDOZO
+Dondozo
+
+#org @NAME_TATSUGIRI
+Tatsugiri
+
+#org @NAME_TATSUGIRI_RED
+Tatsugiri
+
+#org @NAME_TATSUGIRI_YELLOW
+Tatsugiri
+
+#org @NAME_ANNIHILAPE
+Annihilape
+
+#org @NAME_CLODSIRE
+Clodsire
+
+#org @NAME_FARIGIRAF
+Farigiraf
+
+#org @NAME_DUDUNSPARCE
+Dudunsprce
+
+#org @NAME_DUDUNSPARCE_THREE
+Dudunsprce
+
+#org @NAME_KINGAMBIT
+Kingambit
+
+#org @NAME_GREAT_TUSK
+GreatTusk
+
+#org @NAME_SCREAM_TAIL
+ScreamTail
+
+#org @NAME_BRUTE_BONNET
+BruteBonet
+
+#org @NAME_FLUTTER_MANE
+FluterMane
+
+#org @NAME_SLITHER_WING
+SlithrWing
+
+#org @NAME_SANDY_SHOCKS
+SandyShock
+
+#org @NAME_IRON_TREADS
+IronTreads
+
+#org @NAME_IRON_BUNDLE
+IronBundle
+
+#org @NAME_IRON_HANDS
+IronHands
+
+#org @NAME_IRON_JUGULIS
+IronJuglis
+
+#org @NAME_IRON_MOTH
+IronMoth
+
+#org @NAME_IRON_THORNS
+IronThorns
+
+#org @NAME_FRIGIBAX
+Frigibax
+
+#org @NAME_ARCTIBAX
+Arctibax
+
+#org @NAME_BAXCALIBUR
+Baxcalibur
+
+#org @NAME_GIMMIGHOUL
+Gimmighoul
+
+#org @NAME_GIMMIGHOUL_ROAMING
+Gimmighoul
+
+#org @NAME_GHOLDENGO
+Gholdengo
+
+#org @NAME_WO_CHIEN
+Wo-Chien
+
+#org @NAME_CHIEN_PAO
+Chien-Pao
+
+#org @NAME_TING_LU
+Ting-Lu
+
+#org @NAME_CHI_YU
+Chi-Yu
+
+#org @NAME_ROARING_MOON
+RoarinMoon
+
+#org @NAME_IRON_VALIANT
+IronValint
+
+#org @NAME_KORAIDON
+Koraidon
+
+#org @NAME_MIRAIDON
+Miraidon
+
+#org @NAME_WALKING_WAKE
+WalkinWake
+
+#org @NAME_IRON_LEAVES
+IronLeaves
+
+#org @NAME_TAUROS_P
+Tauros
+
+#org @NAME_TAUROS_BLAZE_P
+Tauros
+
+#org @NAME_TAUROS_AQUA_P
+Tauros
+
+#org @NAME_WOOPER_P
+Wooper
+
+#org @NAME_MONKIDORI
+Monkidori
+
+#org @NAME_OKIDOGI
+Okidogi
+
+#org @NAME_FEZANDIPITI
+Fezandipti
+
+#org @NAME_OGERPON
+Ogerpon
+
+#org @NAME_TERAPAGOS
+Terapagos
+
 #org @NAME_VENUSAUR_GIGA
 Venusaur
 

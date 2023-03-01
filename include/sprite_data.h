@@ -1234,6 +1234,130 @@ extern const u8 gFrontSprite1256SneaslerTiles[];
 extern const u8 gFrontSprite1257OverqwilTiles[];
 extern const u8 gFrontSprite1258EnamorusTiles[];
 extern const u8 gFrontSprite1259EnamorusTherianTiles[];
+extern const u8 gFrontSprite1260SprigatitoTiles[];
+extern const u8 gFrontSprite1261FloragatoTiles[];
+extern const u8 gFrontSprite1262MeowscaradaTiles[];
+extern const u8 gFrontSprite1263FuecocoTiles[];
+extern const u8 gFrontSprite1264CrocalorTiles[];
+extern const u8 gFrontSprite1265SkeledirgeTiles[];
+extern const u8 gFrontSprite1266QuaxlyTiles[];
+extern const u8 gFrontSprite1267QuaxwellTiles[];
+extern const u8 gFrontSprite1268QuaquavalTiles[];
+extern const u8 gFrontSprite1269LechonkTiles[];
+extern const u8 gFrontSprite1270OinkologneTiles[];
+extern const u8 gFrontSprite1271OinkologneFemaleTiles[];
+extern const u8 gFrontSprite1272TarountulaTiles[];
+extern const u8 gFrontSprite1273SpidopsTiles[];
+extern const u8 gFrontSprite1274NymbleTiles[];
+extern const u8 gFrontSprite1275LokixTiles[];
+extern const u8 gFrontSprite1276PawmiTiles[];
+extern const u8 gFrontSprite1277PawmoTiles[];
+extern const u8 gFrontSprite1278PawmotTiles[];
+extern const u8 gFrontSprite1279TandemausTiles[];
+extern const u8 gFrontSprite1280MausholdTiles[];
+extern const u8 gFrontSprite1281MausholdFourTiles[];
+extern const u8 gFrontSprite1282FidoughTiles[];
+extern const u8 gFrontSprite1283DachsbunTiles[];
+extern const u8 gFrontSprite1284SmolivTiles[];
+extern const u8 gFrontSprite1285DollivTiles[];
+extern const u8 gFrontSprite1286ArbolivaTiles[];
+extern const u8 gFrontSprite1287SquawkabillyTiles[];
+extern const u8 gFrontSprite1288SquawkabillyBlueTiles[];
+extern const u8 gFrontSprite1289SquawkabillyYellowTiles[];
+extern const u8 gFrontSprite1290SquawkabillyWhiteTiles[];
+extern const u8 gFrontSprite1291NacliTiles[];
+extern const u8 gFrontSprite1292NaclstackTiles[];
+extern const u8 gFrontSprite1293GarganaclTiles[];
+extern const u8 gFrontSprite1294CharcadetTiles[];
+extern const u8 gFrontSprite1295ArmarougeTiles[];
+extern const u8 gFrontSprite1296CeruledgeTiles[];
+extern const u8 gFrontSprite1297TadbulbTiles[];
+extern const u8 gFrontSprite1298BelliboltTiles[];
+extern const u8 gFrontSprite1299WattrelTiles[];
+extern const u8 gFrontSprite1300KilowattrelTiles[];
+extern const u8 gFrontSprite1301MaschiffTiles[];
+extern const u8 gFrontSprite1302MabosstiffTiles[];
+extern const u8 gFrontSprite1303ShroodleTiles[];
+extern const u8 gFrontSprite1304GrafaiaiTiles[];
+extern const u8 gFrontSprite1305BramblinTiles[];
+extern const u8 gFrontSprite1306BrambleghastTiles[];
+extern const u8 gFrontSprite1307ToedscoolTiles[];
+extern const u8 gFrontSprite1308ToedscruelTiles[];
+extern const u8 gFrontSprite1309KlawfTiles[];
+extern const u8 gFrontSprite1310CapsakidTiles[];
+extern const u8 gFrontSprite1311ScovillainTiles[];
+extern const u8 gFrontSprite1312RellorTiles[];
+extern const u8 gFrontSprite1313RabscaTiles[];
+extern const u8 gFrontSprite1314FlittleTiles[];
+extern const u8 gFrontSprite1315EspathraTiles[];
+extern const u8 gFrontSprite1316TinkatinkTiles[];
+extern const u8 gFrontSprite1317TinkatuffTiles[];
+extern const u8 gFrontSprite1318TinkatonTiles[];
+extern const u8 gFrontSprite1319WiglettTiles[];
+extern const u8 gFrontSprite1320WugtrioTiles[];
+extern const u8 gFrontSprite1321BombirdierTiles[];
+extern const u8 gFrontSprite1322FinizenTiles[];
+extern const u8 gFrontSprite1323PalafinTiles[];
+extern const u8 gFrontSprite1324PalafinHeroTiles[];
+extern const u8 gFrontSprite1325VaroomTiles[];
+extern const u8 gFrontSprite1326RevavroomTiles[];
+extern const u8 gFrontSprite1327CyclizarTiles[];
+extern const u8 gFrontSprite1328OrthwormTiles[];
+extern const u8 gFrontSprite1329GlimmetTiles[];
+extern const u8 gFrontSprite1330GlimmoraTiles[];
+extern const u8 gFrontSprite1331GreavardTiles[];
+extern const u8 gFrontSprite1332HoundstoneTiles[];
+extern const u8 gFrontSprite1333FlamigoTiles[];
+extern const u8 gFrontSprite1334CetoddleTiles[];
+extern const u8 gFrontSprite1335CetitanTiles[];
+extern const u8 gFrontSprite1336VeluzaTiles[];
+extern const u8 gFrontSprite1337DondozoTiles[];
+extern const u8 gFrontSprite1338TatsugiriTiles[];
+extern const u8 gFrontSprite1339TatsugiriRedTiles[];
+extern const u8 gFrontSprite1340TatsugiriYellowTiles[];
+extern const u8 gFrontSprite1341AnnihilapeTiles[];
+extern const u8 gFrontSprite1342ClodsireTiles[];
+extern const u8 gFrontSprite1343FarigirafTiles[];
+extern const u8 gFrontSprite1344DudunsparceTiles[];
+extern const u8 gFrontSprite1345DudunsparceThreeTiles[];
+extern const u8 gFrontSprite1346KingambitTiles[];
+extern const u8 gFrontSprite1347GreatTuskTiles[];
+extern const u8 gFrontSprite1348ScreamTailTiles[];
+extern const u8 gFrontSprite1349BruteBonnetTiles[];
+extern const u8 gFrontSprite1350FlutterManeTiles[];
+extern const u8 gFrontSprite1351SlitherWingTiles[];
+extern const u8 gFrontSprite1352SandyShocksTiles[];
+extern const u8 gFrontSprite1353IronTreadsTiles[];
+extern const u8 gFrontSprite1354IronBundleTiles[];
+extern const u8 gFrontSprite1355IronHandsTiles[];
+extern const u8 gFrontSprite1356IronJugulisTiles[];
+extern const u8 gFrontSprite1357IronMothTiles[];
+extern const u8 gFrontSprite1358IronThornsTiles[];
+extern const u8 gFrontSprite1359FrigibaxTiles[];
+extern const u8 gFrontSprite1360ArctibaxTiles[];
+extern const u8 gFrontSprite1361BaxcaliburTiles[];
+extern const u8 gFrontSprite1362GimmighoulTiles[];
+extern const u8 gFrontSprite1363GimmighoulRoamingTiles[];
+extern const u8 gFrontSprite1364GholdengoTiles[];
+extern const u8 gFrontSprite1365WoChienTiles[];
+extern const u8 gFrontSprite1366ChienPaoTiles[];
+extern const u8 gFrontSprite1367TingLuTiles[];
+extern const u8 gFrontSprite1368ChiYuTiles[];
+extern const u8 gFrontSprite1369RoaringMoonTiles[];
+extern const u8 gFrontSprite1370IronValiantTiles[];
+extern const u8 gFrontSprite1371KoraidonTiles[];
+extern const u8 gFrontSprite1372MiraidonTiles[];
+extern const u8 gFrontSprite1373WalkingWakeTiles[];
+extern const u8 gFrontSprite1374IronLeavesTiles[];
+extern const u8 gFrontSprite1375TaurosPTiles[];
+extern const u8 gFrontSprite1376TaurosBlazePTiles[];
+extern const u8 gFrontSprite1377TaurosAquaPTiles[];
+extern const u8 gFrontSprite1378WooperPTiles[];
+extern const u8 gFrontSprite1379MonkidoriTiles[];
+extern const u8 gFrontSprite1380OkidogiTiles[];
+extern const u8 gFrontSprite1381FezandipitiTiles[];
+extern const u8 gFrontSprite1382OgerponTiles[];
+extern const u8 gFrontSprite1383TerapagosTiles[];
 extern const u8 gFrontSpriteGigaVenusaurTiles[];
 extern const u8 gFrontSpriteGigaCharizardTiles[];
 extern const u8 gFrontSpriteGigaBlastoiseTiles[];
@@ -2503,6 +2627,130 @@ extern const u8 gBackShinySprite1256SneaslerTiles[];
 extern const u8 gBackShinySprite1257OverqwilTiles[];
 extern const u8 gBackShinySprite1258EnamorusTiles[];
 extern const u8 gBackShinySprite1259EnamorusTherianTiles[];
+extern const u8 gBackShinySprite1260SprigatitoTiles[];
+extern const u8 gBackShinySprite1261FloragatoTiles[];
+extern const u8 gBackShinySprite1262MeowscaradaTiles[];
+extern const u8 gBackShinySprite1263FuecocoTiles[];
+extern const u8 gBackShinySprite1264CrocalorTiles[];
+extern const u8 gBackShinySprite1265SkeledirgeTiles[];
+extern const u8 gBackShinySprite1266QuaxlyTiles[];
+extern const u8 gBackShinySprite1267QuaxwellTiles[];
+extern const u8 gBackShinySprite1268QuaquavalTiles[];
+extern const u8 gBackShinySprite1269LechonkTiles[];
+extern const u8 gBackShinySprite1270OinkologneTiles[];
+extern const u8 gBackShinySprite1271OinkologneFemaleTiles[];
+extern const u8 gBackShinySprite1272TarountulaTiles[];
+extern const u8 gBackShinySprite1273SpidopsTiles[];
+extern const u8 gBackShinySprite1274NymbleTiles[];
+extern const u8 gBackShinySprite1275LokixTiles[];
+extern const u8 gBackShinySprite1276PawmiTiles[];
+extern const u8 gBackShinySprite1277PawmoTiles[];
+extern const u8 gBackShinySprite1278PawmotTiles[];
+extern const u8 gBackShinySprite1279TandemausTiles[];
+extern const u8 gBackShinySprite1280MausholdTiles[];
+extern const u8 gBackShinySprite1281MausholdFourTiles[];
+extern const u8 gBackShinySprite1282FidoughTiles[];
+extern const u8 gBackShinySprite1283DachsbunTiles[];
+extern const u8 gBackShinySprite1284SmolivTiles[];
+extern const u8 gBackShinySprite1285DollivTiles[];
+extern const u8 gBackShinySprite1286ArbolivaTiles[];
+extern const u8 gBackShinySprite1287SquawkabillyTiles[];
+extern const u8 gBackShinySprite1288SquawkabillyBlueTiles[];
+extern const u8 gBackShinySprite1289SquawkabillyYellowTiles[];
+extern const u8 gBackShinySprite1290SquawkabillyWhiteTiles[];
+extern const u8 gBackShinySprite1291NacliTiles[];
+extern const u8 gBackShinySprite1292NaclstackTiles[];
+extern const u8 gBackShinySprite1293GarganaclTiles[];
+extern const u8 gBackShinySprite1294CharcadetTiles[];
+extern const u8 gBackShinySprite1295ArmarougeTiles[];
+extern const u8 gBackShinySprite1296CeruledgeTiles[];
+extern const u8 gBackShinySprite1297TadbulbTiles[];
+extern const u8 gBackShinySprite1298BelliboltTiles[];
+extern const u8 gBackShinySprite1299WattrelTiles[];
+extern const u8 gBackShinySprite1300KilowattrelTiles[];
+extern const u8 gBackShinySprite1301MaschiffTiles[];
+extern const u8 gBackShinySprite1302MabosstiffTiles[];
+extern const u8 gBackShinySprite1303ShroodleTiles[];
+extern const u8 gBackShinySprite1304GrafaiaiTiles[];
+extern const u8 gBackShinySprite1305BramblinTiles[];
+extern const u8 gBackShinySprite1306BrambleghastTiles[];
+extern const u8 gBackShinySprite1307ToedscoolTiles[];
+extern const u8 gBackShinySprite1308ToedscruelTiles[];
+extern const u8 gBackShinySprite1309KlawfTiles[];
+extern const u8 gBackShinySprite1310CapsakidTiles[];
+extern const u8 gBackShinySprite1311ScovillainTiles[];
+extern const u8 gBackShinySprite1312RellorTiles[];
+extern const u8 gBackShinySprite1313RabscaTiles[];
+extern const u8 gBackShinySprite1314FlittleTiles[];
+extern const u8 gBackShinySprite1315EspathraTiles[];
+extern const u8 gBackShinySprite1316TinkatinkTiles[];
+extern const u8 gBackShinySprite1317TinkatuffTiles[];
+extern const u8 gBackShinySprite1318TinkatonTiles[];
+extern const u8 gBackShinySprite1319WiglettTiles[];
+extern const u8 gBackShinySprite1320WugtrioTiles[];
+extern const u8 gBackShinySprite1321BombirdierTiles[];
+extern const u8 gBackShinySprite1322FinizenTiles[];
+extern const u8 gBackShinySprite1323PalafinTiles[];
+extern const u8 gBackShinySprite1324PalafinHeroTiles[];
+extern const u8 gBackShinySprite1325VaroomTiles[];
+extern const u8 gBackShinySprite1326RevavroomTiles[];
+extern const u8 gBackShinySprite1327CyclizarTiles[];
+extern const u8 gBackShinySprite1328OrthwormTiles[];
+extern const u8 gBackShinySprite1329GlimmetTiles[];
+extern const u8 gBackShinySprite1330GlimmoraTiles[];
+extern const u8 gBackShinySprite1331GreavardTiles[];
+extern const u8 gBackShinySprite1332HoundstoneTiles[];
+extern const u8 gBackShinySprite1333FlamigoTiles[];
+extern const u8 gBackShinySprite1334CetoddleTiles[];
+extern const u8 gBackShinySprite1335CetitanTiles[];
+extern const u8 gBackShinySprite1336VeluzaTiles[];
+extern const u8 gBackShinySprite1337DondozoTiles[];
+extern const u8 gBackShinySprite1338TatsugiriTiles[];
+extern const u8 gBackShinySprite1339TatsugiriRedTiles[];
+extern const u8 gBackShinySprite1340TatsugiriYellowTiles[];
+extern const u8 gBackShinySprite1341AnnihilapeTiles[];
+extern const u8 gBackShinySprite1342ClodsireTiles[];
+extern const u8 gBackShinySprite1343FarigirafTiles[];
+extern const u8 gBackShinySprite1344DudunsparceTiles[];
+extern const u8 gBackShinySprite1345DudunsparceThreeTiles[];
+extern const u8 gBackShinySprite1346KingambitTiles[];
+extern const u8 gBackShinySprite1347GreatTuskTiles[];
+extern const u8 gBackShinySprite1348ScreamTailTiles[];
+extern const u8 gBackShinySprite1349BruteBonnetTiles[];
+extern const u8 gBackShinySprite1350FlutterManeTiles[];
+extern const u8 gBackShinySprite1351SlitherWingTiles[];
+extern const u8 gBackShinySprite1352SandyShocksTiles[];
+extern const u8 gBackShinySprite1353IronTreadsTiles[];
+extern const u8 gBackShinySprite1354IronBundleTiles[];
+extern const u8 gBackShinySprite1355IronHandsTiles[];
+extern const u8 gBackShinySprite1356IronJugulisTiles[];
+extern const u8 gBackShinySprite1357IronMothTiles[];
+extern const u8 gBackShinySprite1358IronThornsTiles[];
+extern const u8 gBackShinySprite1359FrigibaxTiles[];
+extern const u8 gBackShinySprite1360ArctibaxTiles[];
+extern const u8 gBackShinySprite1361BaxcaliburTiles[];
+extern const u8 gBackShinySprite1362GimmighoulTiles[];
+extern const u8 gBackShinySprite1363GimmighoulRoamingTiles[];
+extern const u8 gBackShinySprite1364GholdengoTiles[];
+extern const u8 gBackShinySprite1365WoChienTiles[];
+extern const u8 gBackShinySprite1366ChienPaoTiles[];
+extern const u8 gBackShinySprite1367TingLuTiles[];
+extern const u8 gBackShinySprite1368ChiYuTiles[];
+extern const u8 gBackShinySprite1369RoaringMoonTiles[];
+extern const u8 gBackShinySprite1370IronValiantTiles[];
+extern const u8 gBackShinySprite1371KoraidonTiles[];
+extern const u8 gBackShinySprite1372MiraidonTiles[];
+extern const u8 gBackShinySprite1373WalkingWakeTiles[];
+extern const u8 gBackShinySprite1374IronLeavesTiles[];
+extern const u8 gBackShinySprite1375TaurosPTiles[];
+extern const u8 gBackShinySprite1376TaurosBlazePTiles[];
+extern const u8 gBackShinySprite1377TaurosAquaPTiles[];
+extern const u8 gBackShinySprite1378WooperPTiles[];
+extern const u8 gBackShinySprite1379MonkidoriTiles[];
+extern const u8 gBackShinySprite1380OkidogiTiles[];
+extern const u8 gBackShinySprite1381FezandipitiTiles[];
+extern const u8 gBackShinySprite1382OgerponTiles[];
+extern const u8 gBackShinySprite1383TerapagosTiles[];
 extern const u8 gBackShinySpriteGigaVenusaurTiles[];
 extern const u8 gBackShinySpriteGigaCharizardTiles[];
 extern const u8 gBackShinySpriteGigaBlastoiseTiles[];
@@ -3776,6 +4024,130 @@ extern const u8 gFrontSprite1256SneaslerPal[];
 extern const u8 gFrontSprite1257OverqwilPal[];
 extern const u8 gFrontSprite1258EnamorusPal[];
 extern const u8 gFrontSprite1259EnamorusTherianPal[];
+extern const u8 gFrontSprite1260SprigatitoPal[];
+extern const u8 gFrontSprite1261FloragatoPal[];
+extern const u8 gFrontSprite1262MeowscaradaPal[];
+extern const u8 gFrontSprite1263FuecocoPal[];
+extern const u8 gFrontSprite1264CrocalorPal[];
+extern const u8 gFrontSprite1265SkeledirgePal[];
+extern const u8 gFrontSprite1266QuaxlyPal[];
+extern const u8 gFrontSprite1267QuaxwellPal[];
+extern const u8 gFrontSprite1268QuaquavalPal[];
+extern const u8 gFrontSprite1269LechonkPal[];
+extern const u8 gFrontSprite1270OinkolognePal[];
+extern const u8 gFrontSprite1271OinkologneFemalePal[];
+extern const u8 gFrontSprite1272TarountulaPal[];
+extern const u8 gFrontSprite1273SpidopsPal[];
+extern const u8 gFrontSprite1274NymblePal[];
+extern const u8 gFrontSprite1275LokixPal[];
+extern const u8 gFrontSprite1276PawmiPal[];
+extern const u8 gFrontSprite1277PawmoPal[];
+extern const u8 gFrontSprite1278PawmotPal[];
+extern const u8 gFrontSprite1279TandemausPal[];
+extern const u8 gFrontSprite1280MausholdPal[];
+extern const u8 gFrontSprite1281MausholdFourPal[];
+extern const u8 gFrontSprite1282FidoughPal[];
+extern const u8 gFrontSprite1283DachsbunPal[];
+extern const u8 gFrontSprite1284SmolivPal[];
+extern const u8 gFrontSprite1285DollivPal[];
+extern const u8 gFrontSprite1286ArbolivaPal[];
+extern const u8 gFrontSprite1287SquawkabillyPal[];
+extern const u8 gFrontSprite1288SquawkabillyBluePal[];
+extern const u8 gFrontSprite1289SquawkabillyYellowPal[];
+extern const u8 gFrontSprite1290SquawkabillyWhitePal[];
+extern const u8 gFrontSprite1291NacliPal[];
+extern const u8 gFrontSprite1292NaclstackPal[];
+extern const u8 gFrontSprite1293GarganaclPal[];
+extern const u8 gFrontSprite1294CharcadetPal[];
+extern const u8 gFrontSprite1295ArmarougePal[];
+extern const u8 gFrontSprite1296CeruledgePal[];
+extern const u8 gFrontSprite1297TadbulbPal[];
+extern const u8 gFrontSprite1298BelliboltPal[];
+extern const u8 gFrontSprite1299WattrelPal[];
+extern const u8 gFrontSprite1300KilowattrelPal[];
+extern const u8 gFrontSprite1301MaschiffPal[];
+extern const u8 gFrontSprite1302MabosstiffPal[];
+extern const u8 gFrontSprite1303ShroodlePal[];
+extern const u8 gFrontSprite1304GrafaiaiPal[];
+extern const u8 gFrontSprite1305BramblinPal[];
+extern const u8 gFrontSprite1306BrambleghastPal[];
+extern const u8 gFrontSprite1307ToedscoolPal[];
+extern const u8 gFrontSprite1308ToedscruelPal[];
+extern const u8 gFrontSprite1309KlawfPal[];
+extern const u8 gFrontSprite1310CapsakidPal[];
+extern const u8 gFrontSprite1311ScovillainPal[];
+extern const u8 gFrontSprite1312RellorPal[];
+extern const u8 gFrontSprite1313RabscaPal[];
+extern const u8 gFrontSprite1314FlittlePal[];
+extern const u8 gFrontSprite1315EspathraPal[];
+extern const u8 gFrontSprite1316TinkatinkPal[];
+extern const u8 gFrontSprite1317TinkatuffPal[];
+extern const u8 gFrontSprite1318TinkatonPal[];
+extern const u8 gFrontSprite1319WiglettPal[];
+extern const u8 gFrontSprite1320WugtrioPal[];
+extern const u8 gFrontSprite1321BombirdierPal[];
+extern const u8 gFrontSprite1322FinizenPal[];
+extern const u8 gFrontSprite1323PalafinPal[];
+extern const u8 gFrontSprite1324PalafinHeroPal[];
+extern const u8 gFrontSprite1325VaroomPal[];
+extern const u8 gFrontSprite1326RevavroomPal[];
+extern const u8 gFrontSprite1327CyclizarPal[];
+extern const u8 gFrontSprite1328OrthwormPal[];
+extern const u8 gFrontSprite1329GlimmetPal[];
+extern const u8 gFrontSprite1330GlimmoraPal[];
+extern const u8 gFrontSprite1331GreavardPal[];
+extern const u8 gFrontSprite1332HoundstonePal[];
+extern const u8 gFrontSprite1333FlamigoPal[];
+extern const u8 gFrontSprite1334CetoddlePal[];
+extern const u8 gFrontSprite1335CetitanPal[];
+extern const u8 gFrontSprite1336VeluzaPal[];
+extern const u8 gFrontSprite1337DondozoPal[];
+extern const u8 gFrontSprite1338TatsugiriPal[];
+extern const u8 gFrontSprite1339TatsugiriRedPal[];
+extern const u8 gFrontSprite1340TatsugiriYellowPal[];
+extern const u8 gFrontSprite1341AnnihilapePal[];
+extern const u8 gFrontSprite1342ClodsirePal[];
+extern const u8 gFrontSprite1343FarigirafPal[];
+extern const u8 gFrontSprite1344DudunsparcePal[];
+extern const u8 gFrontSprite1345DudunsparceThreePal[];
+extern const u8 gFrontSprite1346KingambitPal[];
+extern const u8 gFrontSprite1347GreatTuskPal[];
+extern const u8 gFrontSprite1348ScreamTailPal[];
+extern const u8 gFrontSprite1349BruteBonnetPal[];
+extern const u8 gFrontSprite1350FlutterManePal[];
+extern const u8 gFrontSprite1351SlitherWingPal[];
+extern const u8 gFrontSprite1352SandyShocksPal[];
+extern const u8 gFrontSprite1353IronTreadsPal[];
+extern const u8 gFrontSprite1354IronBundlePal[];
+extern const u8 gFrontSprite1355IronHandsPal[];
+extern const u8 gFrontSprite1356IronJugulisPal[];
+extern const u8 gFrontSprite1357IronMothPal[];
+extern const u8 gFrontSprite1358IronThornsPal[];
+extern const u8 gFrontSprite1359FrigibaxPal[];
+extern const u8 gFrontSprite1360ArctibaxPal[];
+extern const u8 gFrontSprite1361BaxcaliburPal[];
+extern const u8 gFrontSprite1362GimmighoulPal[];
+extern const u8 gFrontSprite1363GimmighoulRoamingPal[];
+extern const u8 gFrontSprite1364GholdengoPal[];
+extern const u8 gFrontSprite1365WoChienPal[];
+extern const u8 gFrontSprite1366ChienPaoPal[];
+extern const u8 gFrontSprite1367TingLuPal[];
+extern const u8 gFrontSprite1368ChiYuPal[];
+extern const u8 gFrontSprite1369RoaringMoonPal[];
+extern const u8 gFrontSprite1370IronValiantPal[];
+extern const u8 gFrontSprite1371KoraidonPal[];
+extern const u8 gFrontSprite1372MiraidonPal[];
+extern const u8 gFrontSprite1373WalkingWakePal[];
+extern const u8 gFrontSprite1374IronLeavesPal[];
+extern const u8 gFrontSprite1375TaurosPPal[];
+extern const u8 gFrontSprite1376TaurosBlazePPal[];
+extern const u8 gFrontSprite1377TaurosAquaPPal[];
+extern const u8 gFrontSprite1378WooperPPal[];
+extern const u8 gFrontSprite1379MonkidoriPal[];
+extern const u8 gFrontSprite1380OkidogiPal[];
+extern const u8 gFrontSprite1381FezandipitiPal[];
+extern const u8 gFrontSprite1382OgerponPal[];
+extern const u8 gFrontSprite1383TerapagosPal[];
 extern const u8 gFrontSpriteGigaVenusaurPal[];
 extern const u8 gFrontSpriteGigaCharizardPal[];
 extern const u8 gFrontSpriteGigaBlastoisePal[];
@@ -5045,6 +5417,130 @@ extern const u8 gBackShinySprite1256SneaslerPal[];
 extern const u8 gBackShinySprite1257OverqwilPal[];
 extern const u8 gBackShinySprite1258EnamorusPal[];
 extern const u8 gBackShinySprite1259EnamorusTherianPal[];
+extern const u8 gBackShinySprite1260SprigatitoPal[];
+extern const u8 gBackShinySprite1261FloragatoPal[];
+extern const u8 gBackShinySprite1262MeowscaradaPal[];
+extern const u8 gBackShinySprite1263FuecocoPal[];
+extern const u8 gBackShinySprite1264CrocalorPal[];
+extern const u8 gBackShinySprite1265SkeledirgePal[];
+extern const u8 gBackShinySprite1266QuaxlyPal[];
+extern const u8 gBackShinySprite1267QuaxwellPal[];
+extern const u8 gBackShinySprite1268QuaquavalPal[];
+extern const u8 gBackShinySprite1269LechonkPal[];
+extern const u8 gBackShinySprite1270OinkolognePal[];
+extern const u8 gBackShinySprite1271OinkologneFemalePal[];
+extern const u8 gBackShinySprite1272TarountulaPal[];
+extern const u8 gBackShinySprite1273SpidopsPal[];
+extern const u8 gBackShinySprite1274NymblePal[];
+extern const u8 gBackShinySprite1275LokixPal[];
+extern const u8 gBackShinySprite1276PawmiPal[];
+extern const u8 gBackShinySprite1277PawmoPal[];
+extern const u8 gBackShinySprite1278PawmotPal[];
+extern const u8 gBackShinySprite1279TandemausPal[];
+extern const u8 gBackShinySprite1280MausholdPal[];
+extern const u8 gBackShinySprite1281MausholdFourPal[];
+extern const u8 gBackShinySprite1282FidoughPal[];
+extern const u8 gBackShinySprite1283DachsbunPal[];
+extern const u8 gBackShinySprite1284SmolivPal[];
+extern const u8 gBackShinySprite1285DollivPal[];
+extern const u8 gBackShinySprite1286ArbolivaPal[];
+extern const u8 gBackShinySprite1287SquawkabillyPal[];
+extern const u8 gBackShinySprite1288SquawkabillyBluePal[];
+extern const u8 gBackShinySprite1289SquawkabillyYellowPal[];
+extern const u8 gBackShinySprite1290SquawkabillyWhitePal[];
+extern const u8 gBackShinySprite1291NacliPal[];
+extern const u8 gBackShinySprite1292NaclstackPal[];
+extern const u8 gBackShinySprite1293GarganaclPal[];
+extern const u8 gBackShinySprite1294CharcadetPal[];
+extern const u8 gBackShinySprite1295ArmarougePal[];
+extern const u8 gBackShinySprite1296CeruledgePal[];
+extern const u8 gBackShinySprite1297TadbulbPal[];
+extern const u8 gBackShinySprite1298BelliboltPal[];
+extern const u8 gBackShinySprite1299WattrelPal[];
+extern const u8 gBackShinySprite1300KilowattrelPal[];
+extern const u8 gBackShinySprite1301MaschiffPal[];
+extern const u8 gBackShinySprite1302MabosstiffPal[];
+extern const u8 gBackShinySprite1303ShroodlePal[];
+extern const u8 gBackShinySprite1304GrafaiaiPal[];
+extern const u8 gBackShinySprite1305BramblinPal[];
+extern const u8 gBackShinySprite1306BrambleghastPal[];
+extern const u8 gBackShinySprite1307ToedscoolPal[];
+extern const u8 gBackShinySprite1308ToedscruelPal[];
+extern const u8 gBackShinySprite1309KlawfPal[];
+extern const u8 gBackShinySprite1310CapsakidPal[];
+extern const u8 gBackShinySprite1311ScovillainPal[];
+extern const u8 gBackShinySprite1312RellorPal[];
+extern const u8 gBackShinySprite1313RabscaPal[];
+extern const u8 gBackShinySprite1314FlittlePal[];
+extern const u8 gBackShinySprite1315EspathraPal[];
+extern const u8 gBackShinySprite1316TinkatinkPal[];
+extern const u8 gBackShinySprite1317TinkatuffPal[];
+extern const u8 gBackShinySprite1318TinkatonPal[];
+extern const u8 gBackShinySprite1319WiglettPal[];
+extern const u8 gBackShinySprite1320WugtrioPal[];
+extern const u8 gBackShinySprite1321BombirdierPal[];
+extern const u8 gBackShinySprite1322FinizenPal[];
+extern const u8 gBackShinySprite1323PalafinPal[];
+extern const u8 gBackShinySprite1324PalafinHeroPal[];
+extern const u8 gBackShinySprite1325VaroomPal[];
+extern const u8 gBackShinySprite1326RevavroomPal[];
+extern const u8 gBackShinySprite1327CyclizarPal[];
+extern const u8 gBackShinySprite1328OrthwormPal[];
+extern const u8 gBackShinySprite1329GlimmetPal[];
+extern const u8 gBackShinySprite1330GlimmoraPal[];
+extern const u8 gBackShinySprite1331GreavardPal[];
+extern const u8 gBackShinySprite1332HoundstonePal[];
+extern const u8 gBackShinySprite1333FlamigoPal[];
+extern const u8 gBackShinySprite1334CetoddlePal[];
+extern const u8 gBackShinySprite1335CetitanPal[];
+extern const u8 gBackShinySprite1336VeluzaPal[];
+extern const u8 gBackShinySprite1337DondozoPal[];
+extern const u8 gBackShinySprite1338TatsugiriPal[];
+extern const u8 gBackShinySprite1339TatsugiriRedPal[];
+extern const u8 gBackShinySprite1340TatsugiriYellowPal[];
+extern const u8 gBackShinySprite1341AnnihilapePal[];
+extern const u8 gBackShinySprite1342ClodsirePal[];
+extern const u8 gBackShinySprite1343FarigirafPal[];
+extern const u8 gBackShinySprite1344DudunsparcePal[];
+extern const u8 gBackShinySprite1345DudunsparceThreePal[];
+extern const u8 gBackShinySprite1346KingambitPal[];
+extern const u8 gBackShinySprite1347GreatTuskPal[];
+extern const u8 gBackShinySprite1348ScreamTailPal[];
+extern const u8 gBackShinySprite1349BruteBonnetPal[];
+extern const u8 gBackShinySprite1350FlutterManePal[];
+extern const u8 gBackShinySprite1351SlitherWingPal[];
+extern const u8 gBackShinySprite1352SandyShocksPal[];
+extern const u8 gBackShinySprite1353IronTreadsPal[];
+extern const u8 gBackShinySprite1354IronBundlePal[];
+extern const u8 gBackShinySprite1355IronHandsPal[];
+extern const u8 gBackShinySprite1356IronJugulisPal[];
+extern const u8 gBackShinySprite1357IronMothPal[];
+extern const u8 gBackShinySprite1358IronThornsPal[];
+extern const u8 gBackShinySprite1359FrigibaxPal[];
+extern const u8 gBackShinySprite1360ArctibaxPal[];
+extern const u8 gBackShinySprite1361BaxcaliburPal[];
+extern const u8 gBackShinySprite1362GimmighoulPal[];
+extern const u8 gBackShinySprite1363GimmighoulRoamingPal[];
+extern const u8 gBackShinySprite1364GholdengoPal[];
+extern const u8 gBackShinySprite1365WoChienPal[];
+extern const u8 gBackShinySprite1366ChienPaoPal[];
+extern const u8 gBackShinySprite1367TingLuPal[];
+extern const u8 gBackShinySprite1368ChiYuPal[];
+extern const u8 gBackShinySprite1369RoaringMoonPal[];
+extern const u8 gBackShinySprite1370IronValiantPal[];
+extern const u8 gBackShinySprite1371KoraidonPal[];
+extern const u8 gBackShinySprite1372MiraidonPal[];
+extern const u8 gBackShinySprite1373WalkingWakePal[];
+extern const u8 gBackShinySprite1374IronLeavesPal[];
+extern const u8 gBackShinySprite1375TaurosPPal[];
+extern const u8 gBackShinySprite1376TaurosBlazePPal[];
+extern const u8 gBackShinySprite1377TaurosAquaPPal[];
+extern const u8 gBackShinySprite1378WooperPPal[];
+extern const u8 gBackShinySprite1379MonkidoriPal[];
+extern const u8 gBackShinySprite1380OkidogiPal[];
+extern const u8 gBackShinySprite1381FezandipitiPal[];
+extern const u8 gBackShinySprite1382OgerponPal[];
+extern const u8 gBackShinySprite1383TerapagosPal[];
 extern const u8 gBackShinySpriteGigaVenusaurPal[];
 extern const u8 gBackShinySpriteGigaCharizardPal[];
 extern const u8 gBackShinySpriteGigaBlastoisePal[];
@@ -6318,6 +6814,130 @@ extern const u8 gIconSprite1256SneaslerTiles[];
 extern const u8 gIconSprite1257OverqwilTiles[];
 extern const u8 gIconSprite1258EnamorusTiles[];
 extern const u8 gIconSprite1259EnamorusTherianTiles[];
+extern const u8 gIconSprite1260SprigatitoTiles[];
+extern const u8 gIconSprite1261FloragatoTiles[];
+extern const u8 gIconSprite1262MeowscaradaTiles[];
+extern const u8 gIconSprite1263FuecocoTiles[];
+extern const u8 gIconSprite1264CrocalorTiles[];
+extern const u8 gIconSprite1265SkeledirgeTiles[];
+extern const u8 gIconSprite1266QuaxlyTiles[];
+extern const u8 gIconSprite1267QuaxwellTiles[];
+extern const u8 gIconSprite1268QuaquavalTiles[];
+extern const u8 gIconSprite1269LechonkTiles[];
+extern const u8 gIconSprite1270OinkologneTiles[];
+extern const u8 gIconSprite1271OinkologneFemaleTiles[];
+extern const u8 gIconSprite1272TarountulaTiles[];
+extern const u8 gIconSprite1273SpidopsTiles[];
+extern const u8 gIconSprite1274NymbleTiles[];
+extern const u8 gIconSprite1275LokixTiles[];
+extern const u8 gIconSprite1276PawmiTiles[];
+extern const u8 gIconSprite1277PawmoTiles[];
+extern const u8 gIconSprite1278PawmotTiles[];
+extern const u8 gIconSprite1279TandemausTiles[];
+extern const u8 gIconSprite1280MausholdTiles[];
+extern const u8 gIconSprite1281MausholdFourTiles[];
+extern const u8 gIconSprite1282FidoughTiles[];
+extern const u8 gIconSprite1283DachsbunTiles[];
+extern const u8 gIconSprite1284SmolivTiles[];
+extern const u8 gIconSprite1285DollivTiles[];
+extern const u8 gIconSprite1286ArbolivaTiles[];
+extern const u8 gIconSprite1287SquawkabillyTiles[];
+extern const u8 gIconSprite1288SquawkabillyBlueTiles[];
+extern const u8 gIconSprite1289SquawkabillyYellowTiles[];
+extern const u8 gIconSprite1290SquawkabillyWhiteTiles[];
+extern const u8 gIconSprite1291NacliTiles[];
+extern const u8 gIconSprite1292NaclstackTiles[];
+extern const u8 gIconSprite1293GarganaclTiles[];
+extern const u8 gIconSprite1294CharcadetTiles[];
+extern const u8 gIconSprite1295ArmarougeTiles[];
+extern const u8 gIconSprite1296CeruledgeTiles[];
+extern const u8 gIconSprite1297TadbulbTiles[];
+extern const u8 gIconSprite1298BelliboltTiles[];
+extern const u8 gIconSprite1299WattrelTiles[];
+extern const u8 gIconSprite1300KilowattrelTiles[];
+extern const u8 gIconSprite1301MaschiffTiles[];
+extern const u8 gIconSprite1302MabosstiffTiles[];
+extern const u8 gIconSprite1303ShroodleTiles[];
+extern const u8 gIconSprite1304GrafaiaiTiles[];
+extern const u8 gIconSprite1305BramblinTiles[];
+extern const u8 gIconSprite1306BrambleghastTiles[];
+extern const u8 gIconSprite1307ToedscoolTiles[];
+extern const u8 gIconSprite1308ToedscruelTiles[];
+extern const u8 gIconSprite1309KlawfTiles[];
+extern const u8 gIconSprite1310CapsakidTiles[];
+extern const u8 gIconSprite1311ScovillainTiles[];
+extern const u8 gIconSprite1312RellorTiles[];
+extern const u8 gIconSprite1313RabscaTiles[];
+extern const u8 gIconSprite1314FlittleTiles[];
+extern const u8 gIconSprite1315EspathraTiles[];
+extern const u8 gIconSprite1316TinkatinkTiles[];
+extern const u8 gIconSprite1317TinkatuffTiles[];
+extern const u8 gIconSprite1318TinkatonTiles[];
+extern const u8 gIconSprite1319WiglettTiles[];
+extern const u8 gIconSprite1320WugtrioTiles[];
+extern const u8 gIconSprite1321BombirdierTiles[];
+extern const u8 gIconSprite1322FinizenTiles[];
+extern const u8 gIconSprite1323PalafinTiles[];
+extern const u8 gIconSprite1324PalafinHeroTiles[];
+extern const u8 gIconSprite1325VaroomTiles[];
+extern const u8 gIconSprite1326RevavroomTiles[];
+extern const u8 gIconSprite1327CyclizarTiles[];
+extern const u8 gIconSprite1328OrthwormTiles[];
+extern const u8 gIconSprite1329GlimmetTiles[];
+extern const u8 gIconSprite1330GlimmoraTiles[];
+extern const u8 gIconSprite1331GreavardTiles[];
+extern const u8 gIconSprite1332HoundstoneTiles[];
+extern const u8 gIconSprite1333FlamigoTiles[];
+extern const u8 gIconSprite1334CetoddleTiles[];
+extern const u8 gIconSprite1335CetitanTiles[];
+extern const u8 gIconSprite1336VeluzaTiles[];
+extern const u8 gIconSprite1337DondozoTiles[];
+extern const u8 gIconSprite1338TatsugiriTiles[];
+extern const u8 gIconSprite1339TatsugiriRedTiles[];
+extern const u8 gIconSprite1340TatsugiriYellowTiles[];
+extern const u8 gIconSprite1341AnnihilapeTiles[];
+extern const u8 gIconSprite1342ClodsireTiles[];
+extern const u8 gIconSprite1343FarigirafTiles[];
+extern const u8 gIconSprite1344DudunsparceTiles[];
+extern const u8 gIconSprite1345DudunsparceThreeTiles[];
+extern const u8 gIconSprite1346KingambitTiles[];
+extern const u8 gIconSprite1347GreatTuskTiles[];
+extern const u8 gIconSprite1348ScreamTailTiles[];
+extern const u8 gIconSprite1349BruteBonnetTiles[];
+extern const u8 gIconSprite1350FlutterManeTiles[];
+extern const u8 gIconSprite1351SlitherWingTiles[];
+extern const u8 gIconSprite1352SandyShocksTiles[];
+extern const u8 gIconSprite1353IronTreadsTiles[];
+extern const u8 gIconSprite1354IronBundleTiles[];
+extern const u8 gIconSprite1355IronHandsTiles[];
+extern const u8 gIconSprite1356IronJugulisTiles[];
+extern const u8 gIconSprite1357IronMothTiles[];
+extern const u8 gIconSprite1358IronThornsTiles[];
+extern const u8 gIconSprite1359FrigibaxTiles[];
+extern const u8 gIconSprite1360ArctibaxTiles[];
+extern const u8 gIconSprite1361BaxcaliburTiles[];
+extern const u8 gIconSprite1362GimmighoulTiles[];
+extern const u8 gIconSprite1363GimmighoulRoamingTiles[];
+extern const u8 gIconSprite1364GholdengoTiles[];
+extern const u8 gIconSprite1365WoChienTiles[];
+extern const u8 gIconSprite1366ChienPaoTiles[];
+extern const u8 gIconSprite1367TingLuTiles[];
+extern const u8 gIconSprite1368ChiYuTiles[];
+extern const u8 gIconSprite1369RoaringMoonTiles[];
+extern const u8 gIconSprite1370IronValiantTiles[];
+extern const u8 gIconSprite1371KoraidonTiles[];
+extern const u8 gIconSprite1372MiraidonTiles[];
+extern const u8 gIconSprite1373WalkingWakeTiles[];
+extern const u8 gIconSprite1374IronLeavesTiles[];
+extern const u8 gIconSprite1375TaurosPTiles[];
+extern const u8 gIconSprite1376TaurosBlazePTiles[];
+extern const u8 gIconSprite1377TaurosAquaPTiles[];
+extern const u8 gIconSprite1378WooperPTiles[];
+extern const u8 gIconSprite1379MonkidoriTiles[];
+extern const u8 gIconSprite1380OkidogiTiles[];
+extern const u8 gIconSprite1381FezandipitiTiles[];
+extern const u8 gIconSprite1382OgerponTiles[];
+extern const u8 gIconSprite1383TerapagosTiles[];
 extern const u8 gIconSpriteGigaVenusaurTiles[];
 extern const u8 gIconSpriteGigaCharizardTiles[];
 extern const u8 gIconSpriteGigaBlastoiseTiles[];
@@ -6354,3 +6974,630 @@ extern const u8 gIconSpriteGigaUrshifuSingleTiles[];
 extern const u8 gIconSpriteGigaUrshifuRapidTiles[];
 
 extern const u8 gIconSprite252Tiles[];
+
+//Temp
+
+#define gFrontSprite1260SprigatitoTiles gFrontSprite000NoneTiles
+#define gFrontSprite1261FloragatoTiles gFrontSprite000NoneTiles
+#define gFrontSprite1262MeowscaradaTiles gFrontSprite000NoneTiles
+#define gFrontSprite1263FuecocoTiles gFrontSprite000NoneTiles
+#define gFrontSprite1264CrocalorTiles gFrontSprite000NoneTiles
+#define gFrontSprite1265SkeledirgeTiles gFrontSprite000NoneTiles
+#define gFrontSprite1266QuaxlyTiles gFrontSprite000NoneTiles
+#define gFrontSprite1267QuaxwellTiles gFrontSprite000NoneTiles
+#define gFrontSprite1268QuaquavalTiles gFrontSprite000NoneTiles
+#define gFrontSprite1269LechonkTiles gFrontSprite000NoneTiles
+#define gFrontSprite1270OinkologneTiles gFrontSprite000NoneTiles
+#define gFrontSprite1271OinkologneFemaleTiles gFrontSprite000NoneTiles
+#define gFrontSprite1272TarountulaTiles gFrontSprite000NoneTiles
+#define gFrontSprite1273SpidopsTiles gFrontSprite000NoneTiles
+#define gFrontSprite1274NymbleTiles gFrontSprite000NoneTiles
+#define gFrontSprite1275LokixTiles gFrontSprite000NoneTiles
+#define gFrontSprite1276PawmiTiles gFrontSprite000NoneTiles
+#define gFrontSprite1277PawmoTiles gFrontSprite000NoneTiles
+#define gFrontSprite1278PawmotTiles gFrontSprite000NoneTiles
+#define gFrontSprite1279TandemausTiles gFrontSprite000NoneTiles
+#define gFrontSprite1280MausholdTiles gFrontSprite000NoneTiles
+#define gFrontSprite1281MausholdFourTiles gFrontSprite000NoneTiles
+#define gFrontSprite1282FidoughTiles gFrontSprite000NoneTiles
+#define gFrontSprite1283DachsbunTiles gFrontSprite000NoneTiles
+#define gFrontSprite1284SmolivTiles gFrontSprite000NoneTiles
+#define gFrontSprite1285DollivTiles gFrontSprite000NoneTiles
+#define gFrontSprite1286ArbolivaTiles gFrontSprite000NoneTiles
+#define gFrontSprite1287SquawkabillyTiles gFrontSprite000NoneTiles
+#define gFrontSprite1288SquawkabillyBlueTiles gFrontSprite000NoneTiles
+#define gFrontSprite1289SquawkabillyYellowTiles gFrontSprite000NoneTiles
+#define gFrontSprite1290SquawkabillyWhiteTiles gFrontSprite000NoneTiles
+#define gFrontSprite1291NacliTiles gFrontSprite000NoneTiles
+#define gFrontSprite1292NaclstackTiles gFrontSprite000NoneTiles
+#define gFrontSprite1293GarganaclTiles gFrontSprite000NoneTiles
+#define gFrontSprite1294CharcadetTiles gFrontSprite000NoneTiles
+#define gFrontSprite1295ArmarougeTiles gFrontSprite000NoneTiles
+#define gFrontSprite1296CeruledgeTiles gFrontSprite000NoneTiles
+#define gFrontSprite1297TadbulbTiles gFrontSprite000NoneTiles
+#define gFrontSprite1298BelliboltTiles gFrontSprite000NoneTiles
+#define gFrontSprite1299WattrelTiles gFrontSprite000NoneTiles
+#define gFrontSprite1300KilowattrelTiles gFrontSprite000NoneTiles
+#define gFrontSprite1301MaschiffTiles gFrontSprite000NoneTiles
+#define gFrontSprite1302MabosstiffTiles gFrontSprite000NoneTiles
+#define gFrontSprite1303ShroodleTiles gFrontSprite000NoneTiles
+#define gFrontSprite1304GrafaiaiTiles gFrontSprite000NoneTiles
+#define gFrontSprite1305BramblinTiles gFrontSprite000NoneTiles
+#define gFrontSprite1306BrambleghastTiles gFrontSprite000NoneTiles
+#define gFrontSprite1307ToedscoolTiles gFrontSprite000NoneTiles
+#define gFrontSprite1308ToedscruelTiles gFrontSprite000NoneTiles
+#define gFrontSprite1309KlawfTiles gFrontSprite000NoneTiles
+#define gFrontSprite1310CapsakidTiles gFrontSprite000NoneTiles
+#define gFrontSprite1311ScovillainTiles gFrontSprite000NoneTiles
+#define gFrontSprite1312RellorTiles gFrontSprite000NoneTiles
+#define gFrontSprite1313RabscaTiles gFrontSprite000NoneTiles
+#define gFrontSprite1314FlittleTiles gFrontSprite000NoneTiles
+#define gFrontSprite1315EspathraTiles gFrontSprite000NoneTiles
+#define gFrontSprite1316TinkatinkTiles gFrontSprite000NoneTiles
+#define gFrontSprite1317TinkatuffTiles gFrontSprite000NoneTiles
+#define gFrontSprite1318TinkatonTiles gFrontSprite000NoneTiles
+#define gFrontSprite1319WiglettTiles gFrontSprite000NoneTiles
+#define gFrontSprite1320WugtrioTiles gFrontSprite000NoneTiles
+#define gFrontSprite1321BombirdierTiles gFrontSprite000NoneTiles
+#define gFrontSprite1322FinizenTiles gFrontSprite000NoneTiles
+#define gFrontSprite1323PalafinTiles gFrontSprite000NoneTiles
+#define gFrontSprite1324PalafinHeroTiles gFrontSprite000NoneTiles
+#define gFrontSprite1325VaroomTiles gFrontSprite000NoneTiles
+#define gFrontSprite1326RevavroomTiles gFrontSprite000NoneTiles
+#define gFrontSprite1327CyclizarTiles gFrontSprite000NoneTiles
+#define gFrontSprite1328OrthwormTiles gFrontSprite000NoneTiles
+#define gFrontSprite1329GlimmetTiles gFrontSprite000NoneTiles
+#define gFrontSprite1330GlimmoraTiles gFrontSprite000NoneTiles
+#define gFrontSprite1331GreavardTiles gFrontSprite000NoneTiles
+#define gFrontSprite1332HoundstoneTiles gFrontSprite000NoneTiles
+#define gFrontSprite1333FlamigoTiles gFrontSprite000NoneTiles
+#define gFrontSprite1334CetoddleTiles gFrontSprite000NoneTiles
+#define gFrontSprite1335CetitanTiles gFrontSprite000NoneTiles
+#define gFrontSprite1336VeluzaTiles gFrontSprite000NoneTiles
+#define gFrontSprite1337DondozoTiles gFrontSprite000NoneTiles
+#define gFrontSprite1338TatsugiriTiles gFrontSprite000NoneTiles
+#define gFrontSprite1339TatsugiriRedTiles gFrontSprite000NoneTiles
+#define gFrontSprite1340TatsugiriYellowTiles gFrontSprite000NoneTiles
+#define gFrontSprite1341AnnihilapeTiles gFrontSprite000NoneTiles
+#define gFrontSprite1342ClodsireTiles gFrontSprite000NoneTiles
+#define gFrontSprite1343FarigirafTiles gFrontSprite000NoneTiles
+#define gFrontSprite1344DudunsparceTiles gFrontSprite000NoneTiles
+#define gFrontSprite1345DudunsparceThreeTiles gFrontSprite000NoneTiles
+#define gFrontSprite1346KingambitTiles gFrontSprite000NoneTiles
+#define gFrontSprite1347GreatTuskTiles gFrontSprite000NoneTiles
+#define gFrontSprite1348ScreamTailTiles gFrontSprite000NoneTiles
+#define gFrontSprite1349BruteBonnetTiles gFrontSprite000NoneTiles
+#define gFrontSprite1350FlutterManeTiles gFrontSprite000NoneTiles
+#define gFrontSprite1351SlitherWingTiles gFrontSprite000NoneTiles
+#define gFrontSprite1352SandyShocksTiles gFrontSprite000NoneTiles
+#define gFrontSprite1353IronTreadsTiles gFrontSprite000NoneTiles
+#define gFrontSprite1354IronBundleTiles gFrontSprite000NoneTiles
+#define gFrontSprite1355IronHandsTiles gFrontSprite000NoneTiles
+#define gFrontSprite1356IronJugulisTiles gFrontSprite000NoneTiles
+#define gFrontSprite1357IronMothTiles gFrontSprite000NoneTiles
+#define gFrontSprite1358IronThornsTiles gFrontSprite000NoneTiles
+#define gFrontSprite1359FrigibaxTiles gFrontSprite000NoneTiles
+#define gFrontSprite1360ArctibaxTiles gFrontSprite000NoneTiles
+#define gFrontSprite1361BaxcaliburTiles gFrontSprite000NoneTiles
+#define gFrontSprite1362GimmighoulTiles gFrontSprite000NoneTiles
+#define gFrontSprite1363GimmighoulRoamingTiles gFrontSprite000NoneTiles
+#define gFrontSprite1364GholdengoTiles gFrontSprite000NoneTiles
+#define gFrontSprite1365WoChienTiles gFrontSprite000NoneTiles
+#define gFrontSprite1366ChienPaoTiles gFrontSprite000NoneTiles
+#define gFrontSprite1367TingLuTiles gFrontSprite000NoneTiles
+#define gFrontSprite1368ChiYuTiles gFrontSprite000NoneTiles
+#define gFrontSprite1369RoaringMoonTiles gFrontSprite000NoneTiles
+#define gFrontSprite1370IronValiantTiles gFrontSprite000NoneTiles
+#define gFrontSprite1371KoraidonTiles gFrontSprite000NoneTiles
+#define gFrontSprite1372MiraidonTiles gFrontSprite000NoneTiles
+#define gFrontSprite1373WalkingWakeTiles gFrontSprite000NoneTiles
+#define gFrontSprite1374IronLeavesTiles gFrontSprite000NoneTiles
+#define gFrontSprite1375TaurosPTiles gFrontSprite000NoneTiles
+#define gFrontSprite1376TaurosBlazePTiles gFrontSprite000NoneTiles
+#define gFrontSprite1377TaurosAquaPTiles gFrontSprite000NoneTiles
+#define gFrontSprite1378WooperPTiles gFrontSprite000NoneTiles
+#define gFrontSprite1379MonkidoriTiles gFrontSprite000NoneTiles
+#define gFrontSprite1380OkidogiTiles gFrontSprite000NoneTiles
+#define gFrontSprite1381FezandipitiTiles gFrontSprite000NoneTiles
+#define gFrontSprite1382OgerponTiles gFrontSprite000NoneTiles
+#define gFrontSprite1383TerapagosTiles gFrontSprite000NoneTiles
+
+#define gBackShinySprite1260SprigatitoTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1261FloragatoTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1262MeowscaradaTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1263FuecocoTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1264CrocalorTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1265SkeledirgeTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1266QuaxlyTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1267QuaxwellTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1268QuaquavalTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1269LechonkTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1270OinkologneTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1271OinkologneFemaleTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1272TarountulaTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1273SpidopsTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1274NymbleTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1275LokixTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1276PawmiTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1277PawmoTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1278PawmotTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1279TandemausTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1280MausholdTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1281MausholdFourTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1282FidoughTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1283DachsbunTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1284SmolivTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1285DollivTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1286ArbolivaTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1287SquawkabillyTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1288SquawkabillyBlueTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1289SquawkabillyYellowTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1290SquawkabillyWhiteTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1291NacliTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1292NaclstackTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1293GarganaclTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1294CharcadetTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1295ArmarougeTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1296CeruledgeTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1297TadbulbTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1298BelliboltTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1299WattrelTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1300KilowattrelTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1301MaschiffTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1302MabosstiffTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1303ShroodleTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1304GrafaiaiTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1305BramblinTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1306BrambleghastTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1307ToedscoolTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1308ToedscruelTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1309KlawfTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1310CapsakidTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1311ScovillainTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1312RellorTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1313RabscaTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1314FlittleTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1315EspathraTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1316TinkatinkTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1317TinkatuffTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1318TinkatonTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1319WiglettTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1320WugtrioTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1321BombirdierTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1322FinizenTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1323PalafinTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1324PalafinHeroTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1325VaroomTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1326RevavroomTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1327CyclizarTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1328OrthwormTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1329GlimmetTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1330GlimmoraTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1331GreavardTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1332HoundstoneTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1333FlamigoTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1334CetoddleTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1335CetitanTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1336VeluzaTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1337DondozoTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1338TatsugiriTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1339TatsugiriRedTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1340TatsugiriYellowTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1341AnnihilapeTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1342ClodsireTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1343FarigirafTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1344DudunsparceTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1345DudunsparceThreeTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1346KingambitTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1347GreatTuskTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1348ScreamTailTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1349BruteBonnetTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1350FlutterManeTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1351SlitherWingTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1352SandyShocksTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1353IronTreadsTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1354IronBundleTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1355IronHandsTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1356IronJugulisTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1357IronMothTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1358IronThornsTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1359FrigibaxTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1360ArctibaxTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1361BaxcaliburTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1362GimmighoulTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1363GimmighoulRoamingTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1364GholdengoTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1365WoChienTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1366ChienPaoTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1367TingLuTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1368ChiYuTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1369RoaringMoonTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1370IronValiantTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1371KoraidonTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1372MiraidonTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1373WalkingWakeTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1374IronLeavesTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1375TaurosPTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1376TaurosBlazePTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1377TaurosAquaPTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1378WooperPTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1379MonkidoriTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1380OkidogiTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1381FezandipitiTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1382OgerponTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1383TerapagosTiles gBackShinySprite000NoneTiles
+
+#define gFrontSprite1260SprigatitoPal gFrontSprite000NonePal
+#define gFrontSprite1261FloragatoPal gFrontSprite000NonePal
+#define gFrontSprite1262MeowscaradaPal gFrontSprite000NonePal
+#define gFrontSprite1263FuecocoPal gFrontSprite000NonePal
+#define gFrontSprite1264CrocalorPal gFrontSprite000NonePal
+#define gFrontSprite1265SkeledirgePal gFrontSprite000NonePal
+#define gFrontSprite1266QuaxlyPal gFrontSprite000NonePal
+#define gFrontSprite1267QuaxwellPal gFrontSprite000NonePal
+#define gFrontSprite1268QuaquavalPal gFrontSprite000NonePal
+#define gFrontSprite1269LechonkPal gFrontSprite000NonePal
+#define gFrontSprite1270OinkolognePal gFrontSprite000NonePal
+#define gFrontSprite1271OinkologneFemalePal gFrontSprite000NonePal
+#define gFrontSprite1272TarountulaPal gFrontSprite000NonePal
+#define gFrontSprite1273SpidopsPal gFrontSprite000NonePal
+#define gFrontSprite1274NymblePal gFrontSprite000NonePal
+#define gFrontSprite1275LokixPal gFrontSprite000NonePal
+#define gFrontSprite1276PawmiPal gFrontSprite000NonePal
+#define gFrontSprite1277PawmoPal gFrontSprite000NonePal
+#define gFrontSprite1278PawmotPal gFrontSprite000NonePal
+#define gFrontSprite1279TandemausPal gFrontSprite000NonePal
+#define gFrontSprite1280MausholdPal gFrontSprite000NonePal
+#define gFrontSprite1281MausholdFourPal gFrontSprite000NonePal
+#define gFrontSprite1282FidoughPal gFrontSprite000NonePal
+#define gFrontSprite1283DachsbunPal gFrontSprite000NonePal
+#define gFrontSprite1284SmolivPal gFrontSprite000NonePal
+#define gFrontSprite1285DollivPal gFrontSprite000NonePal
+#define gFrontSprite1286ArbolivaPal gFrontSprite000NonePal
+#define gFrontSprite1287SquawkabillyPal gFrontSprite000NonePal
+#define gFrontSprite1288SquawkabillyBluePal gFrontSprite000NonePal
+#define gFrontSprite1289SquawkabillyYellowPal gFrontSprite000NonePal
+#define gFrontSprite1290SquawkabillyWhitePal gFrontSprite000NonePal
+#define gFrontSprite1291NacliPal gFrontSprite000NonePal
+#define gFrontSprite1292NaclstackPal gFrontSprite000NonePal
+#define gFrontSprite1293GarganaclPal gFrontSprite000NonePal
+#define gFrontSprite1294CharcadetPal gFrontSprite000NonePal
+#define gFrontSprite1295ArmarougePal gFrontSprite000NonePal
+#define gFrontSprite1296CeruledgePal gFrontSprite000NonePal
+#define gFrontSprite1297TadbulbPal gFrontSprite000NonePal
+#define gFrontSprite1298BelliboltPal gFrontSprite000NonePal
+#define gFrontSprite1299WattrelPal gFrontSprite000NonePal
+#define gFrontSprite1300KilowattrelPal gFrontSprite000NonePal
+#define gFrontSprite1301MaschiffPal gFrontSprite000NonePal
+#define gFrontSprite1302MabosstiffPal gFrontSprite000NonePal
+#define gFrontSprite1303ShroodlePal gFrontSprite000NonePal
+#define gFrontSprite1304GrafaiaiPal gFrontSprite000NonePal
+#define gFrontSprite1305BramblinPal gFrontSprite000NonePal
+#define gFrontSprite1306BrambleghastPal gFrontSprite000NonePal
+#define gFrontSprite1307ToedscoolPal gFrontSprite000NonePal
+#define gFrontSprite1308ToedscruelPal gFrontSprite000NonePal
+#define gFrontSprite1309KlawfPal gFrontSprite000NonePal
+#define gFrontSprite1310CapsakidPal gFrontSprite000NonePal
+#define gFrontSprite1311ScovillainPal gFrontSprite000NonePal
+#define gFrontSprite1312RellorPal gFrontSprite000NonePal
+#define gFrontSprite1313RabscaPal gFrontSprite000NonePal
+#define gFrontSprite1314FlittlePal gFrontSprite000NonePal
+#define gFrontSprite1315EspathraPal gFrontSprite000NonePal
+#define gFrontSprite1316TinkatinkPal gFrontSprite000NonePal
+#define gFrontSprite1317TinkatuffPal gFrontSprite000NonePal
+#define gFrontSprite1318TinkatonPal gFrontSprite000NonePal
+#define gFrontSprite1319WiglettPal gFrontSprite000NonePal
+#define gFrontSprite1320WugtrioPal gFrontSprite000NonePal
+#define gFrontSprite1321BombirdierPal gFrontSprite000NonePal
+#define gFrontSprite1322FinizenPal gFrontSprite000NonePal
+#define gFrontSprite1323PalafinPal gFrontSprite000NonePal
+#define gFrontSprite1324PalafinHeroPal gFrontSprite000NonePal
+#define gFrontSprite1325VaroomPal gFrontSprite000NonePal
+#define gFrontSprite1326RevavroomPal gFrontSprite000NonePal
+#define gFrontSprite1327CyclizarPal gFrontSprite000NonePal
+#define gFrontSprite1328OrthwormPal gFrontSprite000NonePal
+#define gFrontSprite1329GlimmetPal gFrontSprite000NonePal
+#define gFrontSprite1330GlimmoraPal gFrontSprite000NonePal
+#define gFrontSprite1331GreavardPal gFrontSprite000NonePal
+#define gFrontSprite1332HoundstonePal gFrontSprite000NonePal
+#define gFrontSprite1333FlamigoPal gFrontSprite000NonePal
+#define gFrontSprite1334CetoddlePal gFrontSprite000NonePal
+#define gFrontSprite1335CetitanPal gFrontSprite000NonePal
+#define gFrontSprite1336VeluzaPal gFrontSprite000NonePal
+#define gFrontSprite1337DondozoPal gFrontSprite000NonePal
+#define gFrontSprite1338TatsugiriPal gFrontSprite000NonePal
+#define gFrontSprite1339TatsugiriRedPal gFrontSprite000NonePal
+#define gFrontSprite1340TatsugiriYellowPal gFrontSprite000NonePal
+#define gFrontSprite1341AnnihilapePal gFrontSprite000NonePal
+#define gFrontSprite1342ClodsirePal gFrontSprite000NonePal
+#define gFrontSprite1343FarigirafPal gFrontSprite000NonePal
+#define gFrontSprite1344DudunsparcePal gFrontSprite000NonePal
+#define gFrontSprite1345DudunsparceThreePal gFrontSprite000NonePal
+#define gFrontSprite1346KingambitPal gFrontSprite000NonePal
+#define gFrontSprite1347GreatTuskPal gFrontSprite000NonePal
+#define gFrontSprite1348ScreamTailPal gFrontSprite000NonePal
+#define gFrontSprite1349BruteBonnetPal gFrontSprite000NonePal
+#define gFrontSprite1350FlutterManePal gFrontSprite000NonePal
+#define gFrontSprite1351SlitherWingPal gFrontSprite000NonePal
+#define gFrontSprite1352SandyShocksPal gFrontSprite000NonePal
+#define gFrontSprite1353IronTreadsPal gFrontSprite000NonePal
+#define gFrontSprite1354IronBundlePal gFrontSprite000NonePal
+#define gFrontSprite1355IronHandsPal gFrontSprite000NonePal
+#define gFrontSprite1356IronJugulisPal gFrontSprite000NonePal
+#define gFrontSprite1357IronMothPal gFrontSprite000NonePal
+#define gFrontSprite1358IronThornsPal gFrontSprite000NonePal
+#define gFrontSprite1359FrigibaxPal gFrontSprite000NonePal
+#define gFrontSprite1360ArctibaxPal gFrontSprite000NonePal
+#define gFrontSprite1361BaxcaliburPal gFrontSprite000NonePal
+#define gFrontSprite1362GimmighoulPal gFrontSprite000NonePal
+#define gFrontSprite1363GimmighoulRoamingPal gFrontSprite000NonePal
+#define gFrontSprite1364GholdengoPal gFrontSprite000NonePal
+#define gFrontSprite1365WoChienPal gFrontSprite000NonePal
+#define gFrontSprite1366ChienPaoPal gFrontSprite000NonePal
+#define gFrontSprite1367TingLuPal gFrontSprite000NonePal
+#define gFrontSprite1368ChiYuPal gFrontSprite000NonePal
+#define gFrontSprite1369RoaringMoonPal gFrontSprite000NonePal
+#define gFrontSprite1370IronValiantPal gFrontSprite000NonePal
+#define gFrontSprite1371KoraidonPal gFrontSprite000NonePal
+#define gFrontSprite1372MiraidonPal gFrontSprite000NonePal
+#define gFrontSprite1373WalkingWakePal gFrontSprite000NonePal
+#define gFrontSprite1374IronLeavesPal gFrontSprite000NonePal
+#define gFrontSprite1375TaurosPPal gFrontSprite000NonePal
+#define gFrontSprite1376TaurosBlazePPal gFrontSprite000NonePal
+#define gFrontSprite1377TaurosAquaPPal gFrontSprite000NonePal
+#define gFrontSprite1378WooperPPal gFrontSprite000NonePal
+#define gFrontSprite1379MonkidoriPal gFrontSprite000NonePal
+#define gFrontSprite1380OkidogiPal gFrontSprite000NonePal
+#define gFrontSprite1381FezandipitiPal gFrontSprite000NonePal
+#define gFrontSprite1382OgerponPal gFrontSprite000NonePal
+#define gFrontSprite1383TerapagosPal gFrontSprite000NonePal
+
+#define gBackShinySprite1260SprigatitoPal gBackShinySprite000NonePal
+#define gBackShinySprite1261FloragatoPal gBackShinySprite000NonePal
+#define gBackShinySprite1262MeowscaradaPal gBackShinySprite000NonePal
+#define gBackShinySprite1263FuecocoPal gBackShinySprite000NonePal
+#define gBackShinySprite1264CrocalorPal gBackShinySprite000NonePal
+#define gBackShinySprite1265SkeledirgePal gBackShinySprite000NonePal
+#define gBackShinySprite1266QuaxlyPal gBackShinySprite000NonePal
+#define gBackShinySprite1267QuaxwellPal gBackShinySprite000NonePal
+#define gBackShinySprite1268QuaquavalPal gBackShinySprite000NonePal
+#define gBackShinySprite1269LechonkPal gBackShinySprite000NonePal
+#define gBackShinySprite1270OinkolognePal gBackShinySprite000NonePal
+#define gBackShinySprite1271OinkologneFemalePal gBackShinySprite000NonePal
+#define gBackShinySprite1272TarountulaPal gBackShinySprite000NonePal
+#define gBackShinySprite1273SpidopsPal gBackShinySprite000NonePal
+#define gBackShinySprite1274NymblePal gBackShinySprite000NonePal
+#define gBackShinySprite1275LokixPal gBackShinySprite000NonePal
+#define gBackShinySprite1276PawmiPal gBackShinySprite000NonePal
+#define gBackShinySprite1277PawmoPal gBackShinySprite000NonePal
+#define gBackShinySprite1278PawmotPal gBackShinySprite000NonePal
+#define gBackShinySprite1279TandemausPal gBackShinySprite000NonePal
+#define gBackShinySprite1280MausholdPal gBackShinySprite000NonePal
+#define gBackShinySprite1281MausholdFourPal gBackShinySprite000NonePal
+#define gBackShinySprite1282FidoughPal gBackShinySprite000NonePal
+#define gBackShinySprite1283DachsbunPal gBackShinySprite000NonePal
+#define gBackShinySprite1284SmolivPal gBackShinySprite000NonePal
+#define gBackShinySprite1285DollivPal gBackShinySprite000NonePal
+#define gBackShinySprite1286ArbolivaPal gBackShinySprite000NonePal
+#define gBackShinySprite1287SquawkabillyPal gBackShinySprite000NonePal
+#define gBackShinySprite1288SquawkabillyBluePal gBackShinySprite000NonePal
+#define gBackShinySprite1289SquawkabillyYellowPal gBackShinySprite000NonePal
+#define gBackShinySprite1290SquawkabillyWhitePal gBackShinySprite000NonePal
+#define gBackShinySprite1291NacliPal gBackShinySprite000NonePal
+#define gBackShinySprite1292NaclstackPal gBackShinySprite000NonePal
+#define gBackShinySprite1293GarganaclPal gBackShinySprite000NonePal
+#define gBackShinySprite1294CharcadetPal gBackShinySprite000NonePal
+#define gBackShinySprite1295ArmarougePal gBackShinySprite000NonePal
+#define gBackShinySprite1296CeruledgePal gBackShinySprite000NonePal
+#define gBackShinySprite1297TadbulbPal gBackShinySprite000NonePal
+#define gBackShinySprite1298BelliboltPal gBackShinySprite000NonePal
+#define gBackShinySprite1299WattrelPal gBackShinySprite000NonePal
+#define gBackShinySprite1300KilowattrelPal gBackShinySprite000NonePal
+#define gBackShinySprite1301MaschiffPal gBackShinySprite000NonePal
+#define gBackShinySprite1302MabosstiffPal gBackShinySprite000NonePal
+#define gBackShinySprite1303ShroodlePal gBackShinySprite000NonePal
+#define gBackShinySprite1304GrafaiaiPal gBackShinySprite000NonePal
+#define gBackShinySprite1305BramblinPal gBackShinySprite000NonePal
+#define gBackShinySprite1306BrambleghastPal gBackShinySprite000NonePal
+#define gBackShinySprite1307ToedscoolPal gBackShinySprite000NonePal
+#define gBackShinySprite1308ToedscruelPal gBackShinySprite000NonePal
+#define gBackShinySprite1309KlawfPal gBackShinySprite000NonePal
+#define gBackShinySprite1310CapsakidPal gBackShinySprite000NonePal
+#define gBackShinySprite1311ScovillainPal gBackShinySprite000NonePal
+#define gBackShinySprite1312RellorPal gBackShinySprite000NonePal
+#define gBackShinySprite1313RabscaPal gBackShinySprite000NonePal
+#define gBackShinySprite1314FlittlePal gBackShinySprite000NonePal
+#define gBackShinySprite1315EspathraPal gBackShinySprite000NonePal
+#define gBackShinySprite1316TinkatinkPal gBackShinySprite000NonePal
+#define gBackShinySprite1317TinkatuffPal gBackShinySprite000NonePal
+#define gBackShinySprite1318TinkatonPal gBackShinySprite000NonePal
+#define gBackShinySprite1319WiglettPal gBackShinySprite000NonePal
+#define gBackShinySprite1320WugtrioPal gBackShinySprite000NonePal
+#define gBackShinySprite1321BombirdierPal gBackShinySprite000NonePal
+#define gBackShinySprite1322FinizenPal gBackShinySprite000NonePal
+#define gBackShinySprite1323PalafinPal gBackShinySprite000NonePal
+#define gBackShinySprite1324PalafinHeroPal gBackShinySprite000NonePal
+#define gBackShinySprite1325VaroomPal gBackShinySprite000NonePal
+#define gBackShinySprite1326RevavroomPal gBackShinySprite000NonePal
+#define gBackShinySprite1327CyclizarPal gBackShinySprite000NonePal
+#define gBackShinySprite1328OrthwormPal gBackShinySprite000NonePal
+#define gBackShinySprite1329GlimmetPal gBackShinySprite000NonePal
+#define gBackShinySprite1330GlimmoraPal gBackShinySprite000NonePal
+#define gBackShinySprite1331GreavardPal gBackShinySprite000NonePal
+#define gBackShinySprite1332HoundstonePal gBackShinySprite000NonePal
+#define gBackShinySprite1333FlamigoPal gBackShinySprite000NonePal
+#define gBackShinySprite1334CetoddlePal gBackShinySprite000NonePal
+#define gBackShinySprite1335CetitanPal gBackShinySprite000NonePal
+#define gBackShinySprite1336VeluzaPal gBackShinySprite000NonePal
+#define gBackShinySprite1337DondozoPal gBackShinySprite000NonePal
+#define gBackShinySprite1338TatsugiriPal gBackShinySprite000NonePal
+#define gBackShinySprite1339TatsugiriRedPal gBackShinySprite000NonePal
+#define gBackShinySprite1340TatsugiriYellowPal gBackShinySprite000NonePal
+#define gBackShinySprite1341AnnihilapePal gBackShinySprite000NonePal
+#define gBackShinySprite1342ClodsirePal gBackShinySprite000NonePal
+#define gBackShinySprite1343FarigirafPal gBackShinySprite000NonePal
+#define gBackShinySprite1344DudunsparcePal gBackShinySprite000NonePal
+#define gBackShinySprite1345DudunsparceThreePal gBackShinySprite000NonePal
+#define gBackShinySprite1346KingambitPal gBackShinySprite000NonePal
+#define gBackShinySprite1347GreatTuskPal gBackShinySprite000NonePal
+#define gBackShinySprite1348ScreamTailPal gBackShinySprite000NonePal
+#define gBackShinySprite1349BruteBonnetPal gBackShinySprite000NonePal
+#define gBackShinySprite1350FlutterManePal gBackShinySprite000NonePal
+#define gBackShinySprite1351SlitherWingPal gBackShinySprite000NonePal
+#define gBackShinySprite1352SandyShocksPal gBackShinySprite000NonePal
+#define gBackShinySprite1353IronTreadsPal gBackShinySprite000NonePal
+#define gBackShinySprite1354IronBundlePal gBackShinySprite000NonePal
+#define gBackShinySprite1355IronHandsPal gBackShinySprite000NonePal
+#define gBackShinySprite1356IronJugulisPal gBackShinySprite000NonePal
+#define gBackShinySprite1357IronMothPal gBackShinySprite000NonePal
+#define gBackShinySprite1358IronThornsPal gBackShinySprite000NonePal
+#define gBackShinySprite1359FrigibaxPal gBackShinySprite000NonePal
+#define gBackShinySprite1360ArctibaxPal gBackShinySprite000NonePal
+#define gBackShinySprite1361BaxcaliburPal gBackShinySprite000NonePal
+#define gBackShinySprite1362GimmighoulPal gBackShinySprite000NonePal
+#define gBackShinySprite1363GimmighoulRoamingPal gBackShinySprite000NonePal
+#define gBackShinySprite1364GholdengoPal gBackShinySprite000NonePal
+#define gBackShinySprite1365WoChienPal gBackShinySprite000NonePal
+#define gBackShinySprite1366ChienPaoPal gBackShinySprite000NonePal
+#define gBackShinySprite1367TingLuPal gBackShinySprite000NonePal
+#define gBackShinySprite1368ChiYuPal gBackShinySprite000NonePal
+#define gBackShinySprite1369RoaringMoonPal gBackShinySprite000NonePal
+#define gBackShinySprite1370IronValiantPal gBackShinySprite000NonePal
+#define gBackShinySprite1371KoraidonPal gBackShinySprite000NonePal
+#define gBackShinySprite1372MiraidonPal gBackShinySprite000NonePal
+#define gBackShinySprite1373WalkingWakePal gBackShinySprite000NonePal
+#define gBackShinySprite1374IronLeavesPal gBackShinySprite000NonePal
+#define gBackShinySprite1375TaurosPPal gBackShinySprite000NonePal
+#define gBackShinySprite1376TaurosBlazePPal gBackShinySprite000NonePal
+#define gBackShinySprite1377TaurosAquaPPal gBackShinySprite000NonePal
+#define gBackShinySprite1378WooperPPal gBackShinySprite000NonePal
+#define gBackShinySprite1379MonkidoriPal gBackShinySprite000NonePal
+#define gBackShinySprite1380OkidogiPal gBackShinySprite000NonePal
+#define gBackShinySprite1381FezandipitiPal gBackShinySprite000NonePal
+#define gBackShinySprite1382OgerponPal gBackShinySprite000NonePal
+#define gBackShinySprite1383TerapagosPal gBackShinySprite000NonePal
+
+#define gIconSprite1260SprigatitoTiles gIconSprite000NoneTiles
+#define gIconSprite1261FloragatoTiles gIconSprite000NoneTiles
+#define gIconSprite1262MeowscaradaTiles gIconSprite000NoneTiles
+#define gIconSprite1263FuecocoTiles gIconSprite000NoneTiles
+#define gIconSprite1264CrocalorTiles gIconSprite000NoneTiles
+#define gIconSprite1265SkeledirgeTiles gIconSprite000NoneTiles
+#define gIconSprite1266QuaxlyTiles gIconSprite000NoneTiles
+#define gIconSprite1267QuaxwellTiles gIconSprite000NoneTiles
+#define gIconSprite1268QuaquavalTiles gIconSprite000NoneTiles
+#define gIconSprite1269LechonkTiles gIconSprite000NoneTiles
+#define gIconSprite1270OinkologneTiles gIconSprite000NoneTiles
+#define gIconSprite1271OinkologneFemaleTiles gIconSprite000NoneTiles
+#define gIconSprite1272TarountulaTiles gIconSprite000NoneTiles
+#define gIconSprite1273SpidopsTiles gIconSprite000NoneTiles
+#define gIconSprite1274NymbleTiles gIconSprite000NoneTiles
+#define gIconSprite1275LokixTiles gIconSprite000NoneTiles
+#define gIconSprite1276PawmiTiles gIconSprite000NoneTiles
+#define gIconSprite1277PawmoTiles gIconSprite000NoneTiles
+#define gIconSprite1278PawmotTiles gIconSprite000NoneTiles
+#define gIconSprite1279TandemausTiles gIconSprite000NoneTiles
+#define gIconSprite1280MausholdTiles gIconSprite000NoneTiles
+#define gIconSprite1281MausholdFourTiles gIconSprite000NoneTiles
+#define gIconSprite1282FidoughTiles gIconSprite000NoneTiles
+#define gIconSprite1283DachsbunTiles gIconSprite000NoneTiles
+#define gIconSprite1284SmolivTiles gIconSprite000NoneTiles
+#define gIconSprite1285DollivTiles gIconSprite000NoneTiles
+#define gIconSprite1286ArbolivaTiles gIconSprite000NoneTiles
+#define gIconSprite1287SquawkabillyTiles gIconSprite000NoneTiles
+#define gIconSprite1288SquawkabillyBlueTiles gIconSprite000NoneTiles
+#define gIconSprite1289SquawkabillyYellowTiles gIconSprite000NoneTiles
+#define gIconSprite1290SquawkabillyWhiteTiles gIconSprite000NoneTiles
+#define gIconSprite1291NacliTiles gIconSprite000NoneTiles
+#define gIconSprite1292NaclstackTiles gIconSprite000NoneTiles
+#define gIconSprite1293GarganaclTiles gIconSprite000NoneTiles
+#define gIconSprite1294CharcadetTiles gIconSprite000NoneTiles
+#define gIconSprite1295ArmarougeTiles gIconSprite000NoneTiles
+#define gIconSprite1296CeruledgeTiles gIconSprite000NoneTiles
+#define gIconSprite1297TadbulbTiles gIconSprite000NoneTiles
+#define gIconSprite1298BelliboltTiles gIconSprite000NoneTiles
+#define gIconSprite1299WattrelTiles gIconSprite000NoneTiles
+#define gIconSprite1300KilowattrelTiles gIconSprite000NoneTiles
+#define gIconSprite1301MaschiffTiles gIconSprite000NoneTiles
+#define gIconSprite1302MabosstiffTiles gIconSprite000NoneTiles
+#define gIconSprite1303ShroodleTiles gIconSprite000NoneTiles
+#define gIconSprite1304GrafaiaiTiles gIconSprite000NoneTiles
+#define gIconSprite1305BramblinTiles gIconSprite000NoneTiles
+#define gIconSprite1306BrambleghastTiles gIconSprite000NoneTiles
+#define gIconSprite1307ToedscoolTiles gIconSprite000NoneTiles
+#define gIconSprite1308ToedscruelTiles gIconSprite000NoneTiles
+#define gIconSprite1309KlawfTiles gIconSprite000NoneTiles
+#define gIconSprite1310CapsakidTiles gIconSprite000NoneTiles
+#define gIconSprite1311ScovillainTiles gIconSprite000NoneTiles
+#define gIconSprite1312RellorTiles gIconSprite000NoneTiles
+#define gIconSprite1313RabscaTiles gIconSprite000NoneTiles
+#define gIconSprite1314FlittleTiles gIconSprite000NoneTiles
+#define gIconSprite1315EspathraTiles gIconSprite000NoneTiles
+#define gIconSprite1316TinkatinkTiles gIconSprite000NoneTiles
+#define gIconSprite1317TinkatuffTiles gIconSprite000NoneTiles
+#define gIconSprite1318TinkatonTiles gIconSprite000NoneTiles
+#define gIconSprite1319WiglettTiles gIconSprite000NoneTiles
+#define gIconSprite1320WugtrioTiles gIconSprite000NoneTiles
+#define gIconSprite1321BombirdierTiles gIconSprite000NoneTiles
+#define gIconSprite1322FinizenTiles gIconSprite000NoneTiles
+#define gIconSprite1323PalafinTiles gIconSprite000NoneTiles
+#define gIconSprite1324PalafinHeroTiles gIconSprite000NoneTiles
+#define gIconSprite1325VaroomTiles gIconSprite000NoneTiles
+#define gIconSprite1326RevavroomTiles gIconSprite000NoneTiles
+#define gIconSprite1327CyclizarTiles gIconSprite000NoneTiles
+#define gIconSprite1328OrthwormTiles gIconSprite000NoneTiles
+#define gIconSprite1329GlimmetTiles gIconSprite000NoneTiles
+#define gIconSprite1330GlimmoraTiles gIconSprite000NoneTiles
+#define gIconSprite1331GreavardTiles gIconSprite000NoneTiles
+#define gIconSprite1332HoundstoneTiles gIconSprite000NoneTiles
+#define gIconSprite1333FlamigoTiles gIconSprite000NoneTiles
+#define gIconSprite1334CetoddleTiles gIconSprite000NoneTiles
+#define gIconSprite1335CetitanTiles gIconSprite000NoneTiles
+#define gIconSprite1336VeluzaTiles gIconSprite000NoneTiles
+#define gIconSprite1337DondozoTiles gIconSprite000NoneTiles
+#define gIconSprite1338TatsugiriTiles gIconSprite000NoneTiles
+#define gIconSprite1339TatsugiriRedTiles gIconSprite000NoneTiles
+#define gIconSprite1340TatsugiriYellowTiles gIconSprite000NoneTiles
+#define gIconSprite1341AnnihilapeTiles gIconSprite000NoneTiles
+#define gIconSprite1342ClodsireTiles gIconSprite000NoneTiles
+#define gIconSprite1343FarigirafTiles gIconSprite000NoneTiles
+#define gIconSprite1344DudunsparceTiles gIconSprite000NoneTiles
+#define gIconSprite1345DudunsparceThreeTiles gIconSprite000NoneTiles
+#define gIconSprite1346KingambitTiles gIconSprite000NoneTiles
+#define gIconSprite1347GreatTuskTiles gIconSprite000NoneTiles
+#define gIconSprite1348ScreamTailTiles gIconSprite000NoneTiles
+#define gIconSprite1349BruteBonnetTiles gIconSprite000NoneTiles
+#define gIconSprite1350FlutterManeTiles gIconSprite000NoneTiles
+#define gIconSprite1351SlitherWingTiles gIconSprite000NoneTiles
+#define gIconSprite1352SandyShocksTiles gIconSprite000NoneTiles
+#define gIconSprite1353IronTreadsTiles gIconSprite000NoneTiles
+#define gIconSprite1354IronBundleTiles gIconSprite000NoneTiles
+#define gIconSprite1355IronHandsTiles gIconSprite000NoneTiles
+#define gIconSprite1356IronJugulisTiles gIconSprite000NoneTiles
+#define gIconSprite1357IronMothTiles gIconSprite000NoneTiles
+#define gIconSprite1358IronThornsTiles gIconSprite000NoneTiles
+#define gIconSprite1359FrigibaxTiles gIconSprite000NoneTiles
+#define gIconSprite1360ArctibaxTiles gIconSprite000NoneTiles
+#define gIconSprite1361BaxcaliburTiles gIconSprite000NoneTiles
+#define gIconSprite1362GimmighoulTiles gIconSprite000NoneTiles
+#define gIconSprite1363GimmighoulRoamingTiles gIconSprite000NoneTiles
+#define gIconSprite1364GholdengoTiles gIconSprite000NoneTiles
+#define gIconSprite1365WoChienTiles gIconSprite000NoneTiles
+#define gIconSprite1366ChienPaoTiles gIconSprite000NoneTiles
+#define gIconSprite1367TingLuTiles gIconSprite000NoneTiles
+#define gIconSprite1368ChiYuTiles gIconSprite000NoneTiles
+#define gIconSprite1369RoaringMoonTiles gIconSprite000NoneTiles
+#define gIconSprite1370IronValiantTiles gIconSprite000NoneTiles
+#define gIconSprite1371KoraidonTiles gIconSprite000NoneTiles
+#define gIconSprite1372MiraidonTiles gIconSprite000NoneTiles
+#define gIconSprite1373WalkingWakeTiles gIconSprite000NoneTiles
+#define gIconSprite1374IronLeavesTiles gIconSprite000NoneTiles
+#define gIconSprite1375TaurosPTiles gIconSprite000NoneTiles
+#define gIconSprite1376TaurosBlazePTiles gIconSprite000NoneTiles
+#define gIconSprite1377TaurosAquaPTiles gIconSprite000NoneTiles
+#define gIconSprite1378WooperPTiles gIconSprite000NoneTiles
+#define gIconSprite1379MonkidoriTiles gIconSprite000NoneTiles
+#define gIconSprite1380OkidogiTiles gIconSprite000NoneTiles
+#define gIconSprite1381FezandipitiTiles gIconSprite000NoneTiles
+#define gIconSprite1382OgerponTiles gIconSprite000NoneTiles
+#define gIconSprite1383TerapagosTiles gIconSprite000NoneTiles

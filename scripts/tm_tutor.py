@@ -4,8 +4,8 @@ from glob import glob
 
 # Data
 TM_HM_COUNT = 128
-TUTOR_COUNT = 146
-SPECIES_COUNT = 0x50D + 1
+TUTOR_COUNT = 152
+SPECIES_COUNT = 0x589 + 1
 
 TM_OUTPUT = "assembly/generated/tm_compatibility.s"
 TUTOR_OUTPUT = "assembly/generated/tutor_compatibility.s"
@@ -117,28 +117,30 @@ def PokemonDataListInitializer(numEntries: int) -> [[]]:
     return outerList
 
 
-def DefinesDictMaker(definesFile: str) -> {}:
-    definesDict = {}
+def DefinesDictMaker(definesFile: str) -> tuple:
+    numsToIds = dict()
+    idsToNum = dict()
     with open(definesFile, 'r') as file:
         for line in file:
-            if '#define ' in line:
-                lineList = line.split()
+            line = line.strip()
+            if line.startswith('#define '):
+                _, id, num = line.split(maxsplit=2)
+                while num in idsToNum:
+                    num = idsToNum[num]
                 try:
-                    definesDict[int(lineList[2])] = lineList[1]
-                except:
+                    num = int(num)
+                except ValueError:
                     try:
-                        definesDict[int(lineList[2], 16)] = lineList[1]
-                    except:
-                        pass
-    return definesDict
+                        num = int(num, 16)
+                    except ValueError:
+                        continue
+                numsToIds[num] = id
+                idsToNum[id] = num
+    return numsToIds, ReverseDict(numsToIds)  # Don't return idsToNum because it could be different and not a direct mirror
 
 
 def ReverseDict(dictionary: {}):
-    reverseDict = {}
-    for key in dictionary:
-        reverseDict[dictionary[key]] = key
-
-    return reverseDict
+    return {value: key for key, value in dictionary.items()}
 
 
 def ChangeFileLine(filePath: str, lineToChange: int, replacement: str):
@@ -156,8 +158,7 @@ def ChangeFileLine(filePath: str, lineToChange: int, replacement: str):
         file.write(copy)
 
 
-SpeciesDict = DefinesDictMaker(SPECIES_DEFINES)
-ReverseSpeciesDict = ReverseDict(SpeciesDict)
+SpeciesDict, ReverseSpeciesDict = DefinesDictMaker(SPECIES_DEFINES)
 
 if __name__ == '__main__':
     TMDataBuilder()

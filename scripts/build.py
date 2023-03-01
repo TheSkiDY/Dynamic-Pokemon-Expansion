@@ -135,7 +135,10 @@ def MakeOutputImageFile(assemblyFile: str) -> [str, bool]:
 
 def MakeOutputAudioFile(assemblyFile: str) -> [str, bool]:
     """Return "SND_" + hash of filename to use as object filename."""
-    objectFile = os.path.join(BUILD, 'SND_' + assemblyFile.split("gCry")[1].split(".s")[0] + '.o')
+    if "gCry" in assemblyFile:
+        objectFile = os.path.join(BUILD, 'SND_' + assemblyFile.split("gCry")[1].split(".s")[0] + '.o')
+    else:
+        objectFile = os.path.join(BUILD, 'SND_' + assemblyFile.split("/")[1].split(".s")[0] + '.o')
     return CreateOutputFile(assemblyFile, objectFile)
 
 
@@ -306,17 +309,17 @@ def ProcessSpriteGraphics():
 
 def ProcessAudio(audioFile: str) -> str:
     """Compile audio."""
-    assemblyFile = audioFile.split('.wav')[0] + '.s'
+    assemblyFile = audioFile.split('.wav')[0].replace(" ", "_") + '.s'
 
     flags = []
     flagFile = audioFile.split('.wav')[0] + '_flags.txt'
+    if not os.path.isfile(flagFile):
+        flagFile = os.path.join(os.path.dirname(audioFile), "wavflags.txt")
 
-    try:
+    if os.path.isfile(flagFile):
         with open(flagFile, 'r') as file:
             line = file.readline()  # Only needs the first line
             flags = line.strip().split()
-    except FileNotFoundError:
-        pass
 
     cmd = [WAV2AGB, audioFile, assemblyFile] + flags
 

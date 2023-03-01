@@ -6303,6 +6303,626 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
+	[SPECIES_SPRIGATITO]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_FLORAGATO]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MEOWSCARADA]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_FUECOCO]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_CROCALOR]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SKELEDIRGE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_QUAXLY]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_QUAXWELL]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_QUAQUAVAL]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_LECHONK]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_OINKOLOGNE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_OINKOLOGNE_FEMALE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TAROUNTULA]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SPIDOPS]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_NYMBLE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_LOKIX]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_PAWMI]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_PAWMO]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_PAWMOT]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TANDEMAUS]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MAUSHOLD]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MAUSHOLD_FOUR]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_FIDOUGH]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_DACHSBUN]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SMOLIV]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_DOLLIV]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_ARBOLIVA]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SQUAWKABILLY]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SQUAWKABILLY_BLUE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SQUAWKABILLY_YELLOW]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SQUAWKABILLY_WHITE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_NACLI]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_NACLSTACK]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_GARGANACL]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_CHARCADET]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_ARMAROUGE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_CERULEDGE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TADBULB]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BELLIBOLT]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_WATTREL]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_KILOWATTREL]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MASCHIFF]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MABOSSTIFF]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SHROODLE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_GRAFAIAI]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BRAMBLIN]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BRAMBLEGHAST]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TOEDSCOOL]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TOEDSCRUEL]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_KLAWF]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_CAPSAKID]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SCOVILLAIN]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_RELLOR]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_RABSCA]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_FLITTLE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_ESPATHRA]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TINKATINK]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TINKATUFF]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TINKATON]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_WIGLETT]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_WUGTRIO]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BOMBIRDIER]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_FINIZEN]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_PALAFIN]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_PALAFIN_HERO]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_VAROOM]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_REVAVROOM]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_CYCLIZAR]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_ORTHWORM]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_GLIMMET]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_GLIMMORA]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_GREAVARD]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_HOUNDSTONE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_FLAMIGO]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_CETODDLE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_CETITAN]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_VELUZA]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_DONDOZO]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TATSUGIRI]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TATSUGIRI_RED]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TATSUGIRI_YELLOW]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_ANNIHILAPE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_CLODSIRE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_FARIGIRAF]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_DUDUNSPARCE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_DUDUNSPARCE_THREE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_KINGAMBIT]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_GREAT_TUSK]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SCREAM_TAIL]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BRUTE_BONNET]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_FLUTTER_MANE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SLITHER_WING]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SANDY_SHOCKS]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IRON_TREADS]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IRON_BUNDLE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IRON_HANDS]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IRON_JUGULIS]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IRON_MOTH]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IRON_THORNS]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_FRIGIBAX]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_ARCTIBAX]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BAXCALIBUR]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_GIMMIGHOUL]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_GIMMIGHOUL_ROAMING]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_GHOLDENGO]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_WO_CHIEN]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_CHIEN_PAO]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TING_LU]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_CHI_YU]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_ROARING_MOON]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IRON_VALIANT]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_KORAIDON]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MIRAIDON]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_WALKING_WAKE]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IRON_LEAVES]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TAUROS_P]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TAUROS_BLAZE_P]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TAUROS_AQUA_P]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_WOOPER_P]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MONKIDORI]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_OKIDOGI]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_FEZANDIPITI]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_OGERPON]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TERAPAGOS]
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =

@@ -547,3 +547,253 @@ extern u8 gCrySneasler[];
 extern u8 gCryOverqwil[];
 extern u8 gCryEnamorus[];
 extern u8 gCryEnamorusTherian[];
+extern u8 gCrySprigatito[];
+extern u8 gCryFloragato[];
+extern u8 gCryMeowscarada[];
+extern u8 gCryFuecoco[];
+extern u8 gCryCrocalor[];
+extern u8 gCrySkeledirge[];
+extern u8 gCryQuaxly[];
+extern u8 gCryQuaxwell[];
+extern u8 gCryQuaquaval[];
+extern u8 gCryLechonk[];
+extern u8 gCryOinkologne[];
+extern u8 gCryOinkologneFemale[];
+extern u8 gCryTarountula[];
+extern u8 gCrySpidops[];
+extern u8 gCryNymble[];
+extern u8 gCryLokix[];
+extern u8 gCryPawmi[];
+extern u8 gCryPawmo[];
+extern u8 gCryPawmot[];
+extern u8 gCryTandemaus[];
+extern u8 gCryMaushold[];
+extern u8 gCryMausholdFour[];
+extern u8 gCryFidough[];
+extern u8 gCryDachsbun[];
+extern u8 gCrySmoliv[];
+extern u8 gCryDolliv[];
+extern u8 gCryArboliva[];
+extern u8 gCrySquawkabilly[];
+extern u8 gCrySquawkabillyBlue[];
+extern u8 gCrySquawkabillyYellow[];
+extern u8 gCrySquawkabillyWhite[];
+extern u8 gCryNacli[];
+extern u8 gCryNaclstack[];
+extern u8 gCryGarganacl[];
+extern u8 gCryCharcadet[];
+extern u8 gCryArmarouge[];
+extern u8 gCryCeruledge[];
+extern u8 gCryTadbulb[];
+extern u8 gCryBellibolt[];
+extern u8 gCryWattrel[];
+extern u8 gCryKilowattrel[];
+extern u8 gCryMaschiff[];
+extern u8 gCryMabosstiff[];
+extern u8 gCryShroodle[];
+extern u8 gCryGrafaiai[];
+extern u8 gCryBramblin[];
+extern u8 gCryBrambleghast[];
+extern u8 gCryToedscool[];
+extern u8 gCryToedscruel[];
+extern u8 gCryKlawf[];
+extern u8 gCryCapsakid[];
+extern u8 gCryScovillain[];
+extern u8 gCryRellor[];
+extern u8 gCryRabsca[];
+extern u8 gCryFlittle[];
+extern u8 gCryEspathra[];
+extern u8 gCryTinkatink[];
+extern u8 gCryTinkatuff[];
+extern u8 gCryTinkaton[];
+extern u8 gCryWiglett[];
+extern u8 gCryWugtrio[];
+extern u8 gCryBombirdier[];
+extern u8 gCryFinizen[];
+extern u8 gCryPalafin[];
+extern u8 gCryPalafinHero[];
+extern u8 gCryVaroom[];
+extern u8 gCryRevavroom[];
+extern u8 gCryCyclizar[];
+extern u8 gCryOrthworm[];
+extern u8 gCryGlimmet[];
+extern u8 gCryGlimmora[];
+extern u8 gCryGreavard[];
+extern u8 gCryHoundstone[];
+extern u8 gCryFlamigo[];
+extern u8 gCryCetoddle[];
+extern u8 gCryCetitan[];
+extern u8 gCryVeluza[];
+extern u8 gCryDondozo[];
+extern u8 gCryTatsugiri[];
+extern u8 gCryTatsugiriRed[];
+extern u8 gCryTatsugiriYellow[];
+extern u8 gCryAnnihilape[];
+extern u8 gCryClodsire[];
+extern u8 gCryFarigiraf[];
+extern u8 gCryDudunsparce[];
+extern u8 gCryDudunsparceThree[];
+extern u8 gCryKingambit[];
+extern u8 gCryGreatTusk[];
+extern u8 gCryScreamTail[];
+extern u8 gCryBruteBonnet[];
+extern u8 gCryFlutterMane[];
+extern u8 gCrySlitherWing[];
+extern u8 gCrySandyShocks[];
+extern u8 gCryIronTreads[];
+extern u8 gCryIronBundle[];
+extern u8 gCryIronHands[];
+extern u8 gCryIronJugulis[];
+extern u8 gCryIronMoth[];
+extern u8 gCryIronThorns[];
+extern u8 gCryFrigibax[];
+extern u8 gCryArctibax[];
+extern u8 gCryBaxcalibur[];
+extern u8 gCryGimmighoul[];
+extern u8 gCryGimmighoulRoaming[];
+extern u8 gCryGholdengo[];
+extern u8 gCryWoChien[];
+extern u8 gCryChienPao[];
+extern u8 gCryTingLu[];
+extern u8 gCryChiYu[];
+extern u8 gCryRoaringMoon[];
+extern u8 gCryIronValiant[];
+extern u8 gCryKoraidon[];
+extern u8 gCryMiraidon[];
+extern u8 gCryWalkingWake[];
+extern u8 gCryIronLeaves[];
+extern u8 gCryTaurosP[];
+extern u8 gCryTaurosBlazeP[];
+extern u8 gCryTaurosAquaP[];
+extern u8 gCryWooperP[];
+extern u8 gCryMonkidori[];
+extern u8 gCryOkidogi[];
+extern u8 gCryFezandipiti[];
+extern u8 gCryOgerpon[];
+extern u8 gCryTerapagos[];
+
+//Temp
+#define gCrySprigatito (u8*) 0x850fbc4
+#define gCryFloragato (u8*) 0x850fbc4
+#define gCryMeowscarada (u8*) 0x850fbc4
+#define gCryFuecoco (u8*) 0x850fbc4
+#define gCryCrocalor (u8*) 0x850fbc4
+#define gCrySkeledirge (u8*) 0x850fbc4
+#define gCryQuaxly (u8*) 0x850fbc4
+#define gCryQuaxwell (u8*) 0x850fbc4
+#define gCryQuaquaval (u8*) 0x850fbc4
+#define gCryLechonk (u8*) 0x850fbc4
+#define gCryOinkologne (u8*) 0x850fbc4
+#define gCryOinkologneFemale (u8*) 0x850fbc4
+#define gCryTarountula (u8*) 0x850fbc4
+#define gCrySpidops (u8*) 0x850fbc4
+#define gCryNymble (u8*) 0x850fbc4
+#define gCryLokix (u8*) 0x850fbc4
+#define gCryPawmi (u8*) 0x850fbc4
+#define gCryPawmo (u8*) 0x850fbc4
+#define gCryPawmot (u8*) 0x850fbc4
+#define gCryTandemaus (u8*) 0x850fbc4
+#define gCryMaushold (u8*) 0x850fbc4
+#define gCryMausholdFour (u8*) 0x850fbc4
+#define gCryFidough (u8*) 0x850fbc4
+#define gCryDachsbun (u8*) 0x850fbc4
+#define gCrySmoliv (u8*) 0x850fbc4
+#define gCryDolliv (u8*) 0x850fbc4
+#define gCryArboliva (u8*) 0x850fbc4
+#define gCrySquawkabilly (u8*) 0x850fbc4
+#define gCrySquawkabillyBlue (u8*) 0x850fbc4
+#define gCrySquawkabillyYellow (u8*) 0x850fbc4
+#define gCrySquawkabillyWhite (u8*) 0x850fbc4
+#define gCryNacli (u8*) 0x850fbc4
+#define gCryNaclstack (u8*) 0x850fbc4
+#define gCryGarganacl (u8*) 0x850fbc4
+#define gCryCharcadet (u8*) 0x850fbc4
+#define gCryArmarouge (u8*) 0x850fbc4
+#define gCryCeruledge (u8*) 0x850fbc4
+#define gCryTadbulb (u8*) 0x850fbc4
+#define gCryBellibolt (u8*) 0x850fbc4
+#define gCryWattrel (u8*) 0x850fbc4
+#define gCryKilowattrel (u8*) 0x850fbc4
+#define gCryMaschiff (u8*) 0x850fbc4
+#define gCryMabosstiff gCryStoutland
+#define gCryShroodle (u8*) 0x850fbc4
+#define gCryGrafaiai (u8*) 0x850fbc4
+#define gCryBramblin (u8*) 0x850fbc4
+#define gCryBrambleghast (u8*) 0x850fbc4
+#define gCryToedscool (u8*) 0x850fbc4
+#define gCryToedscruel (u8*) 0x850fbc4
+#define gCryKlawf (u8*) 0x850fbc4
+#define gCryCapsakid (u8*) 0x850fbc4
+#define gCryScovillain (u8*) 0x850fbc4
+#define gCryRellor (u8*) 0x850fbc4
+#define gCryRabsca (u8*) 0x850fbc4
+#define gCryFlittle (u8*) 0x850fbc4
+#define gCryEspathra (u8*) 0x850fbc4
+#define gCryTinkatink (u8*) 0x850fbc4
+#define gCryTinkatuff (u8*) 0x850fbc4
+#define gCryTinkaton (u8*) 0x850fbc4
+#define gCryWiglett (u8*) 0x850fbc4
+#define gCryWugtrio (u8*) 0x850fbc4
+#define gCryBombirdier (u8*) 0x850fbc4
+#define gCryFinizen (u8*) 0x850fbc4
+#define gCryPalafin (u8*) 0x850fbc4
+#define gCryPalafinHero (u8*) 0x850fbc4
+#define gCryVaroom (u8*) 0x850fbc4
+#define gCryRevavroom (u8*) 0x850fbc4
+#define gCryCyclizar (u8*) 0x850fbc4
+#define gCryOrthworm (u8*) 0x850fbc4
+#define gCryGlimmet (u8*) 0x850fbc4
+#define gCryGlimmora (u8*) 0x850fbc4
+#define gCryGreavard (u8*) 0x850fbc4
+#define gCryHoundstone (u8*) 0x850fbc4
+#define gCryFlamigo (u8*) 0x850fbc4
+#define gCryCetoddle (u8*) 0x850fbc4
+#define gCryCetitan (u8*) 0x850fbc4
+#define gCryVeluza (u8*) 0x850fbc4
+#define gCryDondozo (u8*) 0x850fbc4
+#define gCryTatsugiri (u8*) 0x850fbc4
+#define gCryTatsugiriRed (u8*) 0x850fbc4
+#define gCryTatsugiriYellow (u8*) 0x850fbc4
+#define gCryAnnihilape (u8*) 0x8547874
+#define gCryClodsire (u8*) 0x85d7db8
+#define gCryFarigiraf (u8*) 0x85e0458
+#define gCryDudunsparce (u8*) 0x85e3474
+#define gCryDudunsparceThree (u8*) 0x85e3474
+#define gCryKingambit gCryBisharp
+#define gCryGreatTusk (u8*) 0x85ff650
+#define gCryScreamTail (u8*) 0x8534acc
+#define gCryBruteBonnet gCryAmoonguss
+#define gCryFlutterMane (u8*) 0x85dd6f4
+#define gCrySlitherWing gCryVolcarona
+#define gCrySandyShocks (u8*) 0x8561d88
+#define gCryIronTreads (u8*) 0x85ff650
+#define gCryIronBundle (u8*) 0x85f84cc
+#define gCryIronHands (u8*) 0x8640aa0
+#define gCryIronJugulis gCryHydreigon
+#define gCryIronMoth gCryVolcarona
+#define gCryIronThorns (u8*) 0x860e750
+#define gCryFrigibax (u8*) 0x850fbc4
+#define gCryArctibax (u8*) 0x850fbc4
+#define gCryBaxcalibur (u8*) 0x850fbc4
+#define gCryGimmighoul (u8*) 0x850fbc4
+#define gCryGimmighoulRoaming (u8*) 0x850fbc4
+#define gCryGholdengo (u8*) 0x850fbc4
+#define gCryWoChien (u8*) 0x850fbc4
+#define gCryChienPao (u8*) 0x850fbc4
+#define gCryTingLu (u8*) 0x850fbc4
+#define gCryChiYu (u8*) 0x850fbc4
+#define gCryRoaringMoon (u8*) 0x86899d0
+#define gCryIronValiant gCryGallade
+#define gCryKoraidon (u8*) 0x850fbc4
+#define gCryMiraidon (u8*) 0x850fbc4
+#define gCryWalkingWake (u8*) 0x860bfe8
+#define gCryIronLeaves (u8*) gCryVirizion
+#define gCryTaurosP (u8*) 0x859a420 //Base species
+#define gCryTaurosBlazeP (u8*) 0x859a420 //Base species
+#define gCryTaurosAquaP (u8*) 0x859a420 //Base species
+#define gCryWooperP (u8*) 0x85d7658 //Base species
+#define gCryMonkidori (u8*) 0x850fbc4
+#define gCryOkidogi (u8*) 0x850fbc4
+#define gCryFezandipiti (u8*) 0x850fbc4
+#define gCryOgerpon (u8*) 0x850fbc4
+#define gCryTerapagos (u8*) 0x850fbc4
