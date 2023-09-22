@@ -135,8 +135,16 @@ const u16 gGrasslandPage17[] =
 {
 	SPECIES_KANGASKHAN,
 	SPECIES_GIRAFARIG,
-	SPECIES_TAUROS,
+	SPECIES_FARIGIRAF,
 	SPECIES_MILTANK,
+};
+
+const u16 gGrasslandPage17_1[] =
+{
+	SPECIES_TAUROS,
+	SPECIES_TAUROS_P,
+	SPECIES_TAUROS_BLAZE_P,
+	SPECIES_TAUROS_AQUA_P,
 };
 
 const u16 gGrasslandPage18[] =
@@ -437,6 +445,41 @@ const u16 gGrasslandPage57[] =
 	SPECIES_BOLTUND,
 	SPECIES_MORPEKO,
 	SPECIES_MORPEKO_HANGRY,
+};
+
+const u16 gGrasslandPage58[] =
+{
+	SPECIES_FUECOCO,
+	SPECIES_CROCALOR,
+	SPECIES_SKELEDIRGE,
+};
+
+const u16 gGrasslandPage59[] =
+{
+	SPECIES_LECHONK,
+	SPECIES_OINKOLOGNE,
+	SPECIES_OINKOLOGNE_FEMALE,
+};
+
+const u16 gGrasslandPage60[] =
+{
+	SPECIES_PAWMI,
+	SPECIES_PAWMO,
+	SPECIES_PAWMOT,
+};
+
+const u16 gGrasslandPage61[] =
+{
+	SPECIES_NYMBLE,
+	SPECIES_LOKIX,
+	SPECIES_CYCLIZAR,
+};
+
+const u16 gGrasslandPage62[] =
+{
+	SPECIES_SMOLIV,
+	SPECIES_DOLLIV,
+	SPECIES_ARBOLIVA,
 };
 
 const u16 gForestPage1[] =
@@ -950,6 +993,14 @@ const u16 gForestPage65[] =
 	SPECIES_GRIMMSNARL,
 };
 
+const u16 gForestPage66[] =
+{
+	SPECIES_TAROUNTULA,
+	SPECIES_SPIDOPS,
+	SPECIES_SHROODLE,
+	SPECIES_GRAFAIAI,
+};
+
 const u16 gWatersEdgePage1[] =
 {
 	SPECIES_GOLDEEN,
@@ -983,14 +1034,16 @@ const u16 gWatersEdgePage5[] =
 {
 	SPECIES_SURSKIT,
 	SPECIES_MASQUERAIN,
+	SPECIES_PSYDUCK,
+	SPECIES_GOLDUCK,
 };
 
 const u16 gWatersEdgePage6[] =
 {
-	SPECIES_PSYDUCK,
-	SPECIES_GOLDUCK,
 	SPECIES_WOOPER,
 	SPECIES_QUAGSIRE,
+	SPECIES_WOOPER_P,
+	SPECIES_CLODSIRE,
 };
 
 const u16 gWatersEdgePage7[] =
@@ -1229,6 +1282,30 @@ const u16 gWatersEdgePage40[] =
 	SPECIES_DRAGAPULT,
 };
 
+const u16 gWatersEdgePage41[] =
+{
+	SPECIES_QUAXLY,
+	SPECIES_QUAXWELL,
+	SPECIES_QUAQUAVAL,
+	SPECIES_FLAMIGO,
+};
+
+const u16 gWatersEdgePage42[] =
+{
+	SPECIES_TADBULB,
+	SPECIES_BELLIBOLT,
+	SPECIES_WATTREL,
+	SPECIES_KILOWATTREL,
+};
+
+const u16 gWatersEdgePage43[] =
+{
+	SPECIES_TOEDSCOOL,
+	SPECIES_TOEDSCRUEL,
+	SPECIES_WIGLETT,
+	SPECIES_WUGTRIO,
+};
+
 const u16 gSeaPage1[] =
 {
 	SPECIES_TENTACOOL,
@@ -1380,6 +1457,22 @@ const u16 gSeaPage22[] =
 	SPECIES_CRAMORANT_GORGING,
 };
 
+const u16 gSeaPage23[] =
+{
+	SPECIES_VELUZA,
+	SPECIES_FINIZEN,
+	SPECIES_PALAFIN,
+	SPECIES_PALAFIN_HERO,
+};
+
+const u16 gSeaPage24[] =
+{
+	SPECIES_DONDOZO,
+	SPECIES_TATSUGIRI,
+	SPECIES_TATSUGIRI_RED,
+	SPECIES_TATSUGIRI_YELLOW,
+};
+
 const u16 gCavePage1[] =
 {
 	SPECIES_ZUBAT,
@@ -1426,13 +1519,15 @@ const u16 gCavePage7[] =
 {
 	SPECIES_MISDREAVUS,
 	SPECIES_MISMAGIUS,
-	SPECIES_DUNSPARCE,
+	SPECIES_NOSEPASS,
+	SPECIES_PROBOPASS,
 };
 
 const u16 gCavePage8[] =
 {
-	SPECIES_NOSEPASS,
-	SPECIES_PROBOPASS,
+	SPECIES_DUNSPARCE,
+	SPECIES_DUDUNSPARCE,
+	SPECIES_DUDUNSPARCE_THREE,
 };
 
 const u16 gCavePage9[] =
@@ -1625,6 +1720,20 @@ const u16 gCavePage36[] =
 	SPECIES_REGIDRAGO,
 };
 
+const u16 gCavePage37[] =
+{
+	SPECIES_NACLI,
+	SPECIES_NACLSTACK,
+	SPECIES_GARGANACL,
+};
+
+const u16 gCavePage38[] =
+{
+	SPECIES_GLIMMET,
+	SPECIES_GLIMMORA,
+	SPECIES_ORTHWORM,
+};
+
 const u16 gMountainPage1[] =
 {
 	SPECIES_GEODUDE,
@@ -1643,8 +1752,7 @@ const u16 gMountainPage3[] =
 {
 	SPECIES_MANKEY,
 	SPECIES_PRIMEAPE,
-	SPECIES_SPOINK,
-	SPECIES_GRUMPIG,
+	SPECIES_ANNIHILAPE,
 };
 
 const u16 gMountainPage4[] =
@@ -1740,6 +1848,8 @@ const u16 gMountainPage16[] =
 {
 	SPECIES_MUNCHLAX,
 	SPECIES_SNORLAX,
+	SPECIES_SPOINK,
+	SPECIES_GRUMPIG,
 };
 
 const u16 gMountainPage17[] =
@@ -1919,6 +2029,43 @@ const u16 gMountainPage42[] =
 	SPECIES_FROSMOTH,
 };
 
+const u16 gMountainPage43[] =
+{
+	SPECIES_CHARCADET,
+	SPECIES_ARMAROUGE,
+	SPECIES_CERULEDGE,
+};
+
+const u16 gMountainPage44[] =
+{
+	SPECIES_CAPSAKID,
+	SPECIES_SCOVILLAIN,
+	SPECIES_KLAWF,
+	SPECIES_BOMBIRDIER,
+};
+
+const u16 gMountainPage45[] =
+{
+	SPECIES_TINKATINK,
+	SPECIES_TINKATUFF,
+	SPECIES_TINKATON,
+};
+
+const u16 gMountainPage46[] =
+{
+	SPECIES_GREAVARD,
+	SPECIES_HOUNDSTONE,
+	SPECIES_CETODDLE,
+	SPECIES_CETITAN,
+};
+
+const u16 gMountainPage47[] =
+{
+	SPECIES_FRIGIBAX,
+	SPECIES_ARCTIBAX,
+	SPECIES_BAXCALIBUR,
+};
+
 const u16 gRoughTerrainPage1[] =
 {
 	SPECIES_SPEAROW,
@@ -2050,14 +2197,15 @@ const u16 gRoughTerrainPage20[] =
 {
 	SPECIES_YAMASK_G,
 	SPECIES_RUNERIGUS,
+	SPECIES_GOLETT,
+	SPECIES_GOLURK,
 };
 
 const u16 gRoughTerrainPage21[] =
 {
-	SPECIES_GOLETT,
-	SPECIES_GOLURK,
 	SPECIES_PAWNIARD,
 	SPECIES_BISHARP,
+	SPECIES_KINGAMBIT,
 };
 
 const u16 gRoughTerrainPage22[] =
@@ -2107,6 +2255,28 @@ const u16 gRoughTerrainPage28[] =
 {
 	SPECIES_DRACOZOLT,
 	SPECIES_ARCTOZOLT,
+};
+
+const u16 gRoughTerrainPage29[] =
+{
+	SPECIES_MASCHIFF,
+	SPECIES_MABOSSTIFF,
+	SPECIES_FLITTLE,
+	SPECIES_ESPATHRA,
+};
+
+const u16 gRoughTerrainPage30[] =
+{
+	SPECIES_RELLOR,
+	SPECIES_RABSCA,
+	SPECIES_BRAMBLIN,
+	SPECIES_BRAMBLEGHAST,
+};
+
+const u16 gRoughTerrainPage31[] =
+{
+	SPECIES_VAROOM,
+	SPECIES_REVAVROOM,
 };
 
 const u16 gUrbanPage1[] =
@@ -2367,6 +2537,41 @@ const u16 gUrbanPage37[] =
 	SPECIES_ALCREMIE_LOVE,
 	SPECIES_ALCREMIE_RIBBON,
 	SPECIES_ALCREMIE_STAR,
+};
+
+const u16 gUrbanPage38[] =
+{
+	SPECIES_SPRIGATITO,
+	SPECIES_FLORAGATO,
+	SPECIES_MEOWSCARADA,
+};
+
+const u16 gUrbanPage39[] =
+{
+	SPECIES_TANDEMAUS,
+	SPECIES_MAUSHOLD,
+	SPECIES_MAUSHOLD_FOUR,
+};
+
+const u16 gUrbanPage40[] =
+{
+	SPECIES_FIDOUGH,
+	SPECIES_DACHSBUN,
+};
+
+const u16 gUrbanPage41[] =
+{
+	SPECIES_SQUAWKABILLY,
+	SPECIES_SQUAWKABILLY_BLUE,
+	SPECIES_SQUAWKABILLY_WHITE,
+	SPECIES_SQUAWKABILLY_YELLOW,
+};
+
+const u16 gUrbanPage42[] =
+{
+	SPECIES_GIMMIGHOUL,
+	SPECIES_GIMMIGHOUL_ROAMING,
+	SPECIES_GHOLDENGO,
 };
 
 const u16 gRarePage1[] =
@@ -2636,132 +2841,185 @@ const u16 gRarePage38[] =
 	SPECIES_CALYREX_SHADOW_RIDER,
 };
 
+const u16 gRarePage39[] =
+{
+	SPECIES_WO_CHIEN,
+	SPECIES_CHIEN_PAO,
+	SPECIES_TING_LU,
+	SPECIES_CHI_YU,
+};
+
+const u16 gRarePage40[] =
+{
+	SPECIES_GREAT_TUSK,
+	SPECIES_SCREAM_TAIL,
+	SPECIES_BRUTE_BONNET,
+	SPECIES_FLUTTER_MANE,
+};
+
+const u16 gRarePage41[] =
+{
+	SPECIES_SLITHER_WING,
+	SPECIES_SANDY_SHOCKS,
+	SPECIES_ROARING_MOON,
+	SPECIES_WALKING_WAKE,
+};
+
+const u16 gRarePage42[] =
+{
+	SPECIES_IRON_TREADS,
+	SPECIES_IRON_BUNDLE,
+	SPECIES_IRON_HANDS,
+	SPECIES_IRON_JUGULIS,
+};
+
+const u16 gRarePage43[] =
+{
+	SPECIES_IRON_MOTH,
+	SPECIES_IRON_THORNS,
+	SPECIES_IRON_VALIANT,
+	SPECIES_IRON_LEAVES,
+};
+
+const u16 gRarePage44[] =
+{
+	SPECIES_KORAIDON,
+	SPECIES_MIRAIDON,
+	SPECIES_TERAPAGOS,
+};
+
 const struct HabitatPage gGrasslandPages[] =
 {
-	{gGrasslandPage1, ARRAY_COUNT(gGrasslandPage1)}, 
-	{gGrasslandPage2, ARRAY_COUNT(gGrasslandPage2)}, 
-	{gGrasslandPage3, ARRAY_COUNT(gGrasslandPage3)}, 
-	{gGrasslandPage4, ARRAY_COUNT(gGrasslandPage4)}, 
-	{gGrasslandPage5, ARRAY_COUNT(gGrasslandPage5)}, 
-	{gGrasslandPage6, ARRAY_COUNT(gGrasslandPage6)}, 
-	{gGrasslandPage7, ARRAY_COUNT(gGrasslandPage7)}, 
-	{gGrasslandPage8, ARRAY_COUNT(gGrasslandPage8)}, 
-	{gGrasslandPage9, ARRAY_COUNT(gGrasslandPage9)}, 
-	{gGrasslandPage10, ARRAY_COUNT(gGrasslandPage10)}, 
-	{gGrasslandPage11, ARRAY_COUNT(gGrasslandPage11)}, 
-	{gGrasslandPage12, ARRAY_COUNT(gGrasslandPage12)}, 
-	{gGrasslandPage13, ARRAY_COUNT(gGrasslandPage13)}, 
-	{gGrasslandPage14, ARRAY_COUNT(gGrasslandPage14)}, 
-	{gGrasslandPage15, ARRAY_COUNT(gGrasslandPage15)}, 
-	{gGrasslandPage16, ARRAY_COUNT(gGrasslandPage16)}, 
-	{gGrasslandPage17, ARRAY_COUNT(gGrasslandPage17)}, 
-	{gGrasslandPage18, ARRAY_COUNT(gGrasslandPage18)}, 
-	{gGrasslandPage19, ARRAY_COUNT(gGrasslandPage19)}, 
-	{gGrasslandPage20, ARRAY_COUNT(gGrasslandPage20)}, 
-	{gGrasslandPage21, ARRAY_COUNT(gGrasslandPage21)}, 
-	{gGrasslandPage22, ARRAY_COUNT(gGrasslandPage22)}, 
-	{gGrasslandPage23, ARRAY_COUNT(gGrasslandPage23)}, 
-	{gGrasslandPage24, ARRAY_COUNT(gGrasslandPage24)}, 
-	{gGrasslandPage25, ARRAY_COUNT(gGrasslandPage25)}, 
-	{gGrasslandPage26, ARRAY_COUNT(gGrasslandPage26)}, 
-	{gGrasslandPage27, ARRAY_COUNT(gGrasslandPage27)}, 
-	{gGrasslandPage28, ARRAY_COUNT(gGrasslandPage28)}, 
-	{gGrasslandPage29, ARRAY_COUNT(gGrasslandPage29)}, 
-	{gGrasslandPage30, ARRAY_COUNT(gGrasslandPage30)}, 
-	{gGrasslandPage31, ARRAY_COUNT(gGrasslandPage31)}, 
-	{gGrasslandPage32, ARRAY_COUNT(gGrasslandPage32)}, 
-	{gGrasslandPage33, ARRAY_COUNT(gGrasslandPage33)}, 
-	{gGrasslandPage34, ARRAY_COUNT(gGrasslandPage34)}, 
-	{gGrasslandPage35, ARRAY_COUNT(gGrasslandPage35)}, 
-	{gGrasslandPage36, ARRAY_COUNT(gGrasslandPage36)}, 
-	{gGrasslandPage37, ARRAY_COUNT(gGrasslandPage37)}, 
-	{gGrasslandPage38, ARRAY_COUNT(gGrasslandPage38)}, 
-	{gGrasslandPage39, ARRAY_COUNT(gGrasslandPage39)}, 
-	{gGrasslandPage40, ARRAY_COUNT(gGrasslandPage40)}, 
-	{gGrasslandPage41, ARRAY_COUNT(gGrasslandPage41)}, 
-	{gGrasslandPage42, ARRAY_COUNT(gGrasslandPage42)}, 
-	{gGrasslandPage43, ARRAY_COUNT(gGrasslandPage43)}, 
-	{gGrasslandPage44, ARRAY_COUNT(gGrasslandPage44)}, 
-	{gGrasslandPage45, ARRAY_COUNT(gGrasslandPage45)}, 
-	{gGrasslandPage46, ARRAY_COUNT(gGrasslandPage46)}, 
-	{gGrasslandPage47, ARRAY_COUNT(gGrasslandPage47)}, 
-	{gGrasslandPage48, ARRAY_COUNT(gGrasslandPage48)}, 
-	{gGrasslandPage49, ARRAY_COUNT(gGrasslandPage49)}, 
-	{gGrasslandPage50, ARRAY_COUNT(gGrasslandPage50)}, 
-	{gGrasslandPage51, ARRAY_COUNT(gGrasslandPage51)}, 
-	{gGrasslandPage52, ARRAY_COUNT(gGrasslandPage52)}, 
-	{gGrasslandPage53, ARRAY_COUNT(gGrasslandPage53)}, 
-	{gGrasslandPage54, ARRAY_COUNT(gGrasslandPage54)}, 
-	{gGrasslandPage55, ARRAY_COUNT(gGrasslandPage55)}, 
-	{gGrasslandPage56, ARRAY_COUNT(gGrasslandPage56)}, 
-	{gGrasslandPage57, ARRAY_COUNT(gGrasslandPage57)}, 
+	{gGrasslandPage1, ARRAY_COUNT(gGrasslandPage1)},
+	{gGrasslandPage2, ARRAY_COUNT(gGrasslandPage2)},
+	{gGrasslandPage3, ARRAY_COUNT(gGrasslandPage3)},
+	{gGrasslandPage4, ARRAY_COUNT(gGrasslandPage4)},
+	{gGrasslandPage5, ARRAY_COUNT(gGrasslandPage5)},
+	{gGrasslandPage6, ARRAY_COUNT(gGrasslandPage6)},
+	{gGrasslandPage7, ARRAY_COUNT(gGrasslandPage7)},
+	{gGrasslandPage8, ARRAY_COUNT(gGrasslandPage8)},
+	{gGrasslandPage9, ARRAY_COUNT(gGrasslandPage9)},
+	{gGrasslandPage10, ARRAY_COUNT(gGrasslandPage10)},
+	{gGrasslandPage11, ARRAY_COUNT(gGrasslandPage11)},
+	{gGrasslandPage12, ARRAY_COUNT(gGrasslandPage12)},
+	{gGrasslandPage13, ARRAY_COUNT(gGrasslandPage13)},
+	{gGrasslandPage14, ARRAY_COUNT(gGrasslandPage14)},
+	{gGrasslandPage15, ARRAY_COUNT(gGrasslandPage15)},
+	{gGrasslandPage16, ARRAY_COUNT(gGrasslandPage16)},
+	{gGrasslandPage17, ARRAY_COUNT(gGrasslandPage17)},
+	{gGrasslandPage17_1, ARRAY_COUNT(gGrasslandPage17_1)},
+	{gGrasslandPage18, ARRAY_COUNT(gGrasslandPage18)},
+	{gGrasslandPage19, ARRAY_COUNT(gGrasslandPage19)},
+	{gGrasslandPage20, ARRAY_COUNT(gGrasslandPage20)},
+	{gGrasslandPage21, ARRAY_COUNT(gGrasslandPage21)},
+	{gGrasslandPage22, ARRAY_COUNT(gGrasslandPage22)},
+	{gGrasslandPage23, ARRAY_COUNT(gGrasslandPage23)},
+	{gGrasslandPage24, ARRAY_COUNT(gGrasslandPage24)},
+	{gGrasslandPage25, ARRAY_COUNT(gGrasslandPage25)},
+	{gGrasslandPage26, ARRAY_COUNT(gGrasslandPage26)},
+	{gGrasslandPage27, ARRAY_COUNT(gGrasslandPage27)},
+	{gGrasslandPage28, ARRAY_COUNT(gGrasslandPage28)},
+	{gGrasslandPage29, ARRAY_COUNT(gGrasslandPage29)},
+	{gGrasslandPage30, ARRAY_COUNT(gGrasslandPage30)},
+	{gGrasslandPage31, ARRAY_COUNT(gGrasslandPage31)},
+	{gGrasslandPage32, ARRAY_COUNT(gGrasslandPage32)},
+	{gGrasslandPage33, ARRAY_COUNT(gGrasslandPage33)},
+	{gGrasslandPage34, ARRAY_COUNT(gGrasslandPage34)},
+	{gGrasslandPage35, ARRAY_COUNT(gGrasslandPage35)},
+	{gGrasslandPage36, ARRAY_COUNT(gGrasslandPage36)},
+	{gGrasslandPage37, ARRAY_COUNT(gGrasslandPage37)},
+	{gGrasslandPage38, ARRAY_COUNT(gGrasslandPage38)},
+	{gGrasslandPage39, ARRAY_COUNT(gGrasslandPage39)},
+	{gGrasslandPage40, ARRAY_COUNT(gGrasslandPage40)},
+	{gGrasslandPage41, ARRAY_COUNT(gGrasslandPage41)},
+	{gGrasslandPage42, ARRAY_COUNT(gGrasslandPage42)},
+	{gGrasslandPage43, ARRAY_COUNT(gGrasslandPage43)},
+	{gGrasslandPage44, ARRAY_COUNT(gGrasslandPage44)},
+	{gGrasslandPage45, ARRAY_COUNT(gGrasslandPage45)},
+	{gGrasslandPage46, ARRAY_COUNT(gGrasslandPage46)},
+	{gGrasslandPage47, ARRAY_COUNT(gGrasslandPage47)},
+	{gGrasslandPage48, ARRAY_COUNT(gGrasslandPage48)},
+	{gGrasslandPage49, ARRAY_COUNT(gGrasslandPage49)},
+	{gGrasslandPage50, ARRAY_COUNT(gGrasslandPage50)},
+	{gGrasslandPage51, ARRAY_COUNT(gGrasslandPage51)},
+	{gGrasslandPage52, ARRAY_COUNT(gGrasslandPage52)},
+	{gGrasslandPage53, ARRAY_COUNT(gGrasslandPage53)},
+	{gGrasslandPage54, ARRAY_COUNT(gGrasslandPage54)},
+	{gGrasslandPage55, ARRAY_COUNT(gGrasslandPage55)},
+	{gGrasslandPage56, ARRAY_COUNT(gGrasslandPage56)},
+	{gGrasslandPage57, ARRAY_COUNT(gGrasslandPage57)},
+	{gGrasslandPage58, ARRAY_COUNT(gGrasslandPage58)},
+	{gGrasslandPage59, ARRAY_COUNT(gGrasslandPage59)},
+	{gGrasslandPage60, ARRAY_COUNT(gGrasslandPage60)},
+	{gGrasslandPage61, ARRAY_COUNT(gGrasslandPage61)},
+	{gGrasslandPage62, ARRAY_COUNT(gGrasslandPage62)},
 };
 
 const struct HabitatPage gForestPages[] =
 {
-	{gForestPage1, ARRAY_COUNT(gForestPage1)}, 
-	{gForestPage2, ARRAY_COUNT(gForestPage2)}, 
-	{gForestPage3, ARRAY_COUNT(gForestPage3)}, 
-	{gForestPage4, ARRAY_COUNT(gForestPage4)}, 
-	{gForestPage5, ARRAY_COUNT(gForestPage5)}, 
-	{gForestPage6, ARRAY_COUNT(gForestPage6)}, 
-	{gForestPage7, ARRAY_COUNT(gForestPage7)}, 
-	{gForestPage8, ARRAY_COUNT(gForestPage8)}, 
-	{gForestPage8_1, ARRAY_COUNT(gForestPage8_1)}, 
-	{gForestPage8_2, ARRAY_COUNT(gForestPage8_2)}, 
-	{gForestPage8_3, ARRAY_COUNT(gForestPage8_3)}, 
-	{gForestPage8_4, ARRAY_COUNT(gForestPage8_4)}, 
-	{gForestPage8_5, ARRAY_COUNT(gForestPage8_5)}, 
-	{gForestPage9, ARRAY_COUNT(gForestPage9)}, 
-	{gForestPage10, ARRAY_COUNT(gForestPage10)}, 
-	{gForestPage11, ARRAY_COUNT(gForestPage11)}, 
-	{gForestPage12, ARRAY_COUNT(gForestPage12)}, 
-	{gForestPage13, ARRAY_COUNT(gForestPage13)}, 
-	{gForestPage14, ARRAY_COUNT(gForestPage14)}, 
-	{gForestPage15, ARRAY_COUNT(gForestPage15)}, 
-	{gForestPage16, ARRAY_COUNT(gForestPage16)}, 
-	{gForestPage17, ARRAY_COUNT(gForestPage17)}, 
-	{gForestPage18, ARRAY_COUNT(gForestPage18)}, 
-	{gForestPage19, ARRAY_COUNT(gForestPage19)}, 
-	{gForestPage20, ARRAY_COUNT(gForestPage20)}, 
-	{gForestPage21, ARRAY_COUNT(gForestPage21)}, 
-	{gForestPage22, ARRAY_COUNT(gForestPage22)}, 
-	{gForestPage23, ARRAY_COUNT(gForestPage23)}, 
-	{gForestPage24, ARRAY_COUNT(gForestPage24)}, 
-	{gForestPage25, ARRAY_COUNT(gForestPage25)}, 
-	{gForestPage26, ARRAY_COUNT(gForestPage26)}, 
-	{gForestPage27, ARRAY_COUNT(gForestPage27)}, 
-	{gForestPage28, ARRAY_COUNT(gForestPage28)}, 
-	{gForestPage29, ARRAY_COUNT(gForestPage29)}, 
-	{gForestPage30, ARRAY_COUNT(gForestPage30)}, 
-	{gForestPage31, ARRAY_COUNT(gForestPage31)}, 
-	{gForestPage32, ARRAY_COUNT(gForestPage32)}, 
-	{gForestPage33, ARRAY_COUNT(gForestPage33)}, 
-	{gForestPage34, ARRAY_COUNT(gForestPage34)}, 
-	{gForestPage35, ARRAY_COUNT(gForestPage35)}, 
-	{gForestPage36, ARRAY_COUNT(gForestPage36)}, 
-	{gForestPage37, ARRAY_COUNT(gForestPage37)}, 
-	{gForestPage38, ARRAY_COUNT(gForestPage38)}, 
-	{gForestPage39, ARRAY_COUNT(gForestPage39)}, 
-	{gForestPage40, ARRAY_COUNT(gForestPage40)}, 
-	{gForestPage41, ARRAY_COUNT(gForestPage41)}, 
-	{gForestPage42, ARRAY_COUNT(gForestPage42)}, 
-	{gForestPage43, ARRAY_COUNT(gForestPage43)}, 
-	{gForestPage44, ARRAY_COUNT(gForestPage44)}, 
-	{gForestPage45, ARRAY_COUNT(gForestPage45)}, 
-	{gForestPage46, ARRAY_COUNT(gForestPage46)}, 
-	{gForestPage47, ARRAY_COUNT(gForestPage47)}, 
-	{gForestPage48, ARRAY_COUNT(gForestPage48)}, 
-	{gForestPage49, ARRAY_COUNT(gForestPage49)}, 
-	{gForestPage50, ARRAY_COUNT(gForestPage50)}, 
-	{gForestPage51, ARRAY_COUNT(gForestPage51)}, 
-	{gForestPage52, ARRAY_COUNT(gForestPage52)}, 
-	{gForestPage53, ARRAY_COUNT(gForestPage53)}, 
-	{gForestPage54, ARRAY_COUNT(gForestPage54)}, 
-	{gForestPage55, ARRAY_COUNT(gForestPage55)}, 
-	{gForestPage56, ARRAY_COUNT(gForestPage56)}, 
-	{gForestPage57, ARRAY_COUNT(gForestPage57)}, 
-	{gForestPage58, ARRAY_COUNT(gForestPage58)}, 
+	{gForestPage1, ARRAY_COUNT(gForestPage1)},
+	{gForestPage2, ARRAY_COUNT(gForestPage2)},
+	{gForestPage3, ARRAY_COUNT(gForestPage3)},
+	{gForestPage4, ARRAY_COUNT(gForestPage4)},
+	{gForestPage5, ARRAY_COUNT(gForestPage5)},
+	{gForestPage6, ARRAY_COUNT(gForestPage6)},
+	{gForestPage7, ARRAY_COUNT(gForestPage7)},
+	{gForestPage8, ARRAY_COUNT(gForestPage8)},
+	{gForestPage8_1, ARRAY_COUNT(gForestPage8_1)},
+	{gForestPage8_2, ARRAY_COUNT(gForestPage8_2)},
+	{gForestPage8_3, ARRAY_COUNT(gForestPage8_3)},
+	{gForestPage8_4, ARRAY_COUNT(gForestPage8_4)},
+	{gForestPage8_5, ARRAY_COUNT(gForestPage8_5)},
+	{gForestPage9, ARRAY_COUNT(gForestPage9)},
+	{gForestPage10, ARRAY_COUNT(gForestPage10)},
+	{gForestPage11, ARRAY_COUNT(gForestPage11)},
+	{gForestPage12, ARRAY_COUNT(gForestPage12)},
+	{gForestPage13, ARRAY_COUNT(gForestPage13)},
+	{gForestPage14, ARRAY_COUNT(gForestPage14)},
+	{gForestPage15, ARRAY_COUNT(gForestPage15)},
+	{gForestPage16, ARRAY_COUNT(gForestPage16)},
+	{gForestPage17, ARRAY_COUNT(gForestPage17)},
+	{gForestPage18, ARRAY_COUNT(gForestPage18)},
+	{gForestPage19, ARRAY_COUNT(gForestPage19)},
+	{gForestPage20, ARRAY_COUNT(gForestPage20)},
+	{gForestPage21, ARRAY_COUNT(gForestPage21)},
+	{gForestPage22, ARRAY_COUNT(gForestPage22)},
+	{gForestPage23, ARRAY_COUNT(gForestPage23)},
+	{gForestPage24, ARRAY_COUNT(gForestPage24)},
+	{gForestPage25, ARRAY_COUNT(gForestPage25)},
+	{gForestPage26, ARRAY_COUNT(gForestPage26)},
+	{gForestPage27, ARRAY_COUNT(gForestPage27)},
+	{gForestPage28, ARRAY_COUNT(gForestPage28)},
+	{gForestPage29, ARRAY_COUNT(gForestPage29)},
+	{gForestPage30, ARRAY_COUNT(gForestPage30)},
+	{gForestPage31, ARRAY_COUNT(gForestPage31)},
+	{gForestPage32, ARRAY_COUNT(gForestPage32)},
+	{gForestPage33, ARRAY_COUNT(gForestPage33)},
+	{gForestPage34, ARRAY_COUNT(gForestPage34)},
+	{gForestPage35, ARRAY_COUNT(gForestPage35)},
+	{gForestPage36, ARRAY_COUNT(gForestPage36)},
+	{gForestPage37, ARRAY_COUNT(gForestPage37)},
+	{gForestPage38, ARRAY_COUNT(gForestPage38)},
+	{gForestPage39, ARRAY_COUNT(gForestPage39)},
+	{gForestPage40, ARRAY_COUNT(gForestPage40)},
+	{gForestPage41, ARRAY_COUNT(gForestPage41)},
+	{gForestPage42, ARRAY_COUNT(gForestPage42)},
+	{gForestPage43, ARRAY_COUNT(gForestPage43)},
+	{gForestPage44, ARRAY_COUNT(gForestPage44)},
+	{gForestPage45, ARRAY_COUNT(gForestPage45)},
+	{gForestPage46, ARRAY_COUNT(gForestPage46)},
+	{gForestPage47, ARRAY_COUNT(gForestPage47)},
+	{gForestPage48, ARRAY_COUNT(gForestPage48)},
+	{gForestPage49, ARRAY_COUNT(gForestPage49)},
+	{gForestPage50, ARRAY_COUNT(gForestPage50)},
+	{gForestPage51, ARRAY_COUNT(gForestPage51)},
+	{gForestPage52, ARRAY_COUNT(gForestPage52)},
+	{gForestPage53, ARRAY_COUNT(gForestPage53)},
+	{gForestPage54, ARRAY_COUNT(gForestPage54)},
+	{gForestPage55, ARRAY_COUNT(gForestPage55)},
+	{gForestPage56, ARRAY_COUNT(gForestPage56)},
+	{gForestPage57, ARRAY_COUNT(gForestPage57)},
+	{gForestPage58, ARRAY_COUNT(gForestPage58)},
 	{gForestPage59, ARRAY_COUNT(gForestPage59)},
 	{gForestPage60, ARRAY_COUNT(gForestPage60)},
 	{gForestPage61, ARRAY_COUNT(gForestPage61)},
@@ -2769,155 +3027,163 @@ const struct HabitatPage gForestPages[] =
 	{gForestPage63, ARRAY_COUNT(gForestPage63)},
 	{gForestPage64, ARRAY_COUNT(gForestPage64)},
 	{gForestPage65, ARRAY_COUNT(gForestPage65)},
+	{gForestPage66, ARRAY_COUNT(gForestPage66)},
 };
 
 const struct HabitatPage gWatersEdgePages[] =
 {
-	{gWatersEdgePage1, ARRAY_COUNT(gWatersEdgePage1)}, 
-	{gWatersEdgePage2, ARRAY_COUNT(gWatersEdgePage2)}, 
-	{gWatersEdgePage3, ARRAY_COUNT(gWatersEdgePage3)}, 
-	{gWatersEdgePage4, ARRAY_COUNT(gWatersEdgePage4)}, 
-	{gWatersEdgePage5, ARRAY_COUNT(gWatersEdgePage5)}, 
-	{gWatersEdgePage6, ARRAY_COUNT(gWatersEdgePage6)}, 
-	{gWatersEdgePage7, ARRAY_COUNT(gWatersEdgePage7)}, 
-	{gWatersEdgePage8, ARRAY_COUNT(gWatersEdgePage8)}, 
-	{gWatersEdgePage9, ARRAY_COUNT(gWatersEdgePage9)}, 
-	{gWatersEdgePage10, ARRAY_COUNT(gWatersEdgePage10)}, 
-	{gWatersEdgePage11, ARRAY_COUNT(gWatersEdgePage11)}, 
-	{gWatersEdgePage12, ARRAY_COUNT(gWatersEdgePage12)}, 
-	{gWatersEdgePage13, ARRAY_COUNT(gWatersEdgePage13)}, 
-	{gWatersEdgePage14, ARRAY_COUNT(gWatersEdgePage14)}, 
-	{gWatersEdgePage15, ARRAY_COUNT(gWatersEdgePage15)}, 
-	{gWatersEdgePage16, ARRAY_COUNT(gWatersEdgePage16)}, 
-	{gWatersEdgePage17, ARRAY_COUNT(gWatersEdgePage17)}, 
-	{gWatersEdgePage18, ARRAY_COUNT(gWatersEdgePage18)}, 
-	{gWatersEdgePage19, ARRAY_COUNT(gWatersEdgePage19)}, 
-	{gWatersEdgePage20, ARRAY_COUNT(gWatersEdgePage20)}, 
-	{gWatersEdgePage21, ARRAY_COUNT(gWatersEdgePage21)}, 
-	{gWatersEdgePage22, ARRAY_COUNT(gWatersEdgePage22)}, 
-	{gWatersEdgePage23, ARRAY_COUNT(gWatersEdgePage23)}, 
-	{gWatersEdgePage24, ARRAY_COUNT(gWatersEdgePage24)}, 
-	{gWatersEdgePage25, ARRAY_COUNT(gWatersEdgePage25)}, 
-	{gWatersEdgePage26, ARRAY_COUNT(gWatersEdgePage26)}, 
-	{gWatersEdgePage27, ARRAY_COUNT(gWatersEdgePage27)}, 
-	{gWatersEdgePage28, ARRAY_COUNT(gWatersEdgePage28)}, 
-	{gWatersEdgePage29, ARRAY_COUNT(gWatersEdgePage29)}, 
-	{gWatersEdgePage30, ARRAY_COUNT(gWatersEdgePage30)}, 
-	{gWatersEdgePage31, ARRAY_COUNT(gWatersEdgePage31)}, 
-	{gWatersEdgePage32, ARRAY_COUNT(gWatersEdgePage32)}, 
-	{gWatersEdgePage33, ARRAY_COUNT(gWatersEdgePage33)}, 
-	{gWatersEdgePage34, ARRAY_COUNT(gWatersEdgePage34)}, 
-	{gWatersEdgePage35, ARRAY_COUNT(gWatersEdgePage35)}, 
+	{gWatersEdgePage1, ARRAY_COUNT(gWatersEdgePage1)},
+	{gWatersEdgePage2, ARRAY_COUNT(gWatersEdgePage2)},
+	{gWatersEdgePage3, ARRAY_COUNT(gWatersEdgePage3)},
+	{gWatersEdgePage4, ARRAY_COUNT(gWatersEdgePage4)},
+	{gWatersEdgePage5, ARRAY_COUNT(gWatersEdgePage5)},
+	{gWatersEdgePage6, ARRAY_COUNT(gWatersEdgePage6)},
+	{gWatersEdgePage7, ARRAY_COUNT(gWatersEdgePage7)},
+	{gWatersEdgePage8, ARRAY_COUNT(gWatersEdgePage8)},
+	{gWatersEdgePage9, ARRAY_COUNT(gWatersEdgePage9)},
+	{gWatersEdgePage10, ARRAY_COUNT(gWatersEdgePage10)},
+	{gWatersEdgePage11, ARRAY_COUNT(gWatersEdgePage11)},
+	{gWatersEdgePage12, ARRAY_COUNT(gWatersEdgePage12)},
+	{gWatersEdgePage13, ARRAY_COUNT(gWatersEdgePage13)},
+	{gWatersEdgePage14, ARRAY_COUNT(gWatersEdgePage14)},
+	{gWatersEdgePage15, ARRAY_COUNT(gWatersEdgePage15)},
+	{gWatersEdgePage16, ARRAY_COUNT(gWatersEdgePage16)},
+	{gWatersEdgePage17, ARRAY_COUNT(gWatersEdgePage17)},
+	{gWatersEdgePage18, ARRAY_COUNT(gWatersEdgePage18)},
+	{gWatersEdgePage19, ARRAY_COUNT(gWatersEdgePage19)},
+	{gWatersEdgePage20, ARRAY_COUNT(gWatersEdgePage20)},
+	{gWatersEdgePage21, ARRAY_COUNT(gWatersEdgePage21)},
+	{gWatersEdgePage22, ARRAY_COUNT(gWatersEdgePage22)},
+	{gWatersEdgePage23, ARRAY_COUNT(gWatersEdgePage23)},
+	{gWatersEdgePage24, ARRAY_COUNT(gWatersEdgePage24)},
+	{gWatersEdgePage25, ARRAY_COUNT(gWatersEdgePage25)},
+	{gWatersEdgePage26, ARRAY_COUNT(gWatersEdgePage26)},
+	{gWatersEdgePage27, ARRAY_COUNT(gWatersEdgePage27)},
+	{gWatersEdgePage28, ARRAY_COUNT(gWatersEdgePage28)},
+	{gWatersEdgePage29, ARRAY_COUNT(gWatersEdgePage29)},
+	{gWatersEdgePage30, ARRAY_COUNT(gWatersEdgePage30)},
+	{gWatersEdgePage31, ARRAY_COUNT(gWatersEdgePage31)},
+	{gWatersEdgePage32, ARRAY_COUNT(gWatersEdgePage32)},
+	{gWatersEdgePage33, ARRAY_COUNT(gWatersEdgePage33)},
+	{gWatersEdgePage34, ARRAY_COUNT(gWatersEdgePage34)},
+	{gWatersEdgePage35, ARRAY_COUNT(gWatersEdgePage35)},
 	{gWatersEdgePage36, ARRAY_COUNT(gWatersEdgePage36)},
-	{gWatersEdgePage37, ARRAY_COUNT(gWatersEdgePage37)}, 
-	{gWatersEdgePage38, ARRAY_COUNT(gWatersEdgePage38)}, 
-	{gWatersEdgePage39, ARRAY_COUNT(gWatersEdgePage39)}, 
-	{gWatersEdgePage40, ARRAY_COUNT(gWatersEdgePage40)}, 
+	{gWatersEdgePage37, ARRAY_COUNT(gWatersEdgePage37)},
+	{gWatersEdgePage38, ARRAY_COUNT(gWatersEdgePage38)},
+	{gWatersEdgePage39, ARRAY_COUNT(gWatersEdgePage39)},
+	{gWatersEdgePage40, ARRAY_COUNT(gWatersEdgePage40)},
+	{gWatersEdgePage41, ARRAY_COUNT(gWatersEdgePage41)},
+	{gWatersEdgePage42, ARRAY_COUNT(gWatersEdgePage42)},
+	{gWatersEdgePage43, ARRAY_COUNT(gWatersEdgePage43)},
 };
 
 const struct HabitatPage gSeaPages[] =
 {
-	{gSeaPage1, ARRAY_COUNT(gSeaPage1)}, 
-	{gSeaPage2, ARRAY_COUNT(gSeaPage2)}, 
-	{gSeaPage3, ARRAY_COUNT(gSeaPage3)}, 
-	{gSeaPage4, ARRAY_COUNT(gSeaPage4)}, 
-	{gSeaPage5, ARRAY_COUNT(gSeaPage5)}, 
-	{gSeaPage6, ARRAY_COUNT(gSeaPage6)}, 
-	{gSeaPage7, ARRAY_COUNT(gSeaPage7)}, 
-	{gSeaPage8, ARRAY_COUNT(gSeaPage8)}, 
-	{gSeaPage9, ARRAY_COUNT(gSeaPage9)}, 
-	{gSeaPage10, ARRAY_COUNT(gSeaPage10)}, 
-	{gSeaPage11, ARRAY_COUNT(gSeaPage11)}, 
-	{gSeaPage12, ARRAY_COUNT(gSeaPage12)}, 
-	{gSeaPage13, ARRAY_COUNT(gSeaPage13)}, 
-	{gSeaPage14, ARRAY_COUNT(gSeaPage14)}, 
-	{gSeaPage15, ARRAY_COUNT(gSeaPage15)}, 
-	{gSeaPage16, ARRAY_COUNT(gSeaPage16)}, 
-	{gSeaPage17, ARRAY_COUNT(gSeaPage17)}, 
-	{gSeaPage18, ARRAY_COUNT(gSeaPage18)}, 
-	{gSeaPage19, ARRAY_COUNT(gSeaPage19)}, 
-	{gSeaPage20, ARRAY_COUNT(gSeaPage20)}, 
-	{gSeaPage21, ARRAY_COUNT(gSeaPage21)}, 
-	{gSeaPage22, ARRAY_COUNT(gSeaPage22)}, 
+	{gSeaPage1, ARRAY_COUNT(gSeaPage1)},
+	{gSeaPage2, ARRAY_COUNT(gSeaPage2)},
+	{gSeaPage3, ARRAY_COUNT(gSeaPage3)},
+	{gSeaPage4, ARRAY_COUNT(gSeaPage4)},
+	{gSeaPage5, ARRAY_COUNT(gSeaPage5)},
+	{gSeaPage6, ARRAY_COUNT(gSeaPage6)},
+	{gSeaPage7, ARRAY_COUNT(gSeaPage7)},
+	{gSeaPage8, ARRAY_COUNT(gSeaPage8)},
+	{gSeaPage9, ARRAY_COUNT(gSeaPage9)},
+	{gSeaPage10, ARRAY_COUNT(gSeaPage10)},
+	{gSeaPage11, ARRAY_COUNT(gSeaPage11)},
+	{gSeaPage12, ARRAY_COUNT(gSeaPage12)},
+	{gSeaPage13, ARRAY_COUNT(gSeaPage13)},
+	{gSeaPage14, ARRAY_COUNT(gSeaPage14)},
+	{gSeaPage15, ARRAY_COUNT(gSeaPage15)},
+	{gSeaPage16, ARRAY_COUNT(gSeaPage16)},
+	{gSeaPage17, ARRAY_COUNT(gSeaPage17)},
+	{gSeaPage18, ARRAY_COUNT(gSeaPage18)},
+	{gSeaPage19, ARRAY_COUNT(gSeaPage19)},
+	{gSeaPage20, ARRAY_COUNT(gSeaPage20)},
+	{gSeaPage21, ARRAY_COUNT(gSeaPage21)},
+	{gSeaPage22, ARRAY_COUNT(gSeaPage22)},
+	{gSeaPage23, ARRAY_COUNT(gSeaPage23)},
+	{gSeaPage24, ARRAY_COUNT(gSeaPage24)},
 };
 
 const struct HabitatPage gCavePages[] =
 {
-	{gCavePage1, ARRAY_COUNT(gCavePage1)}, 
-	{gCavePage2, ARRAY_COUNT(gCavePage2)}, 
-	{gCavePage3, ARRAY_COUNT(gCavePage3)}, 
-	{gCavePage4, ARRAY_COUNT(gCavePage4)}, 
-	{gCavePage5, ARRAY_COUNT(gCavePage5)}, 
-	{gCavePage6, ARRAY_COUNT(gCavePage6)}, 
-	{gCavePage7, ARRAY_COUNT(gCavePage7)}, 
-	{gCavePage8, ARRAY_COUNT(gCavePage8)}, 
-	{gCavePage9, ARRAY_COUNT(gCavePage9)}, 
-	{gCavePage10, ARRAY_COUNT(gCavePage10)}, 
-	{gCavePage11, ARRAY_COUNT(gCavePage11)}, 
-	{gCavePage12, ARRAY_COUNT(gCavePage12)}, 
-	{gCavePage13, ARRAY_COUNT(gCavePage13)}, 
-	{gCavePage14, ARRAY_COUNT(gCavePage14)}, 
-	{gCavePage15, ARRAY_COUNT(gCavePage15)}, 
-	{gCavePage16, ARRAY_COUNT(gCavePage16)}, 
-	{gCavePage17, ARRAY_COUNT(gCavePage17)}, 
-	{gCavePage18, ARRAY_COUNT(gCavePage18)}, 
-	{gCavePage19, ARRAY_COUNT(gCavePage19)}, 
-	{gCavePage20, ARRAY_COUNT(gCavePage20)}, 
-	{gCavePage21, ARRAY_COUNT(gCavePage21)}, 
-	{gCavePage22, ARRAY_COUNT(gCavePage22)}, 
-	{gCavePage23, ARRAY_COUNT(gCavePage23)}, 
-	{gCavePage24, ARRAY_COUNT(gCavePage24)}, 
-	{gCavePage25, ARRAY_COUNT(gCavePage25)}, 
-	{gCavePage26, ARRAY_COUNT(gCavePage26)}, 
-	{gCavePage27, ARRAY_COUNT(gCavePage27)}, 
-	{gCavePage28, ARRAY_COUNT(gCavePage28)}, 
-	{gCavePage29, ARRAY_COUNT(gCavePage29)}, 
-	{gCavePage30, ARRAY_COUNT(gCavePage30)}, 
-	{gCavePage31, ARRAY_COUNT(gCavePage31)}, 
-	{gCavePage32, ARRAY_COUNT(gCavePage32)}, 
-	{gCavePage33, ARRAY_COUNT(gCavePage33)}, 
-	{gCavePage34, ARRAY_COUNT(gCavePage34)}, 
-	{gCavePage35, ARRAY_COUNT(gCavePage35)}, 
-	{gCavePage36, ARRAY_COUNT(gCavePage36)}, 
+	{gCavePage1, ARRAY_COUNT(gCavePage1)},
+	{gCavePage2, ARRAY_COUNT(gCavePage2)},
+	{gCavePage3, ARRAY_COUNT(gCavePage3)},
+	{gCavePage4, ARRAY_COUNT(gCavePage4)},
+	{gCavePage5, ARRAY_COUNT(gCavePage5)},
+	{gCavePage6, ARRAY_COUNT(gCavePage6)},
+	{gCavePage7, ARRAY_COUNT(gCavePage7)},
+	{gCavePage8, ARRAY_COUNT(gCavePage8)},
+	{gCavePage9, ARRAY_COUNT(gCavePage9)},
+	{gCavePage10, ARRAY_COUNT(gCavePage10)},
+	{gCavePage11, ARRAY_COUNT(gCavePage11)},
+	{gCavePage12, ARRAY_COUNT(gCavePage12)},
+	{gCavePage13, ARRAY_COUNT(gCavePage13)},
+	{gCavePage14, ARRAY_COUNT(gCavePage14)},
+	{gCavePage15, ARRAY_COUNT(gCavePage15)},
+	{gCavePage16, ARRAY_COUNT(gCavePage16)},
+	{gCavePage17, ARRAY_COUNT(gCavePage17)},
+	{gCavePage18, ARRAY_COUNT(gCavePage18)},
+	{gCavePage19, ARRAY_COUNT(gCavePage19)},
+	{gCavePage20, ARRAY_COUNT(gCavePage20)},
+	{gCavePage21, ARRAY_COUNT(gCavePage21)},
+	{gCavePage22, ARRAY_COUNT(gCavePage22)},
+	{gCavePage23, ARRAY_COUNT(gCavePage23)},
+	{gCavePage24, ARRAY_COUNT(gCavePage24)},
+	{gCavePage25, ARRAY_COUNT(gCavePage25)},
+	{gCavePage26, ARRAY_COUNT(gCavePage26)},
+	{gCavePage27, ARRAY_COUNT(gCavePage27)},
+	{gCavePage28, ARRAY_COUNT(gCavePage28)},
+	{gCavePage29, ARRAY_COUNT(gCavePage29)},
+	{gCavePage30, ARRAY_COUNT(gCavePage30)},
+	{gCavePage31, ARRAY_COUNT(gCavePage31)},
+	{gCavePage32, ARRAY_COUNT(gCavePage32)},
+	{gCavePage33, ARRAY_COUNT(gCavePage33)},
+	{gCavePage34, ARRAY_COUNT(gCavePage34)},
+	{gCavePage35, ARRAY_COUNT(gCavePage35)},
+	{gCavePage36, ARRAY_COUNT(gCavePage36)},
+	{gCavePage37, ARRAY_COUNT(gCavePage37)},
+	{gCavePage38, ARRAY_COUNT(gCavePage38)},
 };
 
 const struct HabitatPage gMountainPages[] =
 {
-	{gMountainPage1, ARRAY_COUNT(gMountainPage1)}, 
-	{gMountainPage2, ARRAY_COUNT(gMountainPage2)}, 
-	{gMountainPage3, ARRAY_COUNT(gMountainPage3)}, 
-	{gMountainPage4, ARRAY_COUNT(gMountainPage4)}, 
-	{gMountainPage5, ARRAY_COUNT(gMountainPage5)}, 
-	{gMountainPage6, ARRAY_COUNT(gMountainPage6)}, 
-	{gMountainPage7, ARRAY_COUNT(gMountainPage7)}, 
-	{gMountainPage8, ARRAY_COUNT(gMountainPage8)}, 
-	{gMountainPage9, ARRAY_COUNT(gMountainPage9)}, 
-	{gMountainPage10, ARRAY_COUNT(gMountainPage10)}, 
-	{gMountainPage11, ARRAY_COUNT(gMountainPage11)}, 
-	{gMountainPage12, ARRAY_COUNT(gMountainPage12)}, 
-	{gMountainPage13, ARRAY_COUNT(gMountainPage13)}, 
-	{gMountainPage14, ARRAY_COUNT(gMountainPage14)}, 
-	{gMountainPage15, ARRAY_COUNT(gMountainPage15)}, 
-	{gMountainPage16, ARRAY_COUNT(gMountainPage16)}, 
-	{gMountainPage17, ARRAY_COUNT(gMountainPage17)}, 
-	{gMountainPage18, ARRAY_COUNT(gMountainPage18)}, 
-	{gMountainPage19, ARRAY_COUNT(gMountainPage19)}, 
-	{gMountainPage20, ARRAY_COUNT(gMountainPage20)}, 
-	{gMountainPage21, ARRAY_COUNT(gMountainPage21)}, 
-	{gMountainPage22, ARRAY_COUNT(gMountainPage22)}, 
-	{gMountainPage23, ARRAY_COUNT(gMountainPage23)}, 
-	{gMountainPage24, ARRAY_COUNT(gMountainPage24)}, 
-	{gMountainPage25, ARRAY_COUNT(gMountainPage25)}, 
-	{gMountainPage26, ARRAY_COUNT(gMountainPage26)}, 
-	{gMountainPage27, ARRAY_COUNT(gMountainPage27)}, 
-	{gMountainPage28, ARRAY_COUNT(gMountainPage28)}, 
-	{gMountainPage29, ARRAY_COUNT(gMountainPage29)}, 
-	{gMountainPage30, ARRAY_COUNT(gMountainPage30)}, 
-	{gMountainPage31, ARRAY_COUNT(gMountainPage31)}, 
-	{gMountainPage32, ARRAY_COUNT(gMountainPage32)}, 
-	{gMountainPage33, ARRAY_COUNT(gMountainPage33)}, 
-	{gMountainPage34, ARRAY_COUNT(gMountainPage34)}, 
-	{gMountainPage35, ARRAY_COUNT(gMountainPage35)}, 
+	{gMountainPage1, ARRAY_COUNT(gMountainPage1)},
+	{gMountainPage2, ARRAY_COUNT(gMountainPage2)},
+	{gMountainPage3, ARRAY_COUNT(gMountainPage3)},
+	{gMountainPage4, ARRAY_COUNT(gMountainPage4)},
+	{gMountainPage5, ARRAY_COUNT(gMountainPage5)},
+	{gMountainPage6, ARRAY_COUNT(gMountainPage6)},
+	{gMountainPage7, ARRAY_COUNT(gMountainPage7)},
+	{gMountainPage8, ARRAY_COUNT(gMountainPage8)},
+	{gMountainPage9, ARRAY_COUNT(gMountainPage9)},
+	{gMountainPage10, ARRAY_COUNT(gMountainPage10)},
+	{gMountainPage11, ARRAY_COUNT(gMountainPage11)},
+	{gMountainPage12, ARRAY_COUNT(gMountainPage12)},
+	{gMountainPage13, ARRAY_COUNT(gMountainPage13)},
+	{gMountainPage14, ARRAY_COUNT(gMountainPage14)},
+	{gMountainPage15, ARRAY_COUNT(gMountainPage15)},
+	{gMountainPage16, ARRAY_COUNT(gMountainPage16)},
+	{gMountainPage17, ARRAY_COUNT(gMountainPage17)},
+	{gMountainPage18, ARRAY_COUNT(gMountainPage18)},
+	{gMountainPage19, ARRAY_COUNT(gMountainPage19)},
+	{gMountainPage20, ARRAY_COUNT(gMountainPage20)},
+	{gMountainPage21, ARRAY_COUNT(gMountainPage21)},
+	{gMountainPage22, ARRAY_COUNT(gMountainPage22)},
+	{gMountainPage23, ARRAY_COUNT(gMountainPage23)},
+	{gMountainPage24, ARRAY_COUNT(gMountainPage24)},
+	{gMountainPage25, ARRAY_COUNT(gMountainPage25)},
+	{gMountainPage26, ARRAY_COUNT(gMountainPage26)},
+	{gMountainPage27, ARRAY_COUNT(gMountainPage27)},
+	{gMountainPage28, ARRAY_COUNT(gMountainPage28)},
+	{gMountainPage29, ARRAY_COUNT(gMountainPage29)},
+	{gMountainPage30, ARRAY_COUNT(gMountainPage30)},
+	{gMountainPage31, ARRAY_COUNT(gMountainPage31)},
+	{gMountainPage32, ARRAY_COUNT(gMountainPage32)},
+	{gMountainPage33, ARRAY_COUNT(gMountainPage33)},
+	{gMountainPage34, ARRAY_COUNT(gMountainPage34)},
+	{gMountainPage35, ARRAY_COUNT(gMountainPage35)},
 	{gMountainPage36, ARRAY_COUNT(gMountainPage36)},
 	{gMountainPage37, ARRAY_COUNT(gMountainPage37)},
 	{gMountainPage38, ARRAY_COUNT(gMountainPage38)},
@@ -2925,100 +3191,113 @@ const struct HabitatPage gMountainPages[] =
 	{gMountainPage40, ARRAY_COUNT(gMountainPage40)},
 	{gMountainPage41, ARRAY_COUNT(gMountainPage41)},
 	{gMountainPage42, ARRAY_COUNT(gMountainPage42)},
+	{gMountainPage43, ARRAY_COUNT(gMountainPage43)},
+	{gMountainPage44, ARRAY_COUNT(gMountainPage44)},
+	{gMountainPage45, ARRAY_COUNT(gMountainPage45)},
+	{gMountainPage46, ARRAY_COUNT(gMountainPage46)},
+	{gMountainPage47, ARRAY_COUNT(gMountainPage47)},
 };
 
 const struct HabitatPage gRoughTerrainPages[] =
 {
-	{gRoughTerrainPage1, ARRAY_COUNT(gRoughTerrainPage1)}, 
-	{gRoughTerrainPage2, ARRAY_COUNT(gRoughTerrainPage2)}, 
-	{gRoughTerrainPage3, ARRAY_COUNT(gRoughTerrainPage3)}, 
-	{gRoughTerrainPage4, ARRAY_COUNT(gRoughTerrainPage4)}, 
-	{gRoughTerrainPage5, ARRAY_COUNT(gRoughTerrainPage5)}, 
-	{gRoughTerrainPage6, ARRAY_COUNT(gRoughTerrainPage6)}, 
-	{gRoughTerrainPage7, ARRAY_COUNT(gRoughTerrainPage7)}, 
-	{gRoughTerrainPage8, ARRAY_COUNT(gRoughTerrainPage8)}, 
-	{gRoughTerrainPage9, ARRAY_COUNT(gRoughTerrainPage9)}, 
-	{gRoughTerrainPage10, ARRAY_COUNT(gRoughTerrainPage10)}, 
-	{gRoughTerrainPage11, ARRAY_COUNT(gRoughTerrainPage11)}, 
-	{gRoughTerrainPage12, ARRAY_COUNT(gRoughTerrainPage12)}, 
-	{gRoughTerrainPage13, ARRAY_COUNT(gRoughTerrainPage13)}, 
-	{gRoughTerrainPage14, ARRAY_COUNT(gRoughTerrainPage14)}, 
-	{gRoughTerrainPage15, ARRAY_COUNT(gRoughTerrainPage15)}, 
-	{gRoughTerrainPage16, ARRAY_COUNT(gRoughTerrainPage16)}, 
-	{gRoughTerrainPage17, ARRAY_COUNT(gRoughTerrainPage17)}, 
-	{gRoughTerrainPage18, ARRAY_COUNT(gRoughTerrainPage18)}, 
-	{gRoughTerrainPage19, ARRAY_COUNT(gRoughTerrainPage19)}, 
-	{gRoughTerrainPage20, ARRAY_COUNT(gRoughTerrainPage20)}, 
-	{gRoughTerrainPage21, ARRAY_COUNT(gRoughTerrainPage21)}, 
-	{gRoughTerrainPage22, ARRAY_COUNT(gRoughTerrainPage22)}, 
-	{gRoughTerrainPage23, ARRAY_COUNT(gRoughTerrainPage23)}, 
-	{gRoughTerrainPage24, ARRAY_COUNT(gRoughTerrainPage24)}, 
-	{gRoughTerrainPage25, ARRAY_COUNT(gRoughTerrainPage25)}, 
-	{gRoughTerrainPage26, ARRAY_COUNT(gRoughTerrainPage26)}, 
-	{gRoughTerrainPage27, ARRAY_COUNT(gRoughTerrainPage27)}, 
-	{gRoughTerrainPage28, ARRAY_COUNT(gRoughTerrainPage28)}, 
+	{gRoughTerrainPage1, ARRAY_COUNT(gRoughTerrainPage1)},
+	{gRoughTerrainPage2, ARRAY_COUNT(gRoughTerrainPage2)},
+	{gRoughTerrainPage3, ARRAY_COUNT(gRoughTerrainPage3)},
+	{gRoughTerrainPage4, ARRAY_COUNT(gRoughTerrainPage4)},
+	{gRoughTerrainPage5, ARRAY_COUNT(gRoughTerrainPage5)},
+	{gRoughTerrainPage6, ARRAY_COUNT(gRoughTerrainPage6)},
+	{gRoughTerrainPage7, ARRAY_COUNT(gRoughTerrainPage7)},
+	{gRoughTerrainPage8, ARRAY_COUNT(gRoughTerrainPage8)},
+	{gRoughTerrainPage9, ARRAY_COUNT(gRoughTerrainPage9)},
+	{gRoughTerrainPage10, ARRAY_COUNT(gRoughTerrainPage10)},
+	{gRoughTerrainPage11, ARRAY_COUNT(gRoughTerrainPage11)},
+	{gRoughTerrainPage12, ARRAY_COUNT(gRoughTerrainPage12)},
+	{gRoughTerrainPage13, ARRAY_COUNT(gRoughTerrainPage13)},
+	{gRoughTerrainPage14, ARRAY_COUNT(gRoughTerrainPage14)},
+	{gRoughTerrainPage15, ARRAY_COUNT(gRoughTerrainPage15)},
+	{gRoughTerrainPage16, ARRAY_COUNT(gRoughTerrainPage16)},
+	{gRoughTerrainPage17, ARRAY_COUNT(gRoughTerrainPage17)},
+	{gRoughTerrainPage18, ARRAY_COUNT(gRoughTerrainPage18)},
+	{gRoughTerrainPage19, ARRAY_COUNT(gRoughTerrainPage19)},
+	{gRoughTerrainPage20, ARRAY_COUNT(gRoughTerrainPage20)},
+	{gRoughTerrainPage21, ARRAY_COUNT(gRoughTerrainPage21)},
+	{gRoughTerrainPage22, ARRAY_COUNT(gRoughTerrainPage22)},
+	{gRoughTerrainPage23, ARRAY_COUNT(gRoughTerrainPage23)},
+	{gRoughTerrainPage24, ARRAY_COUNT(gRoughTerrainPage24)},
+	{gRoughTerrainPage25, ARRAY_COUNT(gRoughTerrainPage25)},
+	{gRoughTerrainPage26, ARRAY_COUNT(gRoughTerrainPage26)},
+	{gRoughTerrainPage27, ARRAY_COUNT(gRoughTerrainPage27)},
+	{gRoughTerrainPage28, ARRAY_COUNT(gRoughTerrainPage28)},
+	{gRoughTerrainPage29, ARRAY_COUNT(gRoughTerrainPage29)},
+	{gRoughTerrainPage30, ARRAY_COUNT(gRoughTerrainPage30)},
+	{gRoughTerrainPage31, ARRAY_COUNT(gRoughTerrainPage31)},
 };
 
 const struct HabitatPage gUrbanPages[] =
 {
-	{gUrbanPage1, ARRAY_COUNT(gUrbanPage1)}, 
-	{gUrbanPage2, ARRAY_COUNT(gUrbanPage2)}, 
-	{gUrbanPage3, ARRAY_COUNT(gUrbanPage3)}, 
-	{gUrbanPage4, ARRAY_COUNT(gUrbanPage4)}, 
-	{gUrbanPage5, ARRAY_COUNT(gUrbanPage5)}, 
-	{gUrbanPage6, ARRAY_COUNT(gUrbanPage6)}, 
-	{gUrbanPage7, ARRAY_COUNT(gUrbanPage7)}, 
-	{gUrbanPage8, ARRAY_COUNT(gUrbanPage8)}, 
-	{gUrbanPage9, ARRAY_COUNT(gUrbanPage9)}, 
-	{gUrbanPage10, ARRAY_COUNT(gUrbanPage10)}, 
-	{gUrbanPage11, ARRAY_COUNT(gUrbanPage11)}, 
-	{gUrbanPage12, ARRAY_COUNT(gUrbanPage12)}, 
-	{gUrbanPage13, ARRAY_COUNT(gUrbanPage13)}, 
-	{gUrbanPage14, ARRAY_COUNT(gUrbanPage14)}, 
-	{gUrbanPage15, ARRAY_COUNT(gUrbanPage15)}, 
-	{gUrbanPage16, ARRAY_COUNT(gUrbanPage16)}, 
-	{gUrbanPage17, ARRAY_COUNT(gUrbanPage17)}, 
-	{gUrbanPage18, ARRAY_COUNT(gUrbanPage18)}, 
-	{gUrbanPage19, ARRAY_COUNT(gUrbanPage19)}, 
-	{gUrbanPage20, ARRAY_COUNT(gUrbanPage20)}, 
-	{gUrbanPage21, ARRAY_COUNT(gUrbanPage21)}, 
-	{gUrbanPage22, ARRAY_COUNT(gUrbanPage22)}, 
-	{gUrbanPage23, ARRAY_COUNT(gUrbanPage23)}, 
-	{gUrbanPage24, ARRAY_COUNT(gUrbanPage24)}, 
-	{gUrbanPage25, ARRAY_COUNT(gUrbanPage25)}, 
-	{gUrbanPage26, ARRAY_COUNT(gUrbanPage26)}, 
-	{gUrbanPage27, ARRAY_COUNT(gUrbanPage27)}, 
-	{gUrbanPage28, ARRAY_COUNT(gUrbanPage28)}, 
-	{gUrbanPage29, ARRAY_COUNT(gUrbanPage29)}, 
-	{gUrbanPage30, ARRAY_COUNT(gUrbanPage30)}, 
-	{gUrbanPage31, ARRAY_COUNT(gUrbanPage31)}, 
-	{gUrbanPage32, ARRAY_COUNT(gUrbanPage32)}, 
-	{gUrbanPage33, ARRAY_COUNT(gUrbanPage33)}, 
-	{gUrbanPage34, ARRAY_COUNT(gUrbanPage34)}, 
-	{gUrbanPage35, ARRAY_COUNT(gUrbanPage35)}, 
+	{gUrbanPage1, ARRAY_COUNT(gUrbanPage1)},
+	{gUrbanPage2, ARRAY_COUNT(gUrbanPage2)},
+	{gUrbanPage3, ARRAY_COUNT(gUrbanPage3)},
+	{gUrbanPage4, ARRAY_COUNT(gUrbanPage4)},
+	{gUrbanPage5, ARRAY_COUNT(gUrbanPage5)},
+	{gUrbanPage6, ARRAY_COUNT(gUrbanPage6)},
+	{gUrbanPage7, ARRAY_COUNT(gUrbanPage7)},
+	{gUrbanPage8, ARRAY_COUNT(gUrbanPage8)},
+	{gUrbanPage9, ARRAY_COUNT(gUrbanPage9)},
+	{gUrbanPage10, ARRAY_COUNT(gUrbanPage10)},
+	{gUrbanPage11, ARRAY_COUNT(gUrbanPage11)},
+	{gUrbanPage12, ARRAY_COUNT(gUrbanPage12)},
+	{gUrbanPage13, ARRAY_COUNT(gUrbanPage13)},
+	{gUrbanPage14, ARRAY_COUNT(gUrbanPage14)},
+	{gUrbanPage15, ARRAY_COUNT(gUrbanPage15)},
+	{gUrbanPage16, ARRAY_COUNT(gUrbanPage16)},
+	{gUrbanPage17, ARRAY_COUNT(gUrbanPage17)},
+	{gUrbanPage18, ARRAY_COUNT(gUrbanPage18)},
+	{gUrbanPage19, ARRAY_COUNT(gUrbanPage19)},
+	{gUrbanPage20, ARRAY_COUNT(gUrbanPage20)},
+	{gUrbanPage21, ARRAY_COUNT(gUrbanPage21)},
+	{gUrbanPage22, ARRAY_COUNT(gUrbanPage22)},
+	{gUrbanPage23, ARRAY_COUNT(gUrbanPage23)},
+	{gUrbanPage24, ARRAY_COUNT(gUrbanPage24)},
+	{gUrbanPage25, ARRAY_COUNT(gUrbanPage25)},
+	{gUrbanPage26, ARRAY_COUNT(gUrbanPage26)},
+	{gUrbanPage27, ARRAY_COUNT(gUrbanPage27)},
+	{gUrbanPage28, ARRAY_COUNT(gUrbanPage28)},
+	{gUrbanPage29, ARRAY_COUNT(gUrbanPage29)},
+	{gUrbanPage30, ARRAY_COUNT(gUrbanPage30)},
+	{gUrbanPage31, ARRAY_COUNT(gUrbanPage31)},
+	{gUrbanPage32, ARRAY_COUNT(gUrbanPage32)},
+	{gUrbanPage33, ARRAY_COUNT(gUrbanPage33)},
+	{gUrbanPage34, ARRAY_COUNT(gUrbanPage34)},
+	{gUrbanPage35, ARRAY_COUNT(gUrbanPage35)},
 	{gUrbanPage36, ARRAY_COUNT(gUrbanPage36)},
-	{gUrbanPage37, ARRAY_COUNT(gUrbanPage37)}, 
+	{gUrbanPage37, ARRAY_COUNT(gUrbanPage37)},
+	{gUrbanPage38, ARRAY_COUNT(gUrbanPage38)},
+	{gUrbanPage39, ARRAY_COUNT(gUrbanPage39)},
+	{gUrbanPage40, ARRAY_COUNT(gUrbanPage40)},
+	{gUrbanPage41, ARRAY_COUNT(gUrbanPage41)},
+	{gUrbanPage42, ARRAY_COUNT(gUrbanPage42)},
 };
 
 const struct HabitatPage gRarePages[] =
 {
-	{gRarePage1, ARRAY_COUNT(gRarePage1)}, 
-	{gRarePage2, ARRAY_COUNT(gRarePage2)}, 
-	{gRarePage3, ARRAY_COUNT(gRarePage3)}, 
-	{gRarePage4, ARRAY_COUNT(gRarePage4)}, 
-	{gRarePage5, ARRAY_COUNT(gRarePage5)}, 
-	{gRarePage6, ARRAY_COUNT(gRarePage6)}, 
-	{gRarePage7, ARRAY_COUNT(gRarePage7)}, 
-	{gRarePage8, ARRAY_COUNT(gRarePage8)}, 
-	{gRarePage9, ARRAY_COUNT(gRarePage9)}, 
-	{gRarePage10, ARRAY_COUNT(gRarePage10)}, 
-	{gRarePage11, ARRAY_COUNT(gRarePage11)}, 
-	{gRarePage12, ARRAY_COUNT(gRarePage12)}, 
-	{gRarePage13, ARRAY_COUNT(gRarePage13)}, 
-	{gRarePage14, ARRAY_COUNT(gRarePage14)}, 
-	{gRarePage15, ARRAY_COUNT(gRarePage15)}, 
-	{gRarePage16, ARRAY_COUNT(gRarePage16)}, 
-	{gRarePage17, ARRAY_COUNT(gRarePage17)}, 
+	{gRarePage1, ARRAY_COUNT(gRarePage1)},
+	{gRarePage2, ARRAY_COUNT(gRarePage2)},
+	{gRarePage3, ARRAY_COUNT(gRarePage3)},
+	{gRarePage4, ARRAY_COUNT(gRarePage4)},
+	{gRarePage5, ARRAY_COUNT(gRarePage5)},
+	{gRarePage6, ARRAY_COUNT(gRarePage6)},
+	{gRarePage7, ARRAY_COUNT(gRarePage7)},
+	{gRarePage8, ARRAY_COUNT(gRarePage8)},
+	{gRarePage9, ARRAY_COUNT(gRarePage9)},
+	{gRarePage10, ARRAY_COUNT(gRarePage10)},
+	{gRarePage11, ARRAY_COUNT(gRarePage11)},
+	{gRarePage12, ARRAY_COUNT(gRarePage12)},
+	{gRarePage13, ARRAY_COUNT(gRarePage13)},
+	{gRarePage14, ARRAY_COUNT(gRarePage14)},
+	{gRarePage15, ARRAY_COUNT(gRarePage15)},
+	{gRarePage16, ARRAY_COUNT(gRarePage16)},
+	{gRarePage17, ARRAY_COUNT(gRarePage17)},
 	{gRarePage18, ARRAY_COUNT(gRarePage18)},
 	{gRarePage19, ARRAY_COUNT(gRarePage19)},
 	{gRarePage20, ARRAY_COUNT(gRarePage20)},
@@ -3040,6 +3319,12 @@ const struct HabitatPage gRarePages[] =
 	{gRarePage36, ARRAY_COUNT(gRarePage36)},
 	{gRarePage37, ARRAY_COUNT(gRarePage37)},
 	{gRarePage38, ARRAY_COUNT(gRarePage38)},
+	{gRarePage39, ARRAY_COUNT(gRarePage39)},
+	{gRarePage40, ARRAY_COUNT(gRarePage40)},
+	{gRarePage41, ARRAY_COUNT(gRarePage41)},
+	{gRarePage42, ARRAY_COUNT(gRarePage42)},
+	{gRarePage43, ARRAY_COUNT(gRarePage43)},
+	{gRarePage44, ARRAY_COUNT(gRarePage44)},
 };
 
 const struct Habitat gHabitatPtrsTable[9] =

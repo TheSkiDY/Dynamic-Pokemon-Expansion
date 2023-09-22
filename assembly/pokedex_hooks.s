@@ -20,8 +20,8 @@ bxr1:
 	bx r1
 
 .align 2
-.RegularPokedexSize: .word 0xC10
-.ExpandedPokedexSize: .word 999 * 8
+.RegularPokedexSize: .word 4
+.ExpandedPokedexSize: .word 1100 * 8
 
 @0x8104A66 with r1
 DisplayRegionalDexNumHook:
@@ -101,4 +101,16 @@ AlternateDexCategoryHook:
 	ldr r1, =SpeciesToNationalPokedexNum
 	bl bxr1
 	ldr r1, =0x810582A | 1
+	bx r1
+
+.pool
+@0x810488E with r0
+DexScreen_PrintNum3LeadingZeroesHook:
+	mov r0, r9
+	ldr r4, [sp, #0x2C] @Arg 3
+	ldr r5, [sp, #0x30] @Arg 4
+	str r4, [sp]
+	str r5, [sp, #0x4]
+	bl DexScreen_PrintNum3LeadingZeroes
+	ldr r1, =0x810490C | 1
 	bx r1

@@ -22,6 +22,7 @@ IsNationalPokedexEnabled = 0x806E25C | 1;
 GetUnownLetterFromPersonality = 0x8082AB8 | 1;
 GetSetPokedexFlag = 0x8088E74 | 1;
 SafeLoadMonIconPalette = 0x80970A0 | 1;
+DexScreen_AddTextPrinterParameterized = 0x81047C8 | 1;
 DexFlagCheck = 0x8104AB0 | 1;
 LZ77UnCompWram = 0x81E3B70 | 1;
 

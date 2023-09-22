@@ -3,6 +3,7 @@
 #include "../include/graphics.h"
 #include "../include/main.h"
 #include "../include/pokedex.h"
+#include "../include/text.h"
 
 //Backsprite battle start
 
@@ -51,6 +52,7 @@ u8  __attribute__((long_call)) GetUnownLetterFromPersonality(u32 personality);
 bool8 __attribute__((long_call)) GetSetPokedexFlag(u16 nationalNum, u8 caseID);
 s8 __attribute__((long_call)) DexFlagCheck(u16 nationalDexNo, u8 caseId, bool8 indexIsSpecies);
 u16 __attribute__((long_call)) SpeciesToNationalPokedexNum(u16 species);
+void __attribute__((long_call)) DexScreen_AddTextPrinterParameterized(u8 windowId, u8 fontId, const u8 *str, u8 x, u8 y, u8 colorIdx);
 void __attribute__((long_call)) break_func();
 
 //This file's functions
@@ -503,4 +505,27 @@ static u16 LoadNationalPokedexView(void)
 	}
 
 	return lastMeaningfulIndex;
+}
+
+void DexScreen_PrintNum3LeadingZeroes(u8 windowId, u8 fontId, u16 num, u8 x, u8 y, u8 colorIdx)
+{
+	u8 buff[5];
+
+	if (num < 1000)
+	{
+		buff[0] = (num / 100) + _0;
+		buff[1] = ((num %= 100) / 10) + _0;
+		buff[2] = (num % 10) + _0;
+		buff[3] = _END;
+	}
+	else
+	{
+		buff[0] = (num / 1000) + _0;
+		buff[1] = ((num %= 1000) / 100) + _0;
+		buff[2] = ((num %= 100) / 10) + _0;
+		buff[3] = (num % 10) + _0;
+		buff[4] = _END;
+	}
+
+	DexScreen_AddTextPrinterParameterized(windowId, fontId, buff, x, y, colorIdx);
 }
