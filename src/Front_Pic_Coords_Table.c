@@ -566,7 +566,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_RHYDON] =
 	{
 		.size = 0x88,
-		.y_offset = 0x0,
+		.y_offset = 0x3,
 	},
 	[SPECIES_CHANSEY] =
 	{
@@ -5526,7 +5526,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_RILLABOOM] =
 	{
 		.size = 0x0,
-		.y_offset = 0x3,
+		.y_offset = 0x0,
 	},
 	[SPECIES_SCORBUNNY] =
 	{
@@ -5556,7 +5556,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_INTELEON] =
 	{
 		.size = 0x0,
-		.y_offset = 0x1,
+		.y_offset = 0x0,
 	},
 	[SPECIES_SKWOVET] =
 	{
@@ -6236,7 +6236,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_BRAVIARY_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x1,
+		.y_offset = 0x0,
 	},
 	[SPECIES_SLIGGOO_H] =
 	{
