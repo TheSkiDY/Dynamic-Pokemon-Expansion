@@ -1353,11 +1353,19 @@ extern const u8 gFrontSprite1375TaurosPTiles[];
 extern const u8 gFrontSprite1376TaurosBlazePTiles[];
 extern const u8 gFrontSprite1377TaurosAquaPTiles[];
 extern const u8 gFrontSprite1378WooperPTiles[];
-extern const u8 gFrontSprite1379MonkidoriTiles[];
-extern const u8 gFrontSprite1380OkidogiTiles[];
-extern const u8 gFrontSprite1381FezandipitiTiles[];
-extern const u8 gFrontSprite1382OgerponTiles[];
-extern const u8 gFrontSprite1383TerapagosTiles[];
+extern const u8 gFrontSprite1379UrsalunaBloodmoonTiles[];
+extern const u8 gFrontSprite1380DipplinTiles[];
+extern const u8 gFrontSprite1381PoltchageistTiles[];
+extern const u8 gFrontSprite1382PoltchageistArtisanTiles[];
+extern const u8 gFrontSprite1383SinistchaTiles[];
+extern const u8 gFrontSprite1384SinistchaMasterpieceTiles[];
+extern const u8 gFrontSprite1385OkidogiTiles[];
+extern const u8 gFrontSprite1386MunkidoriTiles[];
+extern const u8 gFrontSprite1387FezandipitiTiles[];
+extern const u8 gFrontSprite1388OgerponTiles[];
+extern const u8 gFrontSprite1389OgerponWellspringMaskTiles[];
+extern const u8 gFrontSprite1390OgerponHearthflameMaskTiles[];
+extern const u8 gFrontSprite1391OgerponCornerstoneMaskTiles[];
 extern const u8 gFrontSpriteGigaVenusaurTiles[];
 extern const u8 gFrontSpriteGigaCharizardTiles[];
 extern const u8 gFrontSpriteGigaBlastoiseTiles[];
@@ -2746,11 +2754,19 @@ extern const u8 gBackShinySprite1375TaurosPTiles[];
 extern const u8 gBackShinySprite1376TaurosBlazePTiles[];
 extern const u8 gBackShinySprite1377TaurosAquaPTiles[];
 extern const u8 gBackShinySprite1378WooperPTiles[];
-extern const u8 gBackShinySprite1379MonkidoriTiles[];
-extern const u8 gBackShinySprite1380OkidogiTiles[];
-extern const u8 gBackShinySprite1381FezandipitiTiles[];
-extern const u8 gBackShinySprite1382OgerponTiles[];
-extern const u8 gBackShinySprite1383TerapagosTiles[];
+extern const u8 gBackShinySprite1379UrsalunaBloodmoonTiles[];
+extern const u8 gBackShinySprite1380DipplinTiles[];
+extern const u8 gBackShinySprite1381PoltchageistTiles[];
+extern const u8 gBackShinySprite1382PoltchageistArtisanTiles[];
+extern const u8 gBackShinySprite1383SinistchaTiles[];
+extern const u8 gBackShinySprite1384SinistchaMasterpieceTiles[];
+extern const u8 gBackShinySprite1385OkidogiTiles[];
+extern const u8 gBackShinySprite1386MunkidoriTiles[];
+extern const u8 gBackShinySprite1387FezandipitiTiles[];
+extern const u8 gBackShinySprite1388OgerponTiles[];
+extern const u8 gBackShinySprite1389OgerponWellspringMaskTiles[];
+extern const u8 gBackShinySprite1390OgerponHearthflameMaskTiles[];
+extern const u8 gBackShinySprite1391OgerponCornerstoneMaskTiles[];
 extern const u8 gBackShinySpriteGigaVenusaurTiles[];
 extern const u8 gBackShinySpriteGigaCharizardTiles[];
 extern const u8 gBackShinySpriteGigaBlastoiseTiles[];
@@ -4143,11 +4159,19 @@ extern const u8 gFrontSprite1375TaurosPPal[];
 extern const u8 gFrontSprite1376TaurosBlazePPal[];
 extern const u8 gFrontSprite1377TaurosAquaPPal[];
 extern const u8 gFrontSprite1378WooperPPal[];
-extern const u8 gFrontSprite1379MonkidoriPal[];
-extern const u8 gFrontSprite1380OkidogiPal[];
-extern const u8 gFrontSprite1381FezandipitiPal[];
-extern const u8 gFrontSprite1382OgerponPal[];
-extern const u8 gFrontSprite1383TerapagosPal[];
+extern const u8 gFrontSprite1379UrsalunaBloodmoonPal[];
+extern const u8 gFrontSprite1380DipplinPal[];
+extern const u8 gFrontSprite1381PoltchageistPal[];
+extern const u8 gFrontSprite1382PoltchageistArtisanPal[];
+extern const u8 gFrontSprite1383SinistchaPal[];
+extern const u8 gFrontSprite1384SinistchaMasterpiecePal[];
+extern const u8 gFrontSprite1385OkidogiPal[];
+extern const u8 gFrontSprite1386MunkidoriPal[];
+extern const u8 gFrontSprite1387FezandipitiPal[];
+extern const u8 gFrontSprite1388OgerponPal[];
+extern const u8 gFrontSprite1389OgerponWellspringMaskPal[];
+extern const u8 gFrontSprite1390OgerponHearthflameMaskPal[];
+extern const u8 gFrontSprite1391OgerponCornerstoneMaskPal[];
 extern const u8 gFrontSpriteGigaVenusaurPal[];
 extern const u8 gFrontSpriteGigaCharizardPal[];
 extern const u8 gFrontSpriteGigaBlastoisePal[];
@@ -5536,11 +5560,19 @@ extern const u8 gBackShinySprite1375TaurosPPal[];
 extern const u8 gBackShinySprite1376TaurosBlazePPal[];
 extern const u8 gBackShinySprite1377TaurosAquaPPal[];
 extern const u8 gBackShinySprite1378WooperPPal[];
-extern const u8 gBackShinySprite1379MonkidoriPal[];
-extern const u8 gBackShinySprite1380OkidogiPal[];
-extern const u8 gBackShinySprite1381FezandipitiPal[];
-extern const u8 gBackShinySprite1382OgerponPal[];
-extern const u8 gBackShinySprite1383TerapagosPal[];
+extern const u8 gBackShinySprite1379UrsalunaBloodmoonPal[];
+extern const u8 gBackShinySprite1380DipplinPal[];
+extern const u8 gBackShinySprite1381PoltchageistPal[];
+extern const u8 gBackShinySprite1382PoltchageistArtisanPal[];
+extern const u8 gBackShinySprite1383SinistchaPal[];
+extern const u8 gBackShinySprite1384SinistchaMasterpiecePal[];
+extern const u8 gBackShinySprite1385OkidogiPal[];
+extern const u8 gBackShinySprite1386MunkidoriPal[];
+extern const u8 gBackShinySprite1387FezandipitiPal[];
+extern const u8 gBackShinySprite1388OgerponPal[];
+extern const u8 gBackShinySprite1389OgerponWellspringMaskPal[];
+extern const u8 gBackShinySprite1390OgerponHearthflameMaskPal[];
+extern const u8 gBackShinySprite1391OgerponCornerstoneMaskPal[];
 extern const u8 gBackShinySpriteGigaVenusaurPal[];
 extern const u8 gBackShinySpriteGigaCharizardPal[];
 extern const u8 gBackShinySpriteGigaBlastoisePal[];
@@ -6933,11 +6965,19 @@ extern const u8 gIconSprite1375TaurosPTiles[];
 extern const u8 gIconSprite1376TaurosBlazePTiles[];
 extern const u8 gIconSprite1377TaurosAquaPTiles[];
 extern const u8 gIconSprite1378WooperPTiles[];
-extern const u8 gIconSprite1379MonkidoriTiles[];
-extern const u8 gIconSprite1380OkidogiTiles[];
-extern const u8 gIconSprite1381FezandipitiTiles[];
-extern const u8 gIconSprite1382OgerponTiles[];
-extern const u8 gIconSprite1383TerapagosTiles[];
+extern const u8 gIconSprite1379UrsalunaBloodmoonTiles[];
+extern const u8 gIconSprite1380DipplinTiles[];
+extern const u8 gIconSprite1381PoltchageistTiles[];
+extern const u8 gIconSprite1382PoltchageistArtisanTiles[];
+extern const u8 gIconSprite1383SinistchaTiles[];
+extern const u8 gIconSprite1384SinistchaMasterpieceTiles[];
+extern const u8 gIconSprite1385OkidogiTiles[];
+extern const u8 gIconSprite1386MunkidoriTiles[];
+extern const u8 gIconSprite1387FezandipitiTiles[];
+extern const u8 gIconSprite1388OgerponTiles[];
+extern const u8 gIconSprite1389OgerponWellspringMaskTiles[];
+extern const u8 gIconSprite1390OgerponHearthflameMaskTiles[];
+extern const u8 gIconSprite1391OgerponCornerstoneMaskTiles[];
 extern const u8 gIconSpriteGigaVenusaurTiles[];
 extern const u8 gIconSpriteGigaCharizardTiles[];
 extern const u8 gIconSpriteGigaBlastoiseTiles[];
@@ -6976,12 +7016,59 @@ extern const u8 gIconSpriteGigaUrshifuRapidTiles[];
 extern const u8 gIconSprite252Tiles[];
 
 //Temp
+#define gFrontSprite1379UrsalunaBloodmoonTiles gFrontSprite000NoneTiles
+#define gFrontSprite1380DipplinTiles gFrontSprite000NoneTiles
+#define gFrontSprite1381PoltchageistTiles gFrontSprite000NoneTiles
+#define gFrontSprite1382PoltchageistArtisanTiles gFrontSprite000NoneTiles
+#define gFrontSprite1383SinistchaTiles gFrontSprite000NoneTiles
+#define gFrontSprite1384SinistchaMasterpieceTiles gFrontSprite000NoneTiles
+#define gFrontSprite1389OgerponWellspringMaskTiles gFrontSprite000NoneTiles
+#define gFrontSprite1390OgerponHearthflameMaskTiles gFrontSprite000NoneTiles
+#define gFrontSprite1391OgerponCornerstoneMaskTiles gFrontSprite000NoneTiles
+
+#define gBackShinySprite1379UrsalunaBloodmoonTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1380DipplinTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1381PoltchageistTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1382PoltchageistArtisanTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1383SinistchaTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1384SinistchaMasterpieceTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1389OgerponWellspringMaskTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1390OgerponHearthflameMaskTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1391OgerponCornerstoneMaskTiles gBackShinySprite000NoneTiles
+
+#define gFrontSprite1379UrsalunaBloodmoonPal gFrontSprite000NonePal
+#define gFrontSprite1380DipplinPal gFrontSprite000NonePal
+#define gFrontSprite1381PoltchageistPal gFrontSprite000NonePal
+#define gFrontSprite1382PoltchageistArtisanPal gFrontSprite000NonePal
+#define gFrontSprite1383SinistchaPal gFrontSprite000NonePal
+#define gFrontSprite1384SinistchaMasterpiecePal gFrontSprite000NonePal
+#define gFrontSprite1389OgerponWellspringMaskPal gFrontSprite000NonePal
+#define gFrontSprite1390OgerponHearthflameMaskPal gFrontSprite000NonePal
+#define gFrontSprite1391OgerponCornerstoneMaskPal gFrontSprite000NonePal
+
+#define gBackShinySprite1379UrsalunaBloodmoonPal gBackShinySprite000NonePal
+#define gBackShinySprite1380DipplinPal gBackShinySprite000NonePal
+#define gBackShinySprite1381PoltchageistPal gBackShinySprite000NonePal
+#define gBackShinySprite1382PoltchageistArtisanPal gBackShinySprite000NonePal
+#define gBackShinySprite1383SinistchaPal gBackShinySprite000NonePal
+#define gBackShinySprite1384SinistchaMasterpiecePal gBackShinySprite000NonePal
+#define gBackShinySprite1389OgerponWellspringMaskPal gBackShinySprite000NonePal
+#define gBackShinySprite1390OgerponHearthflameMaskPal gBackShinySprite000NonePal
+#define gBackShinySprite1391OgerponCornerstoneMaskPal gBackShinySprite000NonePal
 
 #define gIconSprite1283DachsbunTiles gIconSprite000NoneTiles
 #define gIconSprite1317TinkatuffTiles gIconSprite000NoneTiles
 #define gIconSprite1318TinkatonTiles gIconSprite000NoneTiles
-#define gIconSprite1379MonkidoriTiles gIconSprite000NoneTiles
-#define gIconSprite1380OkidogiTiles gIconSprite000NoneTiles
-#define gIconSprite1381FezandipitiTiles gIconSprite000NoneTiles
-#define gIconSprite1382OgerponTiles gIconSprite000NoneTiles
-#define gIconSprite1383TerapagosTiles gIconSprite000NoneTiles
+#define gIconSprite1379UrsalunaBloodmoonTiles gIconSprite000NoneTiles
+#define gIconSprite1380DipplinTiles gIconSprite000NoneTiles
+#define gIconSprite1381PoltchageistTiles gIconSprite000NoneTiles
+#define gIconSprite1382PoltchageistArtisanTiles gIconSprite000NoneTiles
+#define gIconSprite1383SinistchaTiles gIconSprite000NoneTiles
+#define gIconSprite1384SinistchaMasterpieceTiles gIconSprite000NoneTiles
+#define gIconSprite1385OkidogiTiles gIconSprite000NoneTiles
+#define gIconSprite1386MunkidoriTiles gIconSprite000NoneTiles
+#define gIconSprite1387FezandipitiTiles gIconSprite000NoneTiles
+#define gIconSprite1388OgerponTiles gIconSprite000NoneTiles
+#define gIconSprite1389OgerponWellspringMaskTiles gIconSprite000NoneTiles
+#define gIconSprite1390OgerponHearthflameMaskTiles gIconSprite000NoneTiles
+#define gIconSprite1391OgerponCornerstoneMaskTiles gIconSprite000NoneTiles

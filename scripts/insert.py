@@ -7,7 +7,7 @@ import sys
 from datetime import datetime
 import _io
 
-OFFSET_TO_PUT = 0x15fa120
+OFFSET_TO_PUT = 0x15fa100
 SOURCE_ROM = "Pokemon Unbound.gba"
 ROM_NAME = "test.gba"
 

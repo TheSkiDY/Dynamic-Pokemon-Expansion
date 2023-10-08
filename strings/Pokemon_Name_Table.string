@@ -4139,11 +4139,29 @@ Tauros
 #org @NAME_WOOPER_P
 Wooper
 
-#org @NAME_MONKIDORI
-Monkidori
+#org @NAME_URSALUNA_BLOODMOON
+Ursaluna
+
+#org @NAME_DIPPLIN
+Dipplin
+
+#org @NAME_POLTCHAGEIST
+Polchgeist
+
+#org @NAME_POLTCHAGEIST_ARTISAN
+Polchgeist
+
+#org @NAME_SINISTCHA
+Sinistcha
+
+#org @NAME_SINISTCHA_MASTERPIECE
+Sinistcha
 
 #org @NAME_OKIDOGI
 Okidogi
+
+#org @NAME_MUNKIDORI
+Munkidori
 
 #org @NAME_FEZANDIPITI
 Fezandipti
@@ -4151,8 +4169,44 @@ Fezandipti
 #org @NAME_OGERPON
 Ogerpon
 
+#org @NAME_OGERPON_WELLSPRING_MASK
+Ogerpon
+
+#org @NAME_OGERPON_HEARTHFLAME_MASK
+Ogerpon
+
+#org @NAME_OGERPON_CORNERSTONE_MASK
+Ogerpon
+
+#org @NAME_ARCHALUDON
+-
+
+#org @NAME_DIPPLIN_EVO
+-
+
+#org @NAME_LOYAL_THREE_MASTER
+-
+
+#org @NAME_RAGING_BOLT
+-
+
+#org @NAME_PARADOX_ENTEI
+-
+
+#org @NAME_IRON_CROWN
+-
+
+#org @NAME_PARADOX_TERRAKION
+-
+
 #org @NAME_TERAPAGOS
-Terapagos
+-
+
+#org @NAME_TERAPAGOS_FORM_2
+-
+
+#org @NAME_TERAPAGOS_FORM_3
+-
 
 #org @NAME_VENUSAUR_GIGA
 Venusaur

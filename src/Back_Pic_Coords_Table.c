@@ -6303,625 +6303,665 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SPRIGATITO]
+	[SPECIES_SPRIGATITO] =
 	{
 		.size = 0x0,
 		.y_offset = 0x7,
 	},
-	[SPECIES_FLORAGATO]
+	[SPECIES_FLORAGATO] =
 	{
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
-	[SPECIES_MEOWSCARADA]
+	[SPECIES_MEOWSCARADA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_FUECOCO]
+	[SPECIES_FUECOCO] =
 	{
 		.size = 0x0,
 		.y_offset = 0x7,
 	},
-	[SPECIES_CROCALOR]
+	[SPECIES_CROCALOR] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_SKELEDIRGE]
+	[SPECIES_SKELEDIRGE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x8,
 	},
-	[SPECIES_QUAXLY]
+	[SPECIES_QUAXLY] =
 	{
 		.size = 0x0,
 		.y_offset = 0x8,
 	},
-	[SPECIES_QUAXWELL]
+	[SPECIES_QUAXWELL] =
 	{
 		.size = 0x0,
 		.y_offset = 0x2,
 	},
-	[SPECIES_QUAQUAVAL]
+	[SPECIES_QUAQUAVAL] =
 	{
 		.size = 0x0,
 		.y_offset = 0x1,
 	},
-	[SPECIES_LECHONK]
+	[SPECIES_LECHONK] =
 	{
 		.size = 0x0,
 		.y_offset = 0xb,
 	},
-	[SPECIES_OINKOLOGNE]
+	[SPECIES_OINKOLOGNE] =
 	{
 		.size = 0x0,
 		.y_offset = 0xc,
 	},
-	[SPECIES_OINKOLOGNE_FEMALE]
+	[SPECIES_OINKOLOGNE_FEMALE] =
 	{
 		.size = 0x0,
 		.y_offset = 0xc,
 	},
-	[SPECIES_TAROUNTULA]
+	[SPECIES_TAROUNTULA] =
 	{
 		.size = 0x0,
 		.y_offset = 0xb,
 	},
-	[SPECIES_SPIDOPS]
+	[SPECIES_SPIDOPS] =
 	{
 		.size = 0x0,
 		.y_offset = 0xb,
 	},
-	[SPECIES_NYMBLE]
+	[SPECIES_NYMBLE] =
 	{
 		.size = 0x0,
 		.y_offset = 0xe,
 	},
-	[SPECIES_LOKIX]
+	[SPECIES_LOKIX] =
 	{
 		.size = 0x0,
 		.y_offset = 0x7,
 	},
-	[SPECIES_PAWMI]
+	[SPECIES_PAWMI] =
 	{
 		.size = 0x0,
 		.y_offset = 0xe,
 	},
-	[SPECIES_PAWMO]
+	[SPECIES_PAWMO] =
 	{
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
-	[SPECIES_PAWMOT]
+	[SPECIES_PAWMOT] =
 	{
 		.size = 0x0,
 		.y_offset = 0x6,
 	},
-	[SPECIES_TANDEMAUS]
+	[SPECIES_TANDEMAUS] =
 	{
 		.size = 0x0,
 		.y_offset = 0xf,
 	},
-	[SPECIES_MAUSHOLD]
+	[SPECIES_MAUSHOLD] =
 	{
 		.size = 0x0,
 		.y_offset = 0xf,
 	},
-	[SPECIES_MAUSHOLD_FOUR]
+	[SPECIES_MAUSHOLD_FOUR] =
 	{
 		.size = 0x0,
 		.y_offset = 0xf,
 	},
-	[SPECIES_FIDOUGH]
+	[SPECIES_FIDOUGH] =
 	{
 		.size = 0x0,
 		.y_offset = 0x14,
 	},
-	[SPECIES_DACHSBUN]
+	[SPECIES_DACHSBUN] =
 	{
 		.size = 0x0,
 		.y_offset = 0x11,
 	},
-	[SPECIES_SMOLIV]
+	[SPECIES_SMOLIV] =
 	{
 		.size = 0x0,
 		.y_offset = 0xd,
 	},
-	[SPECIES_DOLLIV]
+	[SPECIES_DOLLIV] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_ARBOLIVA]
+	[SPECIES_ARBOLIVA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x2,
 	},
-	[SPECIES_SQUAWKABILLY]
+	[SPECIES_SQUAWKABILLY] =
 	{
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
-	[SPECIES_SQUAWKABILLY_BLUE]
+	[SPECIES_SQUAWKABILLY_BLUE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
-	[SPECIES_SQUAWKABILLY_YELLOW]
+	[SPECIES_SQUAWKABILLY_YELLOW] =
 	{
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
-	[SPECIES_SQUAWKABILLY_WHITE]
+	[SPECIES_SQUAWKABILLY_WHITE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
-	[SPECIES_NACLI]
+	[SPECIES_NACLI] =
 	{
 		.size = 0x0,
 		.y_offset = 0xa,
 	},
-	[SPECIES_NACLSTACK]
+	[SPECIES_NACLSTACK] =
 	{
 		.size = 0x0,
 		.y_offset = 0x10,
 	},
-	[SPECIES_GARGANACL]
+	[SPECIES_GARGANACL] =
 	{
 		.size = 0x0,
 		.y_offset = 0xe,
 	},
-	[SPECIES_CHARCADET]
+	[SPECIES_CHARCADET] =
 	{
 		.size = 0x0,
 		.y_offset = 0x3,
 	},
-	[SPECIES_ARMAROUGE]
+	[SPECIES_ARMAROUGE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_CERULEDGE]
+	[SPECIES_CERULEDGE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_TADBULB]
+	[SPECIES_TADBULB] =
 	{
 		.size = 0x0,
 		.y_offset = 0x8,
 	},
-	[SPECIES_BELLIBOLT]
+	[SPECIES_BELLIBOLT] =
 	{
 		.size = 0x0,
 		.y_offset = 0x6,
 	},
-	[SPECIES_WATTREL]
+	[SPECIES_WATTREL] =
 	{
 		.size = 0x0,
 		.y_offset = 0xe,
 	},
-	[SPECIES_KILOWATTREL]
+	[SPECIES_KILOWATTREL] =
 	{
 		.size = 0x0,
 		.y_offset = 0x7,
 	},
-	[SPECIES_MASCHIFF]
+	[SPECIES_MASCHIFF] =
 	{
 		.size = 0x0,
 		.y_offset = 0x13,
 	},
-	[SPECIES_MABOSSTIFF]
+	[SPECIES_MABOSSTIFF] =
 	{
 		.size = 0x0,
 		.y_offset = 0x15,
 	},
-	[SPECIES_SHROODLE]
+	[SPECIES_SHROODLE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x10,
 	},
-	[SPECIES_GRAFAIAI]
+	[SPECIES_GRAFAIAI] =
 	{
 		.size = 0x0,
 		.y_offset = 0xc,
 	},
-	[SPECIES_BRAMBLIN]
+	[SPECIES_BRAMBLIN] =
 	{
 		.size = 0x0,
 		.y_offset = 0xa,
 	},
-	[SPECIES_BRAMBLEGHAST]
+	[SPECIES_BRAMBLEGHAST] =
 	{
 		.size = 0x0,
 		.y_offset = 0x8,
 	},
-	[SPECIES_TOEDSCOOL]
+	[SPECIES_TOEDSCOOL] =
 	{
 		.size = 0x0,
 		.y_offset = 0x8,
 	},
-	[SPECIES_TOEDSCRUEL]
+	[SPECIES_TOEDSCRUEL] =
 	{
 		.size = 0x0,
 		.y_offset = 0xb,
 	},
-	[SPECIES_KLAWF]
+	[SPECIES_KLAWF] =
 	{
 		.size = 0x0,
 		.y_offset = 0x14,
 	},
-	[SPECIES_CAPSAKID]
+	[SPECIES_CAPSAKID] =
 	{
 		.size = 0x0,
 		.y_offset = 0xc,
 	},
-	[SPECIES_SCOVILLAIN]
+	[SPECIES_SCOVILLAIN] =
 	{
 		.size = 0x0,
 		.y_offset = 0xe,
 	},
-	[SPECIES_RELLOR]
+	[SPECIES_RELLOR] =
 	{
 		.size = 0x0,
 		.y_offset = 0xf,
 	},
-	[SPECIES_RABSCA]
+	[SPECIES_RABSCA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_FLITTLE]
+	[SPECIES_FLITTLE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x2,
 	},
-	[SPECIES_ESPATHRA]
+	[SPECIES_ESPATHRA] =
 	{
 		.size = 0x0,
 		.y_offset = 0x5,
 	},
-	[SPECIES_TINKATINK]
+	[SPECIES_TINKATINK] =
 	{
 		.size = 0x0,
 		.y_offset = 0xc,
 	},
-	[SPECIES_TINKATUFF]
+	[SPECIES_TINKATUFF] =
 	{
 		.size = 0x0,
 		.y_offset = 0x2,
 	},
-	[SPECIES_TINKATON]
+	[SPECIES_TINKATON] =
 	{
 		.size = 0x0,
 		.y_offset = 0xf,
 	},
-	[SPECIES_WIGLETT]
+	[SPECIES_WIGLETT] =
 	{
 		.size = 0x0,
 		.y_offset = 0xe,
 	},
-	[SPECIES_WUGTRIO]
+	[SPECIES_WUGTRIO] =
 	{
 		.size = 0x0,
 		.y_offset = 0xb,
 	},
-	[SPECIES_BOMBIRDIER]
+	[SPECIES_BOMBIRDIER] =
 	{
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
-	[SPECIES_FINIZEN]
+	[SPECIES_FINIZEN] =
 	{
 		.size = 0x0,
 		.y_offset = 0xf,
 	},
-	[SPECIES_PALAFIN]
+	[SPECIES_PALAFIN] =
 	{
 		.size = 0x0,
 		.y_offset = 0xf,
 	},
-	[SPECIES_PALAFIN_HERO]
+	[SPECIES_PALAFIN_HERO] =
 	{
 		.size = 0x0,
 		.y_offset = 0x1,
 	},
-	[SPECIES_VAROOM]
+	[SPECIES_VAROOM] =
 	{
 		.size = 0x0,
 		.y_offset = 0xd,
 	},
-	[SPECIES_REVAVROOM]
+	[SPECIES_REVAVROOM] =
 	{
 		.size = 0x0,
 		.y_offset = 0x10,
 	},
-	[SPECIES_CYCLIZAR]
+	[SPECIES_CYCLIZAR] =
 	{
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
-	[SPECIES_ORTHWORM]
+	[SPECIES_ORTHWORM] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_GLIMMET]
+	[SPECIES_GLIMMET] =
 	{
 		.size = 0x0,
 		.y_offset = 0xe,
 	},
-	[SPECIES_GLIMMORA]
+	[SPECIES_GLIMMORA] =
 	{
 		.size = 0x0,
 		.y_offset = 0xb,
 	},
-	[SPECIES_GREAVARD]
+	[SPECIES_GREAVARD] =
 	{
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
-	[SPECIES_HOUNDSTONE]
+	[SPECIES_HOUNDSTONE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x7,
 	},
-	[SPECIES_FLAMIGO]
+	[SPECIES_FLAMIGO] =
 	{
 		.size = 0x0,
 		.y_offset = 0x3,
 	},
-	[SPECIES_CETODDLE]
+	[SPECIES_CETODDLE] =
 	{
 		.size = 0x0,
 		.y_offset = 0xc,
 	},
-	[SPECIES_CETITAN]
+	[SPECIES_CETITAN] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_VELUZA]
+	[SPECIES_VELUZA] =
 	{
 		.size = 0x0,
 		.y_offset = 0xe,
 	},
-	[SPECIES_DONDOZO]
+	[SPECIES_DONDOZO] =
 	{
 		.size = 0x0,
 		.y_offset = 0xb,
 	},
-	[SPECIES_TATSUGIRI]
+	[SPECIES_TATSUGIRI] =
 	{
 		.size = 0x0,
 		.y_offset = 0x11,
 	},
-	[SPECIES_TATSUGIRI_RED]
+	[SPECIES_TATSUGIRI_RED] =
 	{
 		.size = 0x0,
 		.y_offset = 0x11,
 	},
-	[SPECIES_TATSUGIRI_YELLOW]
+	[SPECIES_TATSUGIRI_YELLOW] =
 	{
 		.size = 0x0,
 		.y_offset = 0x11,
 	},
-	[SPECIES_FRIGIBAX]
+	[SPECIES_FRIGIBAX] =
 	{
 		.size = 0x0,
 		.y_offset = 0xd,
 	},
-	[SPECIES_ARCTIBAX]
+	[SPECIES_ARCTIBAX] =
 	{
 		.size = 0x0,
 		.y_offset = 0x8,
 	},
-	[SPECIES_BAXCALIBUR]
+	[SPECIES_BAXCALIBUR] =
 	{
 		.size = 0x0,
 		.y_offset = 0x5,
 	},
-	[SPECIES_GIMMIGHOUL]
+	[SPECIES_GIMMIGHOUL] =
 	{
 		.size = 0x0,
 		.y_offset = 0xf,
 	},
-	[SPECIES_GIMMIGHOUL_ROAMING]
+	[SPECIES_GIMMIGHOUL_ROAMING] =
 	{
 		.size = 0x0,
 		.y_offset = 0xc,
 	},
-	[SPECIES_GHOLDENGO]
+	[SPECIES_GHOLDENGO] =
 	{
 		.size = 0x0,
 		.y_offset = 0x1,
 	},
-	[SPECIES_CLODSIRE]
+	[SPECIES_CLODSIRE] =
 	{
 		.size = 0x0,
 		.y_offset = 0xf,
 	},
-	[SPECIES_ANNIHILAPE]
+	[SPECIES_ANNIHILAPE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x1,
 	},
-	[SPECIES_DUDUNSPARCE]
+	[SPECIES_DUDUNSPARCE] =
 	{
 		.size = 0x0,
 		.y_offset = 0xb,
 	},
-	[SPECIES_DUDUNSPARCE_THREE]
+	[SPECIES_DUDUNSPARCE_THREE] =
 	{
 		.size = 0x0,
 		.y_offset = 0xb,
 	},
-	[SPECIES_FARIGIRAF]
+	[SPECIES_FARIGIRAF] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_KINGAMBIT]
+	[SPECIES_KINGAMBIT] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_GREAT_TUSK]
+	[SPECIES_GREAT_TUSK] =
 	{
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_SCREAM_TAIL]
+	[SPECIES_SCREAM_TAIL] =
 	{
 		.size = 0x0,
 		.y_offset = 0x1,
 	},
-	[SPECIES_BRUTE_BONNET]
+	[SPECIES_BRUTE_BONNET] =
 	{
 		.size = 0x0,
 		.y_offset = 0xc,
 	},
-	[SPECIES_FLUTTER_MANE]
+	[SPECIES_FLUTTER_MANE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x7,
 	},
-	[SPECIES_SLITHER_WING]
+	[SPECIES_SLITHER_WING] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_SANDY_SHOCKS]
+	[SPECIES_SANDY_SHOCKS] =
 	{
 		.size = 0x0,
 		.y_offset = 0x2,
 	},
-	[SPECIES_ROARING_MOON]
+	[SPECIES_ROARING_MOON] =
 	{
 		.size = 0x0,
 		.y_offset = 0x7,
 	},
-	[SPECIES_IRON_TREADS]
+	[SPECIES_IRON_TREADS] =
 	{
 		.size = 0x0,
 		.y_offset = 0x5,
 	},
-	[SPECIES_IRON_BUNDLE]
+	[SPECIES_IRON_BUNDLE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x6,
 	},
-	[SPECIES_IRON_HANDS]
+	[SPECIES_IRON_HANDS] =
 	{
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
-	[SPECIES_IRON_JUGULIS]
+	[SPECIES_IRON_JUGULIS] =
 	{
 		.size = 0x0,
 		.y_offset = 0xb,
 	},
-	[SPECIES_IRON_MOTH]
+	[SPECIES_IRON_MOTH] =
 	{
 		.size = 0x0,
 		.y_offset = 0x2,
 	},
-	[SPECIES_IRON_THORNS]
+	[SPECIES_IRON_THORNS] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_IRON_VALIANT]
+	[SPECIES_IRON_VALIANT] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-        [SPECIES_WALKING_WAKE]
+	[SPECIES_WALKING_WAKE] =
 	{
 		.size = 0x0,
 		.y_offset = 0x3,
 	},
-        [SPECIES_IRON_LEAVES]
+	[SPECIES_IRON_LEAVES] =
 	{
 		.size = 0x0,
 		.y_offset = 0x8,
 	},
-	[SPECIES_TING_LU]
+	[SPECIES_TING_LU] =
 	{
 		.size = 0x0,
 		.y_offset = 0x6,
 	},
-	[SPECIES_CHIEN_PAO]
+	[SPECIES_CHIEN_PAO] =
 	{
 		.size = 0x0,
 		.y_offset = 0x5,
 	},
-	[SPECIES_WO_CHIEN]
+	[SPECIES_WO_CHIEN] =
 	{
 		.size = 0x0,
 		.y_offset = 0x3,
 	},
-	[SPECIES_CHI_YU]
+	[SPECIES_CHI_YU] =
 	{
 		.size = 0x0,
 		.y_offset = 0x11,
 	},
-	[SPECIES_KORAIDON]
+	[SPECIES_KORAIDON] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-	[SPECIES_MIRAIDON]
+	[SPECIES_MIRAIDON] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-        [SPECIES_TERAPAGOS]
+	[SPECIES_TAUROS_P] =
 	{
 		.size = 0x0,
-		.y_offset = 0x10,
+		.y_offset = 0xd,
 	},
-        [SPECIES_OGERPON]
+	[SPECIES_TAUROS_BLAZE_P] =
 	{
 		.size = 0x0,
-		.y_offset = 0x10,
-        },
-        [SPECIES_MONKIDORI]
+		.y_offset = 0xd,
+	},
+	[SPECIES_TAUROS_AQUA_P] =
+	{
+		.size = 0x0,
+		.y_offset = 0xd,
+	},
+	[SPECIES_WOOPER_P] =
+	{
+		.size = 0x0,
+		.y_offset = 0xc,
+	},
+	[SPECIES_URSALUNA_BLOODMOON] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
-        [SPECIES_OKIDOGI]
+	[SPECIES_DIPPLIN] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_POLTCHAGEIST] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_POLTCHAGEIST_ARTISAN] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SINISTCHA] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SINISTCHA_MASTERPIECE] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_OKIDOGI] =
 	{
 		.size = 0x0,
 		.y_offset = 0x5,
 	},
-        [SPECIES_FEZANDIPITI]
+	[SPECIES_MUNKIDORI] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_FEZANDIPITI] =
 	{
 		.size = 0x0,
 		.y_offset = 0x6,
 	},
-	[SPECIES_TAUROS_P]
+	[SPECIES_OGERPON] =
 	{
 		.size = 0x0,
-		.y_offset = 0xd,
+		.y_offset = 16,
 	},
-	[SPECIES_TAUROS_BLAZE_P]
+	[SPECIES_OGERPON_WELLSPRING_MASK] =
 	{
 		.size = 0x0,
-		.y_offset = 0xd,
+		.y_offset = 0x0,
 	},
-	[SPECIES_TAUROS_AQUA_P]
+	[SPECIES_OGERPON_HEARTHFLAME_MASK] =
 	{
 		.size = 0x0,
-		.y_offset = 0xd,
+		.y_offset = 0x0,
 	},
-	[SPECIES_WOOPER_P]
+	[SPECIES_OGERPON_CORNERSTONE_MASK] =
 	{
 		.size = 0x0,
-		.y_offset = 0xc,
+		.y_offset = 0x0,
 	},
 	//New Species Go Here
 
