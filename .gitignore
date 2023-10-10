@@ -12,3 +12,4 @@ scripts/__pycache__
 offsets.ini
 generatedrepoints
 *.idea
+*.vscode
