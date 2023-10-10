@@ -1144,6 +1144,8 @@ const u16 gWatersEdgePage20[] =
 
 const u16 gWatersEdgePage21[] =
 {
+	SPECIES_CROAGUNK,
+	SPECIES_TOXICROAK,
 	SPECIES_FINNEON,
 	SPECIES_LUMINEON,
 };
@@ -1882,8 +1884,6 @@ const u16 gMountainPage21[] =
 {
 	SPECIES_RIOLU,
 	SPECIES_LUCARIO,
-	SPECIES_CROAGUNK,
-	SPECIES_TOXICROAK,
 };
 
 const u16 gMountainPage22[] =
