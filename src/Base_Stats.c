@@ -1294,7 +1294,7 @@ const struct BaseStats gBaseStats[] =
 		.ability1 = ABILITY_CUTECHARM,
 		.ability2 = ABILITY_COMPETITIVE,
 		.safariZoneFleeRate = 0,
-		.hiddenAbility = ABILITY_FRISK,
+		.hiddenAbility = ABILITY_HUGEPOWER,
 		.noFlip = TRUE,
 	},
 

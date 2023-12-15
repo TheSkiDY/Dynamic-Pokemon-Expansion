@@ -7,7 +7,7 @@ import sys
 from datetime import datetime
 import _io
 
-OFFSET_TO_PUT = 0x15fa100
+OFFSET_TO_PUT = 0x15fabe0
 SOURCE_ROM = "Pokemon Unbound.gba"
 ROM_NAME = "test.gba"
 
@@ -286,7 +286,8 @@ def main():
         sys.exit(1)
 
     with open(ROM_NAME, 'rb+') as rom:
-        print("Inserting code.")
+        
+        print(f"Inserting code from {hex(OFFSET_TO_PUT).upper().replace('X', 'x')} - {hex(OFFSET_TO_PUT + os.path.getsize(OUTPUT)).upper().replace('X', 'x')}.")
         table = GetSymbols(GetTextSection())
         rom.seek(OFFSET_TO_PUT)
         with open(OUTPUT, 'rb') as binary:
