@@ -1395,6 +1395,16 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_OGERPON_WELLSPRING_MASK] =gIconSprite1389OgerponWellspringMaskTiles,
 	[SPECIES_OGERPON_HEARTHFLAME_MASK] =gIconSprite1390OgerponHearthflameMaskTiles,
 	[SPECIES_OGERPON_CORNERSTONE_MASK] =gIconSprite1391OgerponCornerstoneMaskTiles,
+	[SPECIES_ARCHALUDON] =           gIconSprite1392ArchaludonTiles,
+	[SPECIES_HYDRAPPLE] =            gIconSprite1393HydrappleTiles,
+	[SPECIES_GOUGING_FIRE] =         gIconSprite1394GougingFireTiles,
+	[SPECIES_RAGING_BOLT] =          gIconSprite1395RagingBoltTiles,
+	[SPECIES_IRON_BOULDER] =         gIconSprite1396IronBoulderTiles,
+	[SPECIES_IRON_CROWN] =           gIconSprite1397IronCrownTiles,
+	[SPECIES_TERAPAGOS] =            gIconSprite1398TerapagosTiles,
+	[SPECIES_TERAPAGOS_TERASTAL] =   gIconSprite1399TerapagosTerastalTiles,
+	[SPECIES_TERAPAGOS_STELLAR] =    gIconSprite1400TerapagosStellarTiles,
+	[SPECIES_PECHARUNT] =            gIconSprite1401PecharuntTiles,
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        gIconSpriteGigaVenusaurTiles,

@@ -1398,6 +1398,16 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_OGERPON_WELLSPRING_MASK] = {gFrontSprite1389OgerponWellspringMaskPal, SPECIES_OGERPON_WELLSPRING_MASK, 0x0},
 	[SPECIES_OGERPON_HEARTHFLAME_MASK] = {gFrontSprite1390OgerponHearthflameMaskPal, SPECIES_OGERPON_HEARTHFLAME_MASK, 0x0},
 	[SPECIES_OGERPON_CORNERSTONE_MASK] = {gFrontSprite1391OgerponCornerstoneMaskPal, SPECIES_OGERPON_CORNERSTONE_MASK, 0x0},
+	[SPECIES_ARCHALUDON] =           {gFrontSprite1392ArchaludonPal, SPECIES_ARCHALUDON, 0x0},
+	[SPECIES_HYDRAPPLE] =            {gFrontSprite1393HydrapplePal, SPECIES_HYDRAPPLE, 0x0},
+	[SPECIES_GOUGING_FIRE] =         {gFrontSprite1394GougingFirePal, SPECIES_GOUGING_FIRE, 0x0},
+	[SPECIES_RAGING_BOLT] =          {gFrontSprite1395RagingBoltPal, SPECIES_RAGING_BOLT, 0x0},
+	[SPECIES_IRON_BOULDER] =         {gFrontSprite1396IronBoulderPal, SPECIES_IRON_BOULDER, 0x0},
+	[SPECIES_IRON_CROWN] =           {gFrontSprite1397IronCrownPal, SPECIES_IRON_CROWN, 0x0},
+	[SPECIES_TERAPAGOS] =            {gFrontSprite1398TerapagosPal, SPECIES_TERAPAGOS, 0x0},
+	[SPECIES_TERAPAGOS_TERASTAL] =   {gFrontSprite1399TerapagosTerastalPal, SPECIES_TERAPAGOS_TERASTAL, 0x0},
+	[SPECIES_TERAPAGOS_STELLAR] =    {gFrontSprite1400TerapagosStellarPal, SPECIES_TERAPAGOS_STELLAR, 0x0},
+	[SPECIES_PECHARUNT] =            {gFrontSprite1401PecharuntPal, SPECIES_PECHARUNT, 0x0},
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurPal, SPECIES_VENUSAUR_GIGA, 0x0},

@@ -1366,6 +1366,16 @@ extern const u8 gFrontSprite1388OgerponTiles[];
 extern const u8 gFrontSprite1389OgerponWellspringMaskTiles[];
 extern const u8 gFrontSprite1390OgerponHearthflameMaskTiles[];
 extern const u8 gFrontSprite1391OgerponCornerstoneMaskTiles[];
+extern const u8 gFrontSprite1392ArchaludonTiles[];
+extern const u8 gFrontSprite1393HydrappleTiles[];
+extern const u8 gFrontSprite1394GougingFireTiles[];
+extern const u8 gFrontSprite1395RagingBoltTiles[];
+extern const u8 gFrontSprite1396IronBoulderTiles[];
+extern const u8 gFrontSprite1397IronCrownTiles[];
+extern const u8 gFrontSprite1398TerapagosTiles[];
+extern const u8 gFrontSprite1399TerapagosTerastalTiles[];
+extern const u8 gFrontSprite1400TerapagosStellarTiles[];
+extern const u8 gFrontSprite1401PecharuntTiles[];
 extern const u8 gFrontSpriteGigaVenusaurTiles[];
 extern const u8 gFrontSpriteGigaCharizardTiles[];
 extern const u8 gFrontSpriteGigaBlastoiseTiles[];
@@ -2767,6 +2777,16 @@ extern const u8 gBackShinySprite1388OgerponTiles[];
 extern const u8 gBackShinySprite1389OgerponWellspringMaskTiles[];
 extern const u8 gBackShinySprite1390OgerponHearthflameMaskTiles[];
 extern const u8 gBackShinySprite1391OgerponCornerstoneMaskTiles[];
+extern const u8 gBackShinySprite1392ArchaludonTiles[];
+extern const u8 gBackShinySprite1393HydrappleTiles[];
+extern const u8 gBackShinySprite1394GougingFireTiles[];
+extern const u8 gBackShinySprite1395RagingBoltTiles[];
+extern const u8 gBackShinySprite1396IronBoulderTiles[];
+extern const u8 gBackShinySprite1397IronCrownTiles[];
+extern const u8 gBackShinySprite1398TerapagosTiles[];
+extern const u8 gBackShinySprite1399TerapagosTerastalTiles[];
+extern const u8 gBackShinySprite1400TerapagosStellarTiles[];
+extern const u8 gBackShinySprite1401PecharuntTiles[];
 extern const u8 gBackShinySpriteGigaVenusaurTiles[];
 extern const u8 gBackShinySpriteGigaCharizardTiles[];
 extern const u8 gBackShinySpriteGigaBlastoiseTiles[];
@@ -4172,6 +4192,16 @@ extern const u8 gFrontSprite1388OgerponPal[];
 extern const u8 gFrontSprite1389OgerponWellspringMaskPal[];
 extern const u8 gFrontSprite1390OgerponHearthflameMaskPal[];
 extern const u8 gFrontSprite1391OgerponCornerstoneMaskPal[];
+extern const u8 gFrontSprite1392ArchaludonPal[];
+extern const u8 gFrontSprite1393HydrapplePal[];
+extern const u8 gFrontSprite1394GougingFirePal[];
+extern const u8 gFrontSprite1395RagingBoltPal[];
+extern const u8 gFrontSprite1396IronBoulderPal[];
+extern const u8 gFrontSprite1397IronCrownPal[];
+extern const u8 gFrontSprite1398TerapagosPal[];
+extern const u8 gFrontSprite1399TerapagosTerastalPal[];
+extern const u8 gFrontSprite1400TerapagosStellarPal[];
+extern const u8 gFrontSprite1401PecharuntPal[];
 extern const u8 gFrontSpriteGigaVenusaurPal[];
 extern const u8 gFrontSpriteGigaCharizardPal[];
 extern const u8 gFrontSpriteGigaBlastoisePal[];
@@ -5573,6 +5603,16 @@ extern const u8 gBackShinySprite1388OgerponPal[];
 extern const u8 gBackShinySprite1389OgerponWellspringMaskPal[];
 extern const u8 gBackShinySprite1390OgerponHearthflameMaskPal[];
 extern const u8 gBackShinySprite1391OgerponCornerstoneMaskPal[];
+extern const u8 gBackShinySprite1392ArchaludonPal[];
+extern const u8 gBackShinySprite1393HydrapplePal[];
+extern const u8 gBackShinySprite1394GougingFirePal[];
+extern const u8 gBackShinySprite1395RagingBoltPal[];
+extern const u8 gBackShinySprite1396IronBoulderPal[];
+extern const u8 gBackShinySprite1397IronCrownPal[];
+extern const u8 gBackShinySprite1398TerapagosPal[];
+extern const u8 gBackShinySprite1399TerapagosTerastalPal[];
+extern const u8 gBackShinySprite1400TerapagosStellarPal[];
+extern const u8 gBackShinySprite1401PecharuntPal[];
 extern const u8 gBackShinySpriteGigaVenusaurPal[];
 extern const u8 gBackShinySpriteGigaCharizardPal[];
 extern const u8 gBackShinySpriteGigaBlastoisePal[];
@@ -6978,6 +7018,16 @@ extern const u8 gIconSprite1388OgerponTiles[];
 extern const u8 gIconSprite1389OgerponWellspringMaskTiles[];
 extern const u8 gIconSprite1390OgerponHearthflameMaskTiles[];
 extern const u8 gIconSprite1391OgerponCornerstoneMaskTiles[];
+extern const u8 gIconSprite1392ArchaludonTiles[];
+extern const u8 gIconSprite1393HydrappleTiles[];
+extern const u8 gIconSprite1394GougingFireTiles[];
+extern const u8 gIconSprite1395RagingBoltTiles[];
+extern const u8 gIconSprite1396IronBoulderTiles[];
+extern const u8 gIconSprite1397IronCrownTiles[];
+extern const u8 gIconSprite1398TerapagosTiles[];
+extern const u8 gIconSprite1399TerapagosTerastalTiles[];
+extern const u8 gIconSprite1400TerapagosStellarTiles[];
+extern const u8 gIconSprite1401PecharuntTiles[];
 extern const u8 gIconSpriteGigaVenusaurTiles[];
 extern const u8 gIconSpriteGigaCharizardTiles[];
 extern const u8 gIconSpriteGigaBlastoiseTiles[];
@@ -7021,21 +7071,74 @@ extern const u8 gIconSprite252Tiles[];
 #define gFrontSprite1389OgerponWellspringMaskTiles gFrontSprite000NoneTiles
 #define gFrontSprite1390OgerponHearthflameMaskTiles gFrontSprite000NoneTiles
 #define gFrontSprite1391OgerponCornerstoneMaskTiles gFrontSprite000NoneTiles
+#define gFrontSprite1392ArchaludonTiles gFrontSprite000NoneTiles
+#define gFrontSprite1393HydrappleTiles gFrontSprite000NoneTiles
+#define gFrontSprite1394GougingFireTiles gFrontSprite000NoneTiles
+#define gFrontSprite1395RagingBoltTiles gFrontSprite000NoneTiles
+#define gFrontSprite1396IronBoulderTiles gFrontSprite000NoneTiles
+#define gFrontSprite1397IronCrownTiles gFrontSprite000NoneTiles
+#define gFrontSprite1398TerapagosTiles gFrontSprite000NoneTiles
+#define gFrontSprite1399TerapagosTerastalTiles gFrontSprite000NoneTiles
+#define gFrontSprite1400TerapagosStellarTiles gFrontSprite000NoneTiles
+#define gFrontSprite1401PecharuntTiles gFrontSprite000NoneTiles
 
 #define gBackShinySprite1382PoltchageistArtisanTiles gBackShinySprite000NoneTiles
 #define gBackShinySprite1384SinistchaMasterpieceTiles gBackShinySprite000NoneTiles
 #define gBackShinySprite1389OgerponWellspringMaskTiles gBackShinySprite000NoneTiles
 #define gBackShinySprite1390OgerponHearthflameMaskTiles gBackShinySprite000NoneTiles
 #define gBackShinySprite1391OgerponCornerstoneMaskTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1392ArchaludonTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1393HydrappleTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1394GougingFireTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1395RagingBoltTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1396IronBoulderTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1397IronCrownTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1398TerapagosTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1399TerapagosTerastalTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1400TerapagosStellarTiles gBackShinySprite000NoneTiles
+#define gBackShinySprite1401PecharuntTiles gBackShinySprite000NoneTiles
 
 #define gFrontSprite1382PoltchageistArtisanPal gFrontSprite000NonePal
 #define gFrontSprite1384SinistchaMasterpiecePal gFrontSprite000NonePal
 #define gFrontSprite1389OgerponWellspringMaskPal gFrontSprite000NonePal
 #define gFrontSprite1390OgerponHearthflameMaskPal gFrontSprite000NonePal
 #define gFrontSprite1391OgerponCornerstoneMaskPal gFrontSprite000NonePal
+#define gFrontSprite1392ArchaludonPal gFrontSprite000NonePal
+#define gFrontSprite1393HydrapplePal gFrontSprite000NonePal
+#define gFrontSprite1394GougingFirePal gFrontSprite000NonePal
+#define gFrontSprite1395RagingBoltPal gFrontSprite000NonePal
+#define gFrontSprite1396IronBoulderPal gFrontSprite000NonePal
+#define gFrontSprite1397IronCrownPal gFrontSprite000NonePal
+#define gFrontSprite1398TerapagosPal gFrontSprite000NonePal
+#define gFrontSprite1399TerapagosTerastalPal gFrontSprite000NonePal
+#define gFrontSprite1400TerapagosStellarPal gFrontSprite000NonePal
+#define gFrontSprite1401PecharuntPal gFrontSprite000NonePal
 
 #define gBackShinySprite1382PoltchageistArtisanPal gBackShinySprite000NonePal
 #define gBackShinySprite1384SinistchaMasterpiecePal gBackShinySprite000NonePal
 #define gBackShinySprite1389OgerponWellspringMaskPal gBackShinySprite000NonePal
 #define gBackShinySprite1390OgerponHearthflameMaskPal gBackShinySprite000NonePal
 #define gBackShinySprite1391OgerponCornerstoneMaskPal gBackShinySprite000NonePal
+#define gBackShinySprite1392ArchaludonPal gBackShinySprite000NonePal
+#define gBackShinySprite1393HydrapplePal gBackShinySprite000NonePal
+#define gBackShinySprite1394GougingFirePal gBackShinySprite000NonePal
+#define gBackShinySprite1395RagingBoltPal gBackShinySprite000NonePal
+#define gBackShinySprite1396IronBoulderPal gBackShinySprite000NonePal
+#define gBackShinySprite1397IronCrownPal gBackShinySprite000NonePal
+#define gBackShinySprite1398TerapagosPal gBackShinySprite000NonePal
+#define gBackShinySprite1399TerapagosTerastalPal gBackShinySprite000NonePal
+#define gBackShinySprite1400TerapagosStellarPal gBackShinySprite000NonePal
+#define gBackShinySprite1401PecharuntPal gBackShinySprite000NonePal
+
+#define gIconSprite1382PoltchageistArtisanTiles gIconSprite1381PoltchageistTiles
+#define gIconSprite1384SinistchaMasterpieceTiles gIconSprite1383SinistchaTiles
+#define gIconSprite1392ArchaludonTiles gIconSprite000NoneTiles
+#define gIconSprite1393HydrappleTiles gIconSprite000NoneTiles
+#define gIconSprite1394GougingFireTiles gIconSprite000NoneTiles
+#define gIconSprite1395RagingBoltTiles gIconSprite000NoneTiles
+#define gIconSprite1396IronBoulderTiles gIconSprite000NoneTiles
+#define gIconSprite1397IronCrownTiles gIconSprite000NoneTiles
+#define gIconSprite1398TerapagosTiles gIconSprite000NoneTiles
+#define gIconSprite1399TerapagosTerastalTiles gIconSprite000NoneTiles
+#define gIconSprite1400TerapagosStellarTiles gIconSprite000NoneTiles
+#define gIconSprite1401PecharuntTiles gIconSprite000NoneTiles

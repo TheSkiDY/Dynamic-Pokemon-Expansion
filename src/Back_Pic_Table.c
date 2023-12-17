@@ -1398,6 +1398,16 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_OGERPON_WELLSPRING_MASK] ={gBackShinySprite1389OgerponWellspringMaskTiles, (64 * 64) / 2, SPECIES_OGERPON_WELLSPRING_MASK},
 	[SPECIES_OGERPON_HEARTHFLAME_MASK] ={gBackShinySprite1390OgerponHearthflameMaskTiles, (64 * 64) / 2, SPECIES_OGERPON_HEARTHFLAME_MASK},
 	[SPECIES_OGERPON_CORNERSTONE_MASK] ={gBackShinySprite1391OgerponCornerstoneMaskTiles, (64 * 64) / 2, SPECIES_OGERPON_CORNERSTONE_MASK},
+	[SPECIES_ARCHALUDON] =           {gBackShinySprite1392ArchaludonTiles, (64 * 64) / 2, SPECIES_ARCHALUDON},
+	[SPECIES_HYDRAPPLE] =            {gBackShinySprite1393HydrappleTiles, (64 * 64) / 2, SPECIES_HYDRAPPLE},
+	[SPECIES_GOUGING_FIRE] =         {gBackShinySprite1394GougingFireTiles, (64 * 64) / 2, SPECIES_GOUGING_FIRE},
+	[SPECIES_RAGING_BOLT] =          {gBackShinySprite1395RagingBoltTiles, (64 * 64) / 2, SPECIES_RAGING_BOLT},
+	[SPECIES_IRON_BOULDER] =         {gBackShinySprite1396IronBoulderTiles, (64 * 64) / 2, SPECIES_IRON_BOULDER},
+	[SPECIES_IRON_CROWN] =           {gBackShinySprite1397IronCrownTiles, (64 * 64) / 2, SPECIES_IRON_CROWN},
+	[SPECIES_TERAPAGOS] =            {gBackShinySprite1398TerapagosTiles, (64 * 64) / 2, SPECIES_TERAPAGOS},
+	[SPECIES_TERAPAGOS_TERASTAL] =   {gBackShinySprite1399TerapagosTerastalTiles, (64 * 64) / 2, SPECIES_TERAPAGOS_TERASTAL},
+	[SPECIES_TERAPAGOS_STELLAR] =    {gBackShinySprite1400TerapagosStellarTiles, (64 * 64) / 2, SPECIES_TERAPAGOS_STELLAR},
+	[SPECIES_PECHARUNT] =            {gBackShinySprite1401PecharuntTiles, (64 * 64) / 2, SPECIES_PECHARUNT},
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        {gBackShinySpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_VENUSAUR_GIGA},

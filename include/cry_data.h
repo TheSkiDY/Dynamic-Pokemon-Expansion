@@ -679,6 +679,16 @@ extern u8 gCryOgerpon[];
 extern u8 gCryOgerponWellspringMask[];
 extern u8 gCryOgerponHearthflameMask[];
 extern u8 gCryOgerponCornerstoneMask[];
+extern u8 gCryArchaludon[];
+extern u8 gCryHydrapple[];
+extern u8 gCryGougingFire[];
+extern u8 gCryRagingBolt[];
+extern u8 gCryIronBoulder[];
+extern u8 gCryIronCrown[];
+extern u8 gCryTerapagos[];
+extern u8 gCryTerapagosTerastal[];
+extern u8 gCryTerapagosStellar[];
+extern u8 gCryPecharunt[];
 
 //Temp
 #define gCrySprigatito (u8*) gCryEspurr
@@ -810,3 +820,13 @@ extern u8 gCryOgerponCornerstoneMask[];
 #define gCryMunkidori (u8*) 0x850fbc4
 #define gCryFezandipiti (u8*) 0x850fbc4
 #define gCryOgerpon (u8*) 0x850fbc4
+#define gCryArchaludon (u8*) gCryDuraludon
+#define gCryHydrapple (u8*) gCryFlapple
+#define gCryGougingFire (u8*) 0x860ab74 //gCryEntei
+#define gCryRagingBolt (u8*) 0x8609a04 //gCryRaikou
+#define gCryIronBoulder (u8*) gCryTerrakion
+#define gCryIronCrown (u8*) gCryCobalion
+#define gCryTerapagos (u8*) 0x850fbc4
+#define gCryTerapagosTerastal (u8*) 0x850fbc4
+#define gCryTerapagosStellar (u8*) 0x850fbc4
+#define gCryPecharunt (u8*) 0x850fbc4
