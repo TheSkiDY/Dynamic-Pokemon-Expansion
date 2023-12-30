@@ -43,7 +43,7 @@ const u16 gTMHMMoves[NUM_TMSHMS] =
 	MOVE_BATONPASS,			//38
 	MOVE_ROCKTOMB,			//39
 	MOVE_AERIALACE,			//40
-	MOVE_OUTRAGE,			//41/////////////////////s
+	MOVE_OUTRAGE,			//41
 	MOVE_FACADE,			//42
 	MOVE_FLAMECHARGE,		//43
 	MOVE_REST,				//44

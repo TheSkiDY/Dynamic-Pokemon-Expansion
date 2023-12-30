@@ -358,35 +358,8 @@ u16 TryGetFemaleGenderedSpecies(u16 species, u32 personality)
 	else if (species == SPECIES_XERNEAS && !gMain.inBattle)
 		species = SPECIES_XERNEAS_NATURAL;
 	
-	if(species == SPECIES_VIVILLON)
-	{
-		u8 id = personality % 20; //gNumVivillonForms
-		switch(id)
-		{
-			case 0:
-				species = SPECIES_VIVILLON;
-				break;
-			case 1:
-				species = SPECIES_VIVILLON_FANCY;
-				break;
-			default:
-				species = SPECIES_VIVILLON_ARCHIPELAGO - 2 + id;
-				break;
-		}
-	}
-	else if(species == SPECIES_PIKACHU)
-	{
-		u8 id = personality % 16;
-		if(id == 0)
-			species = SPECIES_PIKACHU;
-		else
-			species = SPECIES_PIKACHU_SURFING - 1 + id;
-	}
-	else if(species == SPECIES_PICHU && personality % 2 > 0)
-	{
-		species = SPECIES_PICHU_SPIKY;
-	}
 	return species;
+
 }
 
 u16 GetIconSpecies(u16 species, u32 personality)

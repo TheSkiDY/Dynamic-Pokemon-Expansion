@@ -20,7 +20,7 @@
 //#define INCLUDE_FOOTPRINTS //If you uncomment this line, make sure to uncomment gMonFootprintTable in "repoints", and remove the footprint remover in "bytereplacement"
 
 #define NUM_TMSHMS 128
-#define NUM_MOVE_TUTOR_MOVES 128
+#define NUM_MOVE_TUTOR_MOVES 144
 
 struct ListMenu;
 
