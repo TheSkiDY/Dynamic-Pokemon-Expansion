@@ -103,3 +103,5 @@ enum
 #define MON_MALE       0x00
 #define MON_FEMALE     0xFE
 #define MON_GENDERLESS 0xFF
+
+#define STANDARD_FRIENDSHIP 50

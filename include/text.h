@@ -7,9 +7,33 @@
 #define _SPACE 0x0
 #define _NEWLINE 0xFE
 
+// Digits
+#define _0 0xA1
+#define _1 0xA2
+#define _2 0xA3
+#define _3 0xA4
+#define _4 0xA5
+#define _5 0xA6
+#define _6 0xA7
+#define _7 0xA8
+#define _8 0xA9
+#define _9 0xAA
+
 //  Punctutation
 #define _EXCLAMATION 0xAB
+#define _QUESTION 0xAC
+#define _PERIOD 0xAD
+#define _HYPHEN 0xAE
+#define _BULLET 0xAF
+#define _ELLPSIS 0xB0
 #define _APOSTROPHE 0xB4
+#define _MALE 0xB5
+#define _FEMALE 0xB6
+#define _CURRENCY 0xB7
+#define _COMMA 0xB8
+#define _MULT 0xB9
+#define _SLASH 0xBA
+
 
 // Uppercase
 #define _A 0xBB
